@@ -1,0 +1,3 @@
+
+def findWordPosition(word, text):
+    
