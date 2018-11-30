@@ -1,0 +1,369 @@
+id,label
+sede,sede
+máximo,máximo
+zebuínas,zebuínas
+bezerra,bezerra
+decumbens,decumbens
+espécies,espécies
+brizantha,brizantha
+concentração,concentração
+leguminosa,leguminosa
+minerais,minerais
+novilha,novilha
+animais,animais
+cobre,cobre
+inseminador,inseminador
+mamadeira,mamadeira
+parte,parte
+mamária,mamária
+sementes,sementes
+seca,seca
+bovina,bovina
+desmama,desmama
+concentrado,concentrado
+monta,monta
+ordenhador,ordenhador
+nutrientes,nutrientes
+parasitária,parasitária
+obesa,obesa
+colhedeira,colhedeira
+fêmea,fêmea
+alta,alta
+perda,perda
+salobra,salobra
+obeso,obeso
+mocha,mocha
+aveia,aveia
+humidicola,humidicola
+aminoácido,aminoácido
+parto,parto
+instalações,instalações
+tratamento,tratamento
+microbiana,microbiana
+distúrbio,distúrbio
+ordenha,ordenha
+fibra,fibra
+espécie,espécie
+cruza,cruza
+gramínea,gramínea
+diluição,diluição
+rebanho,rebanho
+mutica,mutica
+desinfetantes,desinfetantes
+magra,magra
+desmame,desmame
+pele,pele
+homeopático,homeopático
+bernes,bernes
+gênero,gênero
+irrigação,irrigação
+pelagem,pelagem
+estimular,estimular
+medo,medo
+sofrimento,sofrimento
+trator,trator
+lagoa,lagoa
+isolamento,isolamento
+levedura,levedura
+contaminação,contaminação
+medir,medir
+zebuínos,zebuínos
+forragem,forragem
+desmamar,desmamar
+reação,reação
+procedimento,procedimento
+suplemento,suplemento
+aptidão,aptidão
+estimulante,estimulante
+capineira,capineira
+peladeira,peladeira
+zebuíno,zebuíno
+rasteira,rasteira
+demora,demora
+conservante,conservante
+cova,cova
+verão,verão
+mamário,mamário
+leguminoso,leguminoso
+emagrecimento,emagrecimento
+térmico,térmico
+semear,semear
+térmica,térmica
+variação,variação
+sugador,sugador
+cupim,cupim
+treinamento,treinamento
+infectocontagiosa,infectocontagiosa
+núcleo,núcleo
+alumínio,alumínio
+corporal,corporal
+químico,químico
+digestão,digestão
+fêmeo,fêmeo
+teor,teor
+cigarra,cigarra
+germinação,germinação
+solo,solo
+material,material
+adubar,adubar
+pelar,pelar
+descendente,descendente
+adubo,adubo
+animal,animal
+temperatura,temperatura
+planta,planta
+criopreservação,criopreservação
+colheita,colheita
+fertirrigação,fertirrigação
+sobreordenha,sobreordenha
+vedação,vedação
+glândula,glândula
+partícula,partícula
+reprodutivo,reprodutivo
+emagreceu,emagreceu
+recomendação,recomendação
+pasto,pasto
+tóxico,tóxico
+natalidade,natalidade
+heterozigoto,heterozigoto
+diarreia,diarreia
+acasalar,acasalar
+instalação,instalação
+ingrediente,ingrediente
+armazenagem,armazenagem
+abrasividade,abrasividade
+aeróbia,aeróbia
+integração,integração
+pastagem,pastagem
+magnésio,magnésio
+detenção,detenção
+misturador,misturador
+semeadura,semeadura
+homozigoto,homozigoto
+cetose,cetose
+eficiente,eficiente
+semeadeira,semeadeira
+acasalamento,acasalamento
+doador,doador
+tecidos,tecidos
+bicarbonato,bicarbonato
+montar,montar
+inimigo,inimigo
+aproveitamento,aproveitamento
+digestivo,digestivo
+descamação,descamação
+fertilização,fertilização
+cruzar,cruzar
+seco,seco
+silo,silo
+nitrogênio,nitrogênio
+pesagem,pesagem
+puro,puro
+óxido,óxido
+oócito,oócito
+lactente,lactente
+intestino,intestino
+bezerro,bezerro
+parir,parir
+sanitário,sanitário
+reprodutor,reprodutor
+fermentação,fermentação
+abomaso,abomaso
+calagem,calagem
+piquete,piquete
+vegetal,vegetal
+desfolha,desfolha
+espermatozoide,espermatozoide
+tamponante,tamponante
+sexo,sexo
+fisiológico,fisiológico
+bula,bula
+absorvível,absorvível
+febre,febre
+biológico,biológico
+tolerância,tolerância
+rufião,rufião
+cérvix,cérvix
+manteiga,manteiga
+cirúrgico,cirúrgico
+prolapso,prolapso
+aditivo,aditivo
+caixa,caixa
+aureus,aureus
+híbrido,híbrido
+infestação,infestação
+armazenamento,armazenamento
+estresse,estresse
+estreptococo,estreptococo
+ animal, animal
+ vaca, vaca
+ grande, grande
+ bezerro, bezerro
+ animais, animais
+ água, água
+ rebanho, rebanho
+ doença, doença
+ planta, planta
+ ordenha, ordenha
+ seco, seco
+ bovino, bovino
+ raça, raça
+ temperatura, temperatura
+ dieta, dieta
+ brachiaria, brachiaria
+ volumoso, volumoso
+ novilho, novilho
+ gramínea, gramínea
+ solo, solo
+ cruzamento, cruzamento
+ pasto, pasto
+ antibiótico, antibiótico
+ mamar, mamar
+ mineral, mineral
+ forragem, forragem
+ líquido, líquido
+ seca, seca
+ estresse, estresse
+ glândula, glândula
+ quarto, quarto
+ pastagem, pastagem
+ adulto, adulto
+ vitamina, vitamina
+ ração, ração
+ plantio, plantio
+ tratamento, tratamento
+ alimento, alimento
+ teto, teto
+ lactação, lactação
+ fósforo, fósforo
+ colher, colher
+ germinação, germinação
+ nutriente, nutriente
+ proteína, proteína
+ forrageiro, forrageiro
+ pastejo, pastejo
+ pequeno, pequeno
+ corporal, corporal
+ gir, gir
+ filho, filho
+ abrigo, abrigo
+ nitrogênio, nitrogênio
+ chifre, chifre
+ tristeza, tristeza
+ parto, parto
+ gestação, gestação
+ bom, bom
+ infecção, infecção
+ organismo, organismo
+ resíduo, resíduo
+ população, população
+ desmamar, desmamar
+ balancear, balancear
+ magnésio, magnésio
+ lavar, lavar
+ forrageira, forrageira
+ semeadura, semeadura
+ braquiária, braquiária
+ tropical, tropical
+ guzerá, guzerá
+ mestiço, mestiço
+ gordo, gordo
+ acasalamento, acasalamento
+ capim, capim
+ fêmea, fêmea
+ morte, morte
+ precoce, precoce
+ mãe, mãe
+ pé, pé
+ medicamento, medicamento
+ mosca, mosca
+ embrião, embrião
+ manual, manual
+ cigarra, cigarra
+ leguminoso, leguminoso
+ bactéria, bactéria
+ agente, agente
+ puro, puro
+ gel, gel
+ concentração, concentração
+ genético, genético
+ ar, ar
+ calor, calor
+ doador, doador
+ sintoma, sintoma
+ chuva, chuva
+ bebedouro, bebedouro
+ lagoa, lagoa
+ contaminação, contaminação
+ cuidado, cuidado
+ imunoglobulina, imunoglobulina
+ instalação, instalação
+ silagem, silagem
+ inverno, inverno
+ espécie, espécie
+ semente, semente
+ concentrado, concentrado
+ teor, teor
+ inseto, inseto
+ infectar, infectar
+ cocho, cocho
+ suplementar, suplementar
+ magro, magro
+ sistema, sistema
+ açúcar, açúcar
+ alto, alto
+ esterco, esterco
+ árvore, árvore
+ silo, silo
+ leiteiro, leiteiro
+ célula, célula
+ gordura, gordura
+ fabricante, fabricante
+ cultura, cultura
+ panicum, panicum
+ samambaia, samambaia
+ médio, médio
+ gene, gene
+ infeccioso, infeccioso
+ concentrar, concentrar
+ cobertura, cobertura
+ microbiano, microbiano
+ macho, macho
+ febre, febre
+ carrapaticida, carrapaticida
+ mamário, mamário
+ holandês, holandês
+ cerca, cerca
+ consumir, consumir
+ doméstico, doméstico
+ eficiente, eficiente
+ larva, larva
+ parasita, parasita
+ piquete, piquete
+ procedimento, procedimento
+ natural, natural
+ vitro, vitro
+ ataque, ataque
+ desidratação, desidratação
+ equino, equino
+ imunidade, imunidade
+ intestino, intestino
+ material, material
+ orgânico, orgânico
+ medida, medida
+ bicarbonato, bicarbonato
+ desaleitamento, desaleitamento
+ monta, monta
+ tecido, tecido
+ arbusto, arbusto
+ potássio, potássio
+ suplemento, suplemento
+ óxido, óxido
+ limpo, limpo
+ utensílio, utensílio
+ testículo, testículo
+ térmico, térmico
+ agalactiae, agalactiae
+ contagioso, contagioso
+ metabólico, metabólico
+ coliforme, coliforme
