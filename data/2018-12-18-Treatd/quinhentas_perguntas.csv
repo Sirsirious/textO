@@ -1,0 +1,501 @@
+index,pergunta
+1,Quando iniciar os cuidados com os bezerros?
+2,Quais os principais cuidados que se deve tomar com os bezerros recém-nascidos?
+3,Como se explica o nascimento de bezerros fracos e pequenos?
+4,Qual o melhor manejo de bezerros recém-nascidos a fim de evitar a proliferação de doenças?
+5,Qual a melhor maneira de criar o bezerro: ao pé da mãe ou apartado dela?
+6,É correto deixar para o bezerro apenas a “rapa de leite dos quatro tetos” (leite residual após a ordenha)?
+7,Quais as vantagens do aleitamento natural? Quais as vantagens do aleitamento artificial?
+8,Por que alguns produtores fracassam ao mudar do sistema de aleitamento natural para o artificial?
+9,Quais qualidades deve ter a pessoa que trata dos bezerros?
+10,Quais as causas da mortalidade de bezerros nos primeiros meses de vida?
+11,Qual a vantagem de descornar os bezerros ainda jovens?
+12,O leite “sujo” é importante para os bezerros?
+13,O colostro é diferente do leite normal? Sua composição varia após o parto?
+14,Há diferença na produção de colostro entre vacas?
+15,É aconselhável ordenhar as vacas antes do parto?
+16,Há algum substituto para o colostro?
+17,Qual o manejo correto para apartar bezerros?
+18,Como fazer o desaleitamento precoce?
+19,Com que idade pode-se fazer o desaleitamento precoce dos bezerros?
+20,É mais fácil fazer o desaleitamento precoce em bezerros aleitados artificialmente?
+21,"Depois de quantos dias de vida deve-se dar alimento volumoso (pasto, silagem, feno) aos bezerros?"
+22,Quantos litros de leite devem ser fornecidos aos bezerros?
+23,Qual a temperatura ideal do leite a ser fornecido aos bezerros?
+24,O que são sucedâneos do leite? Podem ser utilizados na alimentação de bezerros?
+25,Pode-se utilizar o leite de soja na alimentação dos bezerros?
+26,Quais as características de um bom concentrado para bezerros?
+27,Como saber se é vantagem fornecer leite ou concentrado para as bezerras?
+28,Qual a melhor pastagem para bezerros?
+29,A cana-de-açúcar e a ureia podem ser utilizadas na alimentação dos bezerros jovens?
+30,"A adição de ureia no concentrado para bezerros jovens pode provocar intoxicação, prejudicando o desenvolvimento do rúmen?"
+31,Quais as características de uma boa instalação para bezerros?
+32,O bezerreiro de alvenaria ou de madeira é a instalação mais indicada?
+33,Os bezerros podem ser criados a pasto desde o nascimento?
+34,Qual a vantagem em se utilizar abrigos individuais (casinhas/gaiolas) na criação de bezerros?
+35,"Pode-se utilizar casca de arroz, serragem e palha de café como cama em abrigos individuais?"
+36,Quanto de concentrado a novilha deve comer após a fase de aleitamento?
+37,"Qual o ganho de peso ideal de uma fêmea leiteira, até a cobertura?"
+38,Com quantos meses uma novilha bem alimentada está pronta para o acasalamento? Qual a vantagem de as novilhas parirem novas?
+39,"Por que, em alguns rebanhos, as novilhas chegam aos anos sem ter peso nem tamanho para cobrição, e não apresentam cio?"
+40,"Qual o melhor procedimento quando se constata que uma novilha, sem o peso ideal de acasalamento, foi coberta acidentalmente?"
+41,Quais as funções da proteína e da energia para bovinos?
+42,Proteína em excesso pode causar problemas para vacas em lactação?
+43,"Do ponto de vista fisiológico, existe vantagem no uso de rações com pouca proteína para vacas em lactação?"
+44,"Qual o nível máximo de nitrogênio não proteico (amônia, ureia, etc.), em relação à proteína bruta da ração para vacas leiteiras?"
+45,Como as vacas leiteiras utilizam o nitrogênio não proteico?
+46,"O fornecimento de ureia por longos períodos, mesmo que nas dosagens recomendadas, provoca problemas reprodutivos nas vacas?"
+47,Energia em excesso pode causar algum problema para vacas em lactação?
+48,Qual a importância da alimentação na reprodução?
+49,Por que a energia é importante para a reprodução?
+50,Até que ponto uma vaca consegue produzir e reproduzir com dietas deficientes em energia?
+51,"As vacas secas devem receber pouca alimentação, uma vez que não geram receita?"
+52,Qual a melhor estratégia de alimentação das vacas no período pré-parto?
+53,Deve-se fornecer concentrado para as vacas no período pré-parto?
+54,"Convém secar a vaca quando estiver faltando dias para o parto, caso ela esteja muito magra?"
+55,"O que é possível fazer para que haja mais nascimentos de bezerros por vaca, sem prejudicar o descanso normal do animal?"
+56,Quais as possíveis razões para o emagrecimento de vacas depois do parto?
+57,Como maximizar o consumo de alimentos pelas vacas em lactação?
+58,"Qual a importância da fibra na dieta de vacas leiteiras, e em que quantidade deve ser administrada?"
+59,"Há alguma vantagem na aplicação do complexo vitamínico A, D, E para vacas leiteiras?"
+60,O que são ingredientes/substâncias tamponantes (tampões/ buffers)? Para que servem e quais os mais empregados?
+61,Qual a exigência diária de água de uma vaca em lactação?
+62,"Durante a fase de colostro, deve-se ordenhar a vaca ou somente após o leite ficar “limpo”?"
+63,É mais econômico comprar o concentrado pronto ou prepará-lo na fazenda?
+64,Há vantagem em se adicionar água ao volumoso e ao concentrado para vacas leiteiras?
+65,Como balancear a ração para vacas que produzem até kg de leite/dia?
+66,Quais são as necessidades alimentares diárias das vacas em lactação?
+67,Qual a composição média da cevada úmida? Ela pode ser fornecida para vacas em lactação?
+68,"Pode-se dar kg de ração para cada L de leite produzido, independentemente do volume de produção da vaca?"
+69,É preciso tostar os grãos de soja antes de fornecê-los às vacas em lactação?
+70,O caroço de algodão pode ser fornecido para vacas em lactação?
+71,"Em regime de duas ordenhas, quais são os melhores horários e o intervalo de tempo entre elas?"
+72,"Quando a vaca perde um teto, os outros três passam a produzir a mesma quantidade dos quatro?"
+73,"O aleitamento artificial, com separação do bezerro da vaca, interfere no período de lactação da vaca?"
+74,Qual a melhor estratégia para a reposição de fêmeas?
+75,Uma vaca deve ser descartada depois de quantas lactações?
+76,"Entre as vacas do rebanho, quantas devem estar em lactação?"
+77,Como fazer para aumentar o número de vacas prenhes no rebanho?
+78,Quais os modelos de ficha indicados para o controle leiteiro e o reprodutivo?
+79,Quais os principais cuidados sanitários com o reprodutor?
+80,Quais características devem ser observadas na escolha de um reprodutor?
+81,Quais as recomendações para o correto arraçoamento de touros?
+82,Pode-se utilizar ureia na alimentação de touros?
+83,O que pode acontecer com touros obesos?
+84,Quais condições determinam a diminuição ou perda da libido em touros?
+85,Um touro “frio” é estéril? Como saber se o touro é estéril?
+86,Um touro sadio pode cobrir duas vacas no mesmo dia e enxertá-las?
+87,"Por que um touro que enxertava as vacas normalmente, de um momento para o outro, passa a não enxertá-las mais?"
+88,Quem determina o sexo da cria: o touro ou a vaca?
+89,É verdade que touros de testículos alongados produzem mais bezerras?
+90,O tamanho do prepúcio ou bainha pode interferir na capacidade reprodutiva dos touros?
+91,Deve-se experimentar vários touros em uma vaca que não pega cria?
+92,A eletroejaculação prejudica o touro?
+93,Até que idade um reprodutor pode ser utilizado?
+94,O touro com apenas um testículo é capaz de enxertar?
+95,"Quais as principais vantagens da monta natural controlada e da monta natural a campo? Na monta natural controlada, qual o momento mais apropriado para as coberturas?"
+96,Qual a relação touro/vaca mais indicada para sistemas de monta natural?
+97,"Se um touro cobrir uma vaca, e depois ela for inseminada, no mesmo cio, com sêmen de outro touro, como saber qual é o pai?"
+98,"Considerando que a manutenção de um touro é cara, é aconselhável utilizá-lo para cobrir vacas de vizinhos, cobrando uma taxa?"
+99,Sal comum e mistura mineral (sal mineralizado) são a mesma coisa?
+100,Como deve ser fornecido o sal mineral?
+101,Como usar ureia no sal mineral?
+102,A variação de marcas de sal mineral pode ocasionar problemas para o gado?
+103,As formulações de sal mineral existentes no mercado atendem às reais necessidades do rebanho?
+104,O sal de boa qualidade deve conter que níveis de micro e macronutrientes?
+105,É verdade que os bovinos procuram sal mineral quando sentem necessidade?
+106,Deve-se dar preferência à mistura mineral com o sal comum ou ao concentrado mineral?
+107,"sem perder o valor nutritivo? Se tomar chuva, o sal mineral se estraga?"
+108,"Na falta de sal mineral, a vaca come menos volumoso e concentrado?"
+109,Qual a quantidade de sal mineral a ser fornecida para vacas em lactação? Ela é diferente para vacas secas e novilhas?
+110,A falta de sal mineral pode prejudicar a produção de leite?
+111,Como se explica a presença de animais com boas condições corporais em rebanhos que não recebem sal mineral?
+112,Existem trabalhos mostrando a relação custo/benefício do uso do sal mineral na produção e reprodução de bovinos?
+113,O fornecimento de sal mineral dentro da técnica recomendada não aumenta muito os custos de produção?
+114,Os minerais ajudam no aproveitamento da energia da dieta ou eles têm ações independentes?
+115,Quais os microelementos essenciais ao gado de leite?
+116,Existe algum mineral capaz de combater os vermes intestinais?
+117,"Por que em algumas situações os animais começam a comer telhas, tijolos, terra, etc.?"
+118,Pode-se usar fosfato de rocha em misturas minerais?
+119,Qual a melhor fonte de fósforo: a farinha de ossos ou o fosfato bicálcico?
+120,Pode-se utilizar calcário dolomítico ou magnesiano na mistura mineral para bovinos?
+121,É importante adicionar calcário quando se está preparando ração na propriedade?
+122,O que é “febre do leite”?
+123,Qual o mineral cuja ausência provoca “papeira” em bovinos?
+124,Por que se deve adicionar sulfato de amônia à mistura cana-de-açúcar + ureia para bovinos?
+125,reprodução dos bovinos? A retenção de placenta pode estar relacionada com deficiências minerais?
+126,O fornecimento de minerais pode reduzir o intervalo de partos?
+127,Deficiências minerais atrasam o cio?
+128,"Por que as vacas demoram a entrar em cio depois do parto, mesmo recebendo suplementação mineral?"
+129,enxofre em pó no sal mineral para reduzir a infestação por carrapatos?
+130,O fósforo é importante para a reprodução?
+131,Sal mineral em excesso pode provocar abortos?
+132,Existe algum mineral que aumente a resistência das vacas às infecções uterinas?
+133,Como saber qual a deficiência da pastagem para definir a suplementação?
+134,É mais conveniente mineralizar somente na época de maior crescimento do pasto ou o ano todo?
+135,"Qual o melhor capim, ou o capim “milagroso”, para a produção de leite?"
+136,O que se entende por potencial forrageiro das gramíneas tropicais?
+137,Quais as espécies forrageiras mais indicadas para vacas em lactação?
+138,"Qual a capacidade de suporte das principais gramíneas forrageiras, em boas condições de manejo e adubação?"
+139,Qual o melhor capim para áreas encharcadas e para áreas de morro?
+140,Quais gramíneas são recomendadas para pastejo direto em regiões de Cerrado?
+141,minosas para a região do Cerrado? Quais as espécies que melhor se associam?
+142,O que são plantas estoloníferas?
+143,Como se faz o plantio de gramíneas forrageiras estoloníferas?
+144,"Cameroon e Napier, quanto à produtividade, palatabilidade, manejo e persistência?"
+145,O capim-elefante é melhor que as braquiárias para a produção de leite?
+146,Até que ponto é viável implantar pastagens de capimelefante em áreas anteriormente formadas com braquiária?
+147,Quais os períodos de ocupação (pastejo) e de descanso mais recomendados para pastagens de capim-elefante?
+148,Qual a área dos piquetes? Quantos são necessários para manter vacas em pastagem de capim-elefante?
+149,Durante quantos meses pode-se usar a pastagem de capimelefante?
+150,Existe diferença na palatabilidade do capim-elefante quando adubado com esterco ou com adubo químico?
+151,É vantajoso formar pastos de capim-colonião com sojagrão?
+152,Quais as principais diferenças morfológicas entre os Tifton e Tifton ?
+153,Quais as principais cultivares de setária utilizadas na formação de pastagens? Quais as diferenças entre elas?
+154,"Quais as principais características do capim-elefante, cultivar Pioneiro?"
+155,Quais as principais características do capim-buffel (Cenchrus ciliares)?
+156,"Quais as principais forrageiras tropicais, adaptadas às condições de baixa temperatura, no Brasil?"
+157,O capim-colonião adapta-se bem em solos de baixa fertilidade?
+158,Como minimizar o uso do fogo no manejo do capimcolonião?
+159,O Panicum maximum cultivar Centenário é adequado para a região Centro-Oeste?
+160,"Quais as principais características da cultivar Tobiatã, da espécie Panicum maximum?"
+161,Quais os principais fatores que influenciam a germinação das sementes de braquiária?
+162,As braquiárias são uma boa opção para a formação de pastagens?
+163,"Após o plantio, deve-se esperar quanto tempo para colocar os animais em pastagem de braquiária?"
+164,Pastejo rotativo em pastagens de capim-angola é obriga­tório?
+165,de capim-braquiária para introduzir e retirar os animais?
+166,Pastagem de Brachiaria ruziziensis é uma boa alternativa para vacas em lactação?
+167,Quais as características da braquiária Tanner-grass?
+168,A Brachiaria decumbens pode ser tóxica?
+169,Como combater a fotossensibilização provocada pelas braquiárias?
+170,As pastagens de braquiária são mais suscetíveis às infestações de cupins?
+171,"Por que as pastagens de capim-gordura (meloso), outrora tão numerosas, estão desaparecendo?"
+172,Qual a variedade de cana-de-açúcar recomendada para a alimentação de bovinos?
+173,A cana-de-açúcar pura é boa opção como volumoso?
+174,Qual a quantidade máxima da mistura cana-de-açúcar/ ureia a ser fornecida para vacas leiteiras?
+175,Por que há necessidade de se incluir uma fonte de enxofre na mistura cana-de-açúcar mais ureia?
+176,Qual a importância da alfafa como forrageira?
+177,É viável a produção de alfafa em regiões tropicais?
+178,Quais cuidados deve-se ter na escolha do local para plantio de alfafa?
+179,regiões tropicais? Quais as principais características dessas cultivares?
+180,Qual a quantidade de semente e o espaçamento recomendados para o plantio de alfafa?
+181,"Qual a melhor época para o plantio da alfafa, em regiões tropicais?"
+182,Como minimizar os problemas com invasoras durante o estabelecimento de um campo de alfafa?
+183,Quais os melhores sistemas de corte e de pastejo da alfafa?
+184,Quais as vantagens da alfafa na alimentação de vacas com alto potencial de produção de leite?
+185,É necessário irrigar a cultura da alfafa durante o período da seca?
+186,A alfafa é suscetível ao ataque de pragas e doenças?
+187,Quais as principais forrageiras de inverno recomendadas para a alimentação de bovinos?
+188,É viável o cultivo das forrageiras de inverno na região Sudeste do Brasil?
+189,Em que tipo de área recomenda-se o plantio da aveia ou do azevém anual?
+190,Qual o meio mais prático e rápido para saber se as sementes das forrageiras de inverno são de boa qualidade?
+191,Qual a quantidade de semente e o espaçamento recomendados para o plantio da aveia e do azevém?
+192,Qual a melhor época de plantio da aveia-preta e do azevém?
+193,A aveia e o azevém anual precisam ser plantados todos os anos?
+194,Pode-se fazer o plantio da aveia e do azevém anual misturados?
+195,Qual o período de pastejo da aveia e do azevém anual na região Sudeste?
+196,"Quais culturas podem ser combinadas com a aveia ou azevém anual, para melhor aproveitamento da área?"
+197,Quais as produções de forragem da aveia e do azevém anual nas condições do Centro-Oeste e Sudeste?
+198,Qual a capacidade de suporte e a produção de leite de vacas em pastagem de aveia ou azevém?
+199,Qual o melhor tipo de solo e a melhor localização para a formação de capineiras?
+200,Quais as forrageiras mais utilizadas para a formação de capineiras?
+201,"Pode-se utilizar o feijão-guandu, em consorciação, em uma capineira?"
+202,Quais as quantidades de nutrientes extraídas de uma capineira?
+203,Qual a melhor altura de corte de uma capineira?
+204,se um desgaste muito grande do equipamento. Como controlar esse problema?
+205,fornecido ao gado no outro? Pode-se fazer isso com canade-açúcar?
+206,Como aproveitar a capineira de capim-elefante que a geada queimou?
+207,O que fazer com o capim que está sobrando?
+208,Qual a vida útil de uma capineira submetida a seis cortes ao ano?
+209,Quais técnicas são adotadas para a recuperação de capineiras?
+210,Como manejar uma capineira?
+211,Quais as características de uma boa pastagem?
+212,A mesma pastagem pode ser formada com vários tipos de capim?
+213,A quantidade de sementes a ser usada na formação da pastagem depende de sua qualidade e do tipo de solo?
+214,Podem-se misturar as sementes de forrageiras ao sal mineral?
+215,"É correta a prática de misturar as sementes com o fosfato de Araxá, para a formação de pastagens?"
+216,Como formar pastagem de modo a evitar o replantio?
+217,Qual o melhor método de formação de pastagens em morros?
+218,de forma a garantir a formação da pastagem sem prejudicar a qualidade da silagem?
+219,"Qual o melhor sistema de manejo para pastagens de capim braquiária, gordura e andropogon?"
+220,Banco de proteínas é uma boa prática para alimentar vacas em lactação?
+221,Quais as espécies forrageiras recomendadas para formar bancos de proteína?
+222,Qual o melhor manejo para propriedades com pastagens cultivadas e nativas?
+223,Quais as vantagens e as desvantagens da divisão das pastagens em piquetes?
+224,O tamanho do piquete exerce influência sobre o sistema de pastejo rotativo?
+225,Quais os critérios utilizados para orientar na mudança dos animais dos piquetes?
+226,ser observadas quanto às melhores alturas do pasto para colocar e retirar os animais dos piquetes?
+227,Há vantagens em queimar as pastagens na época das chuvas?
+228,O que deve ser feito para aumentar a produção e o valor nutritivo dos pastos?
+229,Por que as pastagens ficam degradadas?
+230,Por quanto tempo devem-se vedar os pastos para recuperálos?
+231,A reforma da pastagem é prática recomendável?
+232,Como recuperar pastagens degradadas sem empregar o fogo?
+233,Em que circunstância o uso do fogo é recomendado para o manejo de pastagem?
+234,Qual a época certa para iniciar a alimentação suplementar ao pasto?
+235,"A afirmação “solo pobre, forragem pobre” é correta?"
+236,Quantos dias deve-se esperar para colocar o gado no pasto após a aplicação de chorume?
+237,A correção da acidez do solo é importante na formação da pastagem?
+238,A aplicação de calcário tem outras funções além da correção da acidez do solo?
+239,"(alumínio, cálcio + magnésio trocáveis) ou em função da saturação de bases?"
+240,Há algum inconveniente em realizar calagens sucessivas nas pastagens?
+241,Qual o método correto de aplicação de calcário?
+242,"Na formação de pastagem, que operação deve ser feita primeiro, a calagem ou a aplicação de fosfato natural?"
+243,"Que quantidade de macroelementos (N-P-K) uma vaca em lactação devolve à pastagem, em seus excrementos?"
+244,Por que o fósforo é importante na formação da pastagem?
+245,adubação de cobertura deve ser feita antes ou após o primeiro pastejo?
+246,Que adubação deve ser usada na recuperação de pastagens degradadas?
+247,É econômico adubar pastos?
+248,Quais prejuízos causam as cigarrinhas-das-pastagens?
+249,Existe algum controle eficaz das cigarrinhas?
+250,Qual a relação entre a resistência ao ataque de cigarrinhas e as diversas espécies de braquiária?
+251,"Para reduzir os efeitos da cigarrinha na pastagem, é recomendável manejar o pasto mais alto ou mais baixo?"
+252,Como controlar o sapé e o rabo-de-burro nas pastagens?
+253,Que influência tem a calagem no controle de plantas invasoras?
+254,Como as pastagens devem ser manejadas para minimizar os riscos de intoxicação dos animais com plantas tóxicas?
+255,Como identificar uma planta tóxica no Cerrado?
+256,O manejo da pastagem interfere na produção animal?
+257,Que produção de leite se pode alcançar em pastagens tropicais?
+258,É verdade que vacas alimentadas à sombra produzem mais leite?
+259,O que são sistemas agrossilvipastoris?
+260,Quais as vantagens de se introduzir árvores em pastagens?
+261,Por que a arborização de pastagens pode aumentar a disponibilidade e a qualidade de forragem?
+262,A arborização sempre resulta em benefícios para a pastagem?
+263,Qual o espaçamento recomendado para se obter sombra moderada?
+264,Quais características recomendam uma espécie arbórea para uso em sistemas agrossilvipastoris?
+265,Quais as forrageiras herbáceas mais tolerantes ao sombreamento?
+266,Quais espécies de árvores são recomendadas para arborizar pastagens em solos de baixa fertilidade?
+267,Quais os principais pontos a serem considerados no preparo de uma boa silagem?
+268,Quando o milho e o sorgo estão no “ponto” de corte para ensilar?
+269,Quantas toneladas de silagem de milho e sorgo podem ser obtidas por hectare?
+270,"Considerando que o milho deve ser ensilado com % a % de matéria seca, como ensilar toneladas?"
+271,As consorciações milho/mucuna-preta e milho/soja podem ser recomendadas para a ensilagem?
+272,"Pode-se plantar a leguminosa separada do milho e ensilálos juntos, em camadas?"
+273,Qual a época ideal para ensilar o capim-elefante?
+274,Qual a percentagem recomendada de cana-de-açúcar em silagens mistas com o capim-elefante?
+275,É recomendável utilizar ureia no momento da ensilagem de milho e sorgo?
+276,Por que se recomenda diluir a ureia em água antes de colocá-la no silo?
+277,adicionados à ensilagem do capim-elefante? Quais outros produtos podem ser adicionados?
+278,Quais as vantagens da adição de sal comum às silagens?
+279,Pode-se fazer silagem exclusivamente com cana-de-açúcar?
+280,Qual a melhor silagem?
+281,Depois de quantos dias do enchimento do silo pode-se usar a silagem?
+282,"Depois do silo aberto, por quanto tempo a silagem permanece em boas condições?"
+283,"O silo, cuja silagem não foi totalmente usada, pode ser completado com novo material e novamente fechado?"
+284,A entrada de ar no silo altera a qualidade da silagem?
+285,Qual o melhor tipo de silo?
+286,Quais as práticas importantes para a conservação da silagem em silos aéreos?
+287,É verdade que os silos aéreos são mais indicados para armazenar forragens cortadas com baixo teor de umidade?
+288,O que é fenação?
+289,Quais gramíneas e leguminosas são mais indicadas para fenação?
+290,O que é cio? E cio silencioso?
+291,O que fazer quando as vacas estão repetindo o cio após a cobertura ou após a inseminação artificial (IA)?
+292,"Por que algumas vacas dão cio, são cobertas ou inseminadas, mas não são fecundadas nem voltam a dar cio?"
+293,Como avaliar a condição corporal da vaca? Qual é a condição corporal recomendada para uma vaca ao parto?
+294,"Existe algum segredo para a vaca dar cio mais cedo, depois do parto?"
+295,"apresentar diferenças no período entre parto e primeiro cio? Por que algumas vacas, mesmo bem alimentadas, demoram mais para entrar em cio?"
+296,"Como se explica “bezerro na barriga” de vaca magra, se a vaca magra não dá cio?"
+297,É normal a falta de cio por períodos prolongados?
+298,parto? O que determina ou explica por que algumas vacas voltam ao cio mais cedo e outras demoram mais tempo?
+299,O que é exame andrológico? O que ele indica?
+300,Quais as recomendações para o uso de um touro na fazenda?
+301,Quando o touro deve cobrir a vaca depois do parto? O que é o período voluntário de espera?
+302,Quantas cobrições devem ser feitas em cada cio?
+303,Como saber se a vaca está gestante? É possível determinar o sexo do embrião ou do feto?
+304,Qual a duração da gestação na vaca e qual o período ideal de lactação?
+305,Por que vacas em gestação voltam a apresentar cio?
+306,Qual o número de partos economicamente desejável na vida de uma vaca?
+307,Quais os problemas provocados pelo excesso de peso em vacas gestantes?
+308,O que é manejo pré-parto? Como fazê-lo?
+309,"Quais cuidados se deve ter com a vaca, no momento do parto?"
+310,Qual o melhor método para avaliar a eficiência reprodutiva?
+311,A somatotropina interfere na reprodução da vaca?
+312,A temperatura ambiente influencia a fertilidade da vaca?
+313,Por que algumas vacas colocam a vagina/cérvix para fora?
+314,O que pode provocar a retenção de placenta? Em quanto tempo ela é expulsa depois do parto?
+315,O que são cistos foliculares?
+316,Partos problemáticos (distócicos) e retenção de placenta podem atrasar o aparecimento do cio pós-parto?
+317,É verdade que a cria fêmea de nascimento de gêmeos é estéril?
+318,Qual o melhor tratamento para infecções no útero (metrites)?
+319,"Até que ponto os ectoparasitas (mosca-do-chifre, carrapatos, bernes, etc.) podem afetar a reprodução?"
+320,Quais as principais causas de abortos?
+321,Podem-se usar hormônios para provocar o cio? Quais são as vantagens da sincronização de cios?
+322,Como fazer para começar a utilizar inseminação artificial (IA) sem ter prejuízos?
+323,O que é necessário para estabelecer um sistema de inseminação artificial?
+324,Quanto tempo depois da identificação do cio deve ser feita a inseminação artificial?
+325,conservação do sêmen congelado? E por quanto tempo o sêmen permanece viável?
+326,Com que idade as novilhas devem ser cobertas ou inseminadas?
+327,Vacas que sempre foram inseminadas artificialmente podem ser enxertadas pelo touro?
+328,O rufião é importante em um programa de inseminação artificial?
+329,Quais cuidados devem ser tomados com o uso de rufiões?
+330,A inseminação artificial reduz a taxa de gestação e de partos no rebanho?
+331,O que é IATF?
+332,Quais cuidados devem ser tomados ao se usar a IATF?
+333,O que é sexagem espermática?
+334,Por que a taxa de gestação é geralmente mais baixa com sêmen sexado?
+335,O que é Produção de embriões in vivo e Produção in vitro de embriões?
+336,Quais tipos de animais podem ser usados como receptores em um programa de transferência de embriões?
+337,Por que embriões de Pive são mais difíceis de sobreviver após o congelamento?
+338,Bezerros de embriões Pive podem nascer mais pesados?
+339,O que é clonagem animal e para que serve? Os animais clones são idênticos?
+340,O que é controle leiteiro? Como realizar? Qual sua importância? Com que frequência deve ser realizado?
+341,Como melhorar a qualidade genética de um rebanho?
+342,Quais as diferenças básicas de produção de leite entre animais zebu leiteiro e zebu padrão?
+343,"Qual a situação do gir leiteiro e do guzerá leiteiro, no Brasil?"
+344,O que é raça Sindi? Quais suas características?
+345,"Como calcular o grau de sangue, ou a composição genética, de um animal?"
+346,O que é heterose?
+347,"origem europeia (E) e zebuínos (Z), nas condições de meio ambiente e manejo existentes no Brasil?"
+348,Como manter o rebanho sempre F Europeu-Zebu?
+349,Quais raças europeias e zebuínas podem ser utilizadas em cruzamentos para produção de leite?
+350,Quais as vantagens do cruzamento entre animais das raças Holandês e Jersey?
+351,ou Guzerá dupla aptidão com vaca da raça Holandês e o cruzamento inverso?
+352,mestiços é o uso de touros das raças Gir Leiteiro ou Guzerá dupla aptidão?
+353,"Como melhorar um rebanho rústico, sem gastar muito?"
+354,mestiças a fim de obter fêmeas leiteiras e machos para engorda?
+355,Quais são as vantagens de se usar rebanho F Europeu x Zebu?
+356,Como proceder para obter animais puros por cruza (PC) a partir de um rebanho de vacas mestiças?
+357,"Quais os objetivos, vantagens e desvantagens da produção e utilização de animais tricross para os sistemas de produção de leite do Brasil?"
+358,Quais as vantagens e desvantagens do uso de touros da raça Jersey em vacas mestiças Holandês x Zebu (HZ)?
+359,É aconselhável usar touros mestiços em rebanhos mestiços?
+360,consequência genética do uso de reprodutores / EZ em vacas /?
+361,"O grau de sangue, ou composição genética, tem influência na fertilidade do animal?"
+362,"O que é Modelo Animal, PTA, DEP, DP ou EBV?"
+363,"Nos resultados de avaliação genética, o que é confiabilidade, repetibilidade da prova ou acurácia?"
+364,Quais fatores influenciam a confiabilidade da PTA de um touro?
+365,O que é TPI?
+366,Quais as consequências para o rebanho do acasalamento entre parentes?
+367,"Ao acasalar um touro mocho (por natureza) com vacas com chifres, qual a percentagem de filhas com chifres?"
+368,Qual a relação entre produção de leite e tipo leiteiro de uma vaca?
+369,Quais características de tipo são mais importantes na seleção de gado de leite?
+370,uma fêmea ter bom potencial genético de produção de leite?
+371,O potencial de produção de leite da cria é transmitido por touro provado ou só pela vaca?
+372,de um rebanho: o melhoramento genético ou a melhoria da alimentação?
+373,o uso da monta natural ou da inseminação artificial?
+374,"O que é núcleo Moet de seleção ou de melhoramento genético, e para que serve?"
+375,Um touro com prova positiva para leite em um país pode ser negativo em outros países?
+376,"Como melhorar geneticamente o teor de sólidos do leite, especialmente gordura e proteína?"
+377,quais são as aplicabilidades das pesquisas em genoma de bovinos?
+378,O que são Organismos geneticamente modificados (OGM) ou organismos transgênicos?
+379,O que é seleção genômica?
+380,Quais agentes de doenças podem ser transmitidos aos bovinos pelos carrapatos?
+381,O que é a tristeza parasitária bovina?
+382,Quais as consequências de uma infestação por carrapatos sobre a produção de leite?
+383,O que fazer para evitar grandes infestações por carrapatos?
+384,"Se os carrapatos se acostumam com o carrapaticida, como escolher o mais eficiente? Como utilizá-lo?"
+385,"Além dos carrapaticidas, há outros meios de se combater carrapatos?"
+386,O que é controle estratégico de parasitas?
+387,Existe um horário determinado para o carrapato se desprender dos animais?
+388,Os carrapatos devem ser completamente eliminados da propriedade?
+389,"em bezerreiros ou casinhas, com acesso a piquetes somente após a dias de idade?"
+390,agentes da tristeza parasitária bovina é indicada? Como realizá-la?
+391,O controle do carrapato do cavalo é feito da mesma forma que o do carrapato do boi?
+392,O carrapato dos equinos também pode parasitar os bovinos e transmitir agentes de doenças?
+393,Carrapatos podem transmitir agentes de doenças aos seres humanos?
+394,Como evitar que seres humanos adoeçam com febre maculosa?
+395,"mifugar: por via oral, por via subcutânea, ou em mistura com o sal?"
+396,Qual a época ideal para fazer a vermifugação de bovinos leiteiros? Quais categorias animais devem ser tratadas?
+397,É verdade que bovinos adultos têm resistência aos vermes?
+398,A vermifugação das vacas faz aumentar a produção de leite?
+399,O que é a fasciolose? Quais os seus sintomas?
+400,O que é eimeriose (ou coccidiose)?
+401,Quais as principais moscas causadoras de prejuízos econômicos no meio rural?
+402,Como realizar o controle das moscas do meio rural?
+403,Qual a diferença entre bicheira e berne?
+404,O que é cisticercose bovina?
+405,O homem pode adquirir a cisticercose?
+406,O que é salmonelose? Como preveni-la?
+407,O que é colibacilose? Quais as medidas para tratamento e prevenção?
+408,"O que é pneumoenterite? Quais os sintomas, como prevenila e tratá-la?"
+409,Qual a causa da vaca urinar sangue? Qual o tratamento?
+410,O que fazer em caso de bezerro com diarreia?
+411,O que é brucelose?
+412,O que é manqueira?
+413,Quais as medidas para a prevenção da raiva?
+414,"Os bovinos podem ser acometidos por tuberculose? Caso positivo, como evitar essa doença?"
+415,O que é mastite?
+416,Quais os tipos de mastite?
+417,Como detectar a mastite subclínica?
+418,O que é Califórnia Mastite Teste (CMT)?
+419,Qual o melhor teste ou método para detectar a mastite clínica?
+420,O que são células somáticas?
+421,Conhecer os microrganismos causadores da mastite ajuda no controle?
+422,Como reduzir a mastite nos rebanhos?
+423,O que é o programa de cinco pontos para o controle da mastite?
+424,Deve-se lavar os tetos antes da ordenha?
+425,Deve-se fazer a desinfecção dos tetos antes da ordenha?
+426,É importante fazer a desinfecção dos tetos depois da ordenha?
+427,Quais os produtos recomendados para a desinfecção dos tetos?
+428,O que é tratamento ou terapia da vaca seca?
+429,Que medicamento é recomendado para tratar a mastite?
+430,Deve-se tratar vacas com mastite subclínica durante a lactação?
+431,É preciso algum cuidado especial na aplicação de medicamentos intramamários?
+432,O que se deve fazer para evitar resíduos de antibióticos no leite?
+433,"por via intramamária, deve-se descartar todo o leite da vaca?"
+434,"Após a retirada das teteiras, é preciso retirar com as mãos o leite residual? Isso pode provocar mastite?"
+435,O que é sobreordenha? Como saber o momento exato de retirar as teteiras?
+436,O que está acontecendo com a vaca que elimina sangue no leite? Qual a solução?
+437,Existe vacina para mastite?
+438,Qual a relação entre mastite e qualidade do leite?
+439,O que quer dizer qualidade do leite?
+440,Como se avalia a qualidade do leite?
+441,"No Brasil, a qualidade do leite é regulamentada por legislação específica?"
+442,A qualidade do leite de ordenha manual é inferior à do leite de ordenha mecânica?
+443,O que é o teste do alizarol? O que ele indica?
+444,O que é crioscopia do leite?
+445,O que são unidades formadoras de colônias?
+446,Como o leite se contamina com microrganismos?
+447,O que a contaminação microbiana causa ao leite e aos produtos lácteos?
+448,O que são os sólidos do leite? Qual a sua importância?
+449,Como fazer para produzir leite com qualidade?
+450,O que é leite orgânico? Como o consumidor reconhece que o leite é produzido de forma orgânica?
+451,O que fazer para se produzir o leite de forma orgânica?
+452,Como deve ser feita a alimentação dos animais no sistema orgânico de produção de leite?
+453,mas silvipastoris (SSPs) no sistema orgânico de produção de leite?
+454,leiteiro? O que deve ser feito para controle de carrapato e mastite?
+455,O conforto animal é considerado fator importante no sistema orgânico de produção de leite?
+456,Existe mercado para o leite produzido de forma orgânica no Brasil? Quem produz leite de forma orgânica no Brasil?
+457,O que é leite “verde”?
+458,O que é gerenciar?
+459,Quais os itens de maior preocupação no gerenciamento?
+460,Quais aspectos são importantes em um bom gerente?
+461,Quais aspectos são importantes em um empregado da atividade leiteira?
+462,Como fazer uma avaliação da propriedade quando não há registros de dados ou indicadores?
+463,Quais os principais indicadores de desempenho para o gerenciamento de uma propriedade leiteira?
+464,Como se calculam os indicadores econômico-financeiros?
+465,Como calcular o custo de produção de leite?
+466,Quais os itens mais onerosos no custo de produção de leite?
+467,Quais os principais indicadores técnicos em uma atividade leiteira?
+468,O que é o ponto de equilíbrio de uma atividade rural?
+469,O que é bem-estar animal?
+470,Por que é importante criar os animais atendendo aos princípios de bem-estar?
+471,É possível medir o bem-estar dos animais?
+472,Como é medido o bem-estar animal em uma propriedade?
+473,O que é preciso para garantir bem-estar aos animais?
+474,Quais fatores podem influenciar o bem-estar dos animais?
+475,Quais as variáveis climáticas que prejudicam o bem-estar dos bovinos leiteiros? O que deve ser feito no período de verão para manter ou melhorar o bem-estar desses animais?
+476,Qual o melhor tipo de sombra para bovinos?
+477,"Depois das árvores, qual o melhor sombreamento para bovinos?"
+478,Quais as recomendações para instalação de sombrites para sombreamento de bovinos?
+479,O clima quente e úmido na estação do verão pode causar perdas na produção de leite e na reprodução?
+480,Quais os métodos mais práticos para reduzir o calor no interior das instalações?
+481,"Em regiões muito quentes, qual o método mais eficiente para reduzir o estresse térmico dos animais?"
+482,"Qual a importância das instalações para o bem-estar, saúde e produtividade dos animais e do homem?"
+483,Qual a importância do tratamento e aproveitamento dos dejetos de bovinos nas propriedades?
+484,Quais as alternativas de manejo de dejetos de bovinos nos diversos sistemas de produção?
+485,Como é feito o manejo do esterco na forma sólida ou convencional?
+486,Como é feito o manejo do esterco líquido?
+487,Como é feito o manejo do esterco semissólido ou misto?
+488,Como é feito o manejo do esterco líquido em lagoas de estabilização?
+489,Como é feita a compostagem?
+490,Qual a melhor orientação das instalações?
+491,Quais os principais tipos de instalações e estruturas para um sistema de produção de leite a pasto?
+492,Como dimensionar e dividir os currais de manejo e de alimentação?
+493,Qual o melhor tipo de piso para curral?
+494,Qual a importância do curral de espera? Como dimensionálo?
+495,Qual a importância da qualidade e da disponibilidade de água para o rebanho?
+496,Qual a quantidade de água consumida por bovinos?
+497,O que é água dura e água salobra?
+498,Qual a importância da pastagem no suprimento de água para vacas em lactação?
+499,Qual a recomendação para o uso de bebedouros nas pastagens ou nas instalações?
+500,Quais as vantagens e desvantagens do confinamento?
