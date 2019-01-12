@@ -1,0 +1,7 @@
+Software de Controle e gerenciamento de qualidade em Laticínios
+Trabalho em um laticínio, nossa empresa está adequando os procedimentos laboratoriais para registro eletrônico (em planilhas no Excel). Gostaria de saber como é feito esse gerenciamento em outras organizações, quais programas usam, como gerenciam os dados e resultados.
+Quais outras opções tem além do MDA da Clinica do Leite? (https://clinicadoleite.com.br/controle-mda-agenda)
+
+-Controle de produtores e tanques
+-Analises de Recebimento de leite cru
+-Controle de silos e pasteurizadores

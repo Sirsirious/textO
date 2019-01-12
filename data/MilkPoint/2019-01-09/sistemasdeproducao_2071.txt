@@ -1,0 +1,11 @@
+Confinamento e Alimentacao
+Prezados senhores gostaria de saber se as correlacoes abaixo podem ser consideradas verdadeiras:
+Vaca de 40Kg/dia = 50% do faturamento destinados a alimentacao
+Vaca de 35Kg/dia = 45% do faturamento destinados a alimentacao
+Vaca de 30Kg/dia = 40% do faturamento destinados a alimentacao
+Vaca de 25Kg/dia = 35% do faturamento destinados a alimentacao
+Vaca de 20Kg/dia = 35% do faturamento destinados a alimentacao
+
+Agradeco antecipadamente e aguardo retorno
+Atenciosamente
+Ruy de Aguiar

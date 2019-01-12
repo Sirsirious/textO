@@ -1,0 +1,16 @@
+FDA em Rações/Concentrados
+Bom dia a todos,
+
+Trabalho em uma fábrica de rações e estamos com um problema sério.
+Nossas rações estão com FDA acima do permito pelo MAPA (cada tipo de ração tem um limite permito)
+
+Por exemplo: trabalhamos com um concentrado (farelo de soja; minerais e tamponantes) de 440g/Kg PB e FDA máximo de 140g/Kg.E, nas análises os resultado são nos valores de: 268,2 g/Kg de FDA; 372,1 g/Kg de FDA; 265,2 g/Kg de FDA; 288,9 g/Kg de FDA.
+
+O laboratório relata que já foi feita revisão do método e assim, testaram 3 métodos diferentes, verificaram os reagentes (prazo de validade, composição) e relataram que os resultados sempre são próximos deste obtidos (acima de 140g/Kg) e também está sendo feita as análises das matérias primas.
+
+Gostaríamos de saber, se alguém já passou por esta situação e se podia nos ajudar.
+
+Att.,
+
+Nayara
+Médica Veterinaria.

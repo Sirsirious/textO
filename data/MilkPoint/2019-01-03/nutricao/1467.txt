@@ -1,0 +1,8 @@
+dieta com cana de açucar
+Alexandre, a melhor maneira de avaliar o valor nutricional de uma dieta, ou seja, se ela será capaz de suprir as exigências de seus lotes de vacas e comparar a exigência nutricional de cada lote com os nutrientes que estão sendo fornecidos pela dieta. Assim, seria legal você montar um tabela com a quantidade de cada alimento (kg), proteína (kg), NDT (kg), Ca (g) e P(g) fazer o somatório no final e comparar com a exigência. Se houver déficit a dieta não está sendo suficiente para a produção em questão.
+Ex. Se no somatório de proteína desse 1,800 kg e vc estivesse fornecendo 1,600 kg, haveria a necessidade de suprir o déficit de 200 gramas de proteína.
+
+
+
+<hr>
+Robson

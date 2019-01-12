@@ -1,0 +1,9 @@
+análise do leite
+foi feito analise no leite, os resultados foram estes:
+acidez 18
+gordura 14,0
+esd 0,87
+densidade 1,9 
+água 29,8 
+proteína 0,72
+gostaria de uma explicação o que aconteceu com este leite ?

@@ -1,0 +1,10 @@
+Horário das Ordenhas
+As ordenhas em meu sítio são realizadas às 7:00h e as 17:00h, ou seja, 14 e 10 horas de intervalo.
+
+Como consequência a produção da manhã é de 70% da produção diária e a da tarde oferece os 30 % restantes.
+
+Quanto se estaria se perdendo por não se cumprir os intervalos ideais de 12 horas?
+
+
+
+<hr>

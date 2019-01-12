@@ -1,0 +1,2 @@
+Piquete Rotacionado
+Quais os métodos (e suas vantagens e desvantagens) de entrada e saída existentes para piquetes rotacionados (ex: por altura, por tempo, voisin) ?

@@ -1,0 +1,2 @@
+Software para gado leiteiro
+Bom dia, estamos desenvolvendo um sistema para gado leiteiro, completo! Com a finalidade de o produtor ter pleno domínio sobre todos os custos e benefícios da sua atividade. Ademais, através do sistema poderá ter controle sobre a genética dos animais, todos os custos de produção ( alimentação como um todo, empregados, despesas a fim de  manter a qualidade, dentre diversas outras), caso queiram, pode estar externando a sua opinião,   o que viria a acrescer em um sistema de controle de gado leiteiro?

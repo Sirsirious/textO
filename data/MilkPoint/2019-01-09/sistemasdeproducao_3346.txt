@@ -1,0 +1,8 @@
+Novo Sistema de Gestão
+Boa noite a todos, sou estudante de Engenharia na Universidade Federal de Itajubá e estou em um projeto para melhor a produtividade e reduzir os custos com a produção de leite, já entrando em contato com alguns produtores e zootecnistas encontramos alguns fatores que influenciam bastante na produção, gostaria de saber quais deles são mais relevantes e se tem algo a mais que acontece em sua produção, abaixo seguem alguns fatores.
+1-Custo Da alimentação do gado, armazenamento e distribuição.
+2-Diminuição da produção por efeito térmico no animal
+3-Falta de controle da produção,  saber qual o histórico de produção diária de cada vaca, quais vacinas ela tomou, quantas crias ela tem.
+4-Qualidade do leite.
+5- Preço de venda do leite.
+Se puderem responder também falando com quantas vacas vcs trabalham ficaria grato.

@@ -1,0 +1,2 @@
+desenho da area piquetada
+alguem do forum conhece uma ferramenta onde informamos a area a ser piquetada, e o programa mostra a melhor forma de localização dos piquetes. obrigado

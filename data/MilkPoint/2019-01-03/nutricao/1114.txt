@@ -1,0 +1,8 @@
+Otimização de Rações com  o Solver do Excel
+Somos produtores de Jersey em SC, e estamos desenvolvendo planilha em Excel e aplicando o algoritmo Solver para obter a melhor ração (de custo mínimo), que atenda às especificações de requerimentos nutricionais e/ou outras limitações.
+Por qualquer ajuda, gratos.
+
+
+
+<hr>
+Nilson Darci Wagner

@@ -1,0 +1,19 @@
+Sistema Gestão Produção Leiteira
+Olá Pessoal,
+Criei um sistema de Gestão da Produção leiteira:
+Cadastro Vacinas, 
+Cadastro Animais,
+Controle Vacinação(Previsto, Realizado),
+Controle Insiminação(Previsto, Realizado),
+Controle Partos(Previsto, Relizado),
+Controle Produção,
+Controle Caixa (Tipo, Descrição, saldo)
+Controle Despesas Futuras,
+Relatórios Gerenciais,
+Planilha Tomada de Decisão,
+
+Tenho vídeo do sistema,
+
+Interessados me Contatar no 55 9671 1190
+
+Posso fazer alterações conforme necessidade.

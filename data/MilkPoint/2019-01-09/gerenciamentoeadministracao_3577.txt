@@ -1,0 +1,10 @@
+motor mwm 229 para gerar energia
+Bom dia pessoal!! de antemão me desculpo pela ignorância no assunto e pela gambiarra que quero criar mas vamos la. 
+Possuo uma camioneta f1000 motor mwm e quero utilizar o motor( e talvez cambio e diferencial) para montar um gerador e também elaborar um sistema de bombeamento de agua de um poço de 6 metros para um tanque de peixes. 
+1. A ideia é produzir energia para sustentar 6 freezers horizontal de 2 portas 24 horas por dia, assim, De quantos KVA devera ser o gerador(alternador) que sera acoplado junto ao motor? 
+2. qual seria mais eficiente e econômico, ter esse motor e gerador ligado o tempo todo, ou conectar o gerador  a baterias estacionarias??  assim sendo as baterias que sustentariam os freezers e o motor ligaria esporadicamente somente para recarga das baterias 
+3. independente das respostas das perguntas acima, qual outros equipamentos precisarei ter no sistema por exemplo: regulador de voltarem, inversor, amperímetro, voltímetro, etc??? 
+4. Devo usar somente o motor conectado diretamente ao gerador(alternador) ou poderia aproveitar o cambio e diferencial da camioneta para talvez optimizar força ou economizar combustível? 
+5. CAso eu conecte o gerador através de correias em um dos lados do diferencial, a rotação(em primeira marcha) seria suficiente para   gerar energia? a ideia é utilizar o outro lado do diferencial para conectar a uma bomba dagua e assim sendo o motor estada bombeando agua e gerando energia durante seu funcionamento. 
+Agradeço as dicas 
+Marco  79 96402535 vivo/whatsup

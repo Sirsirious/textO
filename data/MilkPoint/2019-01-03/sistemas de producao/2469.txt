@@ -1,0 +1,7 @@
+calculo para lotacao de piquetes
+Gostaria de saber como devo calcular a ha em relacao ao numero de animais em producao, isso e que fatores devo levar em concideracao para dimencionar a lotacao dos piquetes.
+Se alem da especie de planta e numero dos animais a categoria dos mesmos e chuvas e etc...
+
+Desde ja obrigado a todos pelas imformacoes, um forte abraco a todos!
+
+Gregorio.

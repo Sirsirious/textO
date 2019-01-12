@@ -1,0 +1,6 @@
+Soft Lactus
+É um programa de computador para gerenciamento de rebanhos bovinos leiteiros voltado para usuários que possuem conhecimento básico de sistema de produção de leite, incluindo manejo animal, reprodução, produção de leite, sanidade e pesagens de animais.
+
+http://repositorio.agrolivre.gov.br/projects/lactus/
+
+Qualquer duvida é só postar :D

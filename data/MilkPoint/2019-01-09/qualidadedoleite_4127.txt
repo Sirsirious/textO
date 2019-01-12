@@ -1,0 +1,4 @@
+TRANSPORTE DO LEITE E ANÁLISE DAS AMOSTRAS DE MATÉRIA PRIMA NA PLATAFORMA
+Estou com duvida em relação aos testes de qualidade da materia-prima.
+No laticinio a coleta de leite é feita em caminhão tanque, porém esse leite não está resfriado, inicialmente é realizado o teste de alizarol. pelo proprio motorista. Na plataforma de recepção coleta-se a amostra e faz o teste de densidade com termolactodensimetro e o teste de Acidez titulavel. 
+A duvida é, para se fazer esses testes é necessario a coleta de amostra de cada fornecedor ou essa amostra pode ser coletada do proprio caminhão tanque? Seria necessario a realização de outros testes ou esses já atendem o que exige a legislação?

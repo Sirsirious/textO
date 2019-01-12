@@ -1,0 +1,13 @@
+Pastagem rotacionada - Piquetes
+Pessoal, estamos pensando em piquetear os pastos das vacas leiteiras. É impressionante o ganho de área e portanto o ganho na eficiência de pastagem que se consegue com este sistema. A dúvida que temos é a seguinte: o sistema Voisin admite uma permanência de até 3 dias em cada piquete, sendo 1 dia o ideal. De acordo com as várias fontes que consultamos, deve-se ter 50 m2 por vaca para piquetes de 1 dia e 67 m2 para piquetes de 3 dias. Considerando-se que: 1) a diferença de 50 para 67 m2 não é problema;  2) no piquete de 3 dias o gasto com cerca é menor e 3) o piquete de 3 dias é mais fácil de ser projetado/implementado em nossos pastos, estamos optando pelo piquete de 3 dias.
+
+Ou há algum outro fator que recomende fortemente o piquete de 1 dia?
+
+Antecipadamente grato,
+
+Marcos
+
+
+
+<hr>
+Marcos Tavares Martins

@@ -1,0 +1,5 @@
+CCS e escore de células somáticas
+Prezados,
+
+Gostaria de saber como efetuar a conversão do valor da contagem de células somáticas para o escore de células somáticas.
+Obrigado!

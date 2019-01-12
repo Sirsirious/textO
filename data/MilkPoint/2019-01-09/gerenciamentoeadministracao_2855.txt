@@ -1,0 +1,17 @@
+Medindo a eficiência de sistemas
+Prezados amigos,
+
+Gostaria de abrir este tópico para discutir e ouvir a opinião dos amigos sobre os métodos e sistemas para se medir a eficiência de sistemas de produção.
+
+A algum tempo atrás eu propus a criação de um índice adimencional de medida da eficiência de um sistema pelo valor da proteína ingerida pelo gado em função da proteína vendida na forma de leite. O sistema continha algumas imperfeições e eu praticamente abandonei sua evolução.
+
+Mas a partir deste estudo visualizei um outro índice que pode perfeitamente medir a eficiência do sistema como um todo, incluindo o controverso custo de oportunidade.
+
+Chamei este índice R$InOut, que nada mais é do que a razão entre Reais ingeridos pelas vacas e Reais produzidos pelas vacas, de forma simplista R$ ingeridos / R$ produzidos.
+
+Por ser adimencional, no meu modo de ver pode ser um bom índice para medição da eficiência dos sistemas, até emsmo para correção de condutas. O seu valor vai estar compreendido entre 0+ até 1, sendo que valores mais próximos de zero significam sistemas otimizados e valores próximos de um sigficam sistemas que precisam ser otimizados.
+
+Com o uso de planilhas eletrônicas do tipo Excel todo o sistema pode ser otimizado e mudanças podem ser visualizadas antes mesmo de sua efetivação.
+
+Um grande abraço a todos
+Ramon Benicio

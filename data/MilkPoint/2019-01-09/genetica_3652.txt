@@ -1,0 +1,3 @@
+GENES ENDÓGENOS
+Gostaria de saber como calcular o delta delta Ct usando mais de um gene endógeno????
+Eu sei que existe uma normalização para a escolha dos melhores genes, mas como fazer um cálculo dom 3 endógenos, por exemplo?

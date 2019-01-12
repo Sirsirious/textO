@@ -1,0 +1,19 @@
+
+Caro Varlon,
+
+Aqui vale o mesmo principio utilizado para se aferir a disponibilidade de MS. Use o método do quadrado ( já descrito por nós em algum fórum por aqui...)
+
+http://www.milkpoint.com.br/?actA=31&areaID=82&idTopico=1470&idCategoria=5&Categoria=Pastagens%20e%20Conservação%20de%20Forragens&topico=piquete%20rotacionado&Op=exibir_reply
+
+Sabendo a disponibilidade de MS antes da entrada dos animais no piquete, após a saída dos mesmos, lance novamente o quadrado e corte rente ao solo o que restou da forrageira.
+
+A quantidade inicial menos a quantidade final de MS será igual à eficiência de pastejo, por exemplo:
+
+0,5kg de MS/m2 na entrada
+0,2kg de MS/m2 na saida
+0,5 - 0,2 = 0,3
+eficiência de pastejo = 60%
+
+Cordialmente,
+
+Helio Cabral Jr

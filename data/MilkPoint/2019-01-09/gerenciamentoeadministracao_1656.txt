@@ -1,0 +1,16 @@
+Ontologia para Agropecuária
+Pessoal, bom dia, estou trabalhando em um projeto do mestrado que visa aumentar  a disseminação de informações entre pessoas com o mesmo interesse, isto é, entre comunidades que podem estar espalhadas na Web. A nossa idéia é mostrar essa aplicação empregando comunidades relacionadas a agropecuária. Achamos que seja uma área ainda aberta para a computação e crucial para o nosso país, ainda mais para nossa região (Goiás). Por isso, gostaria de saber se alguém conhece alguma ontologia para qualquer área da agropecuária? Estou precisando urgentemente deste material e não consigo encontrar. Caso não exista nenhuma, terei que criar uma, neste caso irei precisar de um material de referência que me auxilie. Este material tem que me dizer, por exemplo, que 
+  * gado é um super conceito em relação aos conceitos gir, nelore, .... ; 
+  * que a raça holandesa é mais indicada a produção de leite do que a nelore, ...;
+  * etc.
+
+Algo assim, como esta área é muito vasta, a minha ontologia tem que ser bem especifica, ou seja, tratar só gado de corte ou só gado de leite, mesmo assim, dentro de um assunto especifico.  
+
+Desde já agradeço!
+
+Júnio César
+
+
+
+<hr>
+Júnio César de Lima
