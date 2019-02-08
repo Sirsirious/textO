@@ -1,0 +1,4803 @@
+,from,to
+0,deixar,brasil
+1,substância,mistura
+2,substância,matéria
+3,substância,química
+4,substância,leite
+5,substância,composição química
+6,substância,água
+7,gado,cavalo
+8,sombrite,população
+9,sombrite,brasil
+10,filha,mãe
+11,leiteiro,manteiga
+12,leiteiro,ovo
+13,leiteiro,gado
+14,leiteiro,queijo
+15,leiteiro,leite
+16,agricultura,árvore
+17,agricultura,cultura
+18,agricultura,adubação
+19,agricultura,irrigação
+20,agricultura,sorgo
+21,agricultura,genética
+22,agricultura,resíduo
+23,agricultura,ambiente
+24,agricultura,eficiência
+25,agricultura,medicamento
+26,agricultura,energia
+27,agricultura,microrganismo
+28,agricultura,técnica
+29,agricultura,cerca
+30,agricultura,semente
+31,agricultura,alimento
+32,agricultura,fertilidade
+33,agricultura,produtividade
+34,agricultura,solo
+35,agricultura,água
+36,agricultura,milho
+37,agricultura,fazenda
+38,agricultura,nitrogênio
+39,agricultura,produção
+40,agricultura,fibra
+41,agricultura,madeira
+42,agricultura,indústria
+43,agricultura,transporte
+44,heterose,cavalo
+45,heterose,genoma
+46,heterose,melhoramento genético
+47,heterose,clonagem
+48,heterose,vaca
+49,heterose,agricultura
+50,heterose,folha
+51,heterose,animai
+52,heterose,fêmea
+53,heterose,gene
+54,heterose,semente
+55,heterose,espécie
+56,heterose,planta
+57,heterose,elefante
+58,heterose,genética
+59,jovens,cultura
+60,jovens,brasil
+61,jovens,sexo
+62,jovens,agricultura
+63,ocorrem,ovo
+64,ocorrem,brasil
+65,andropogon,espécie
+66,secas,temperatura
+67,secas,irrigação
+68,secas,ambiente
+69,secas,semente
+70,selênio,magnésio
+71,selênio,fósforo
+72,selênio,água
+73,selênio,alumínio
+74,selênio,cálcio
+75,selênio,composto orgânico
+76,selênio,mineral
+77,selênio,sódio
+78,selênio,sólido
+79,selênio,vida
+80,selênio,cobalto
+81,mamários,cavalo
+82,mamários,glândula
+83,mamários,proteína
+84,mamários,microrganismo
+85,mamários,ovo
+86,mamários,bactéria
+87,mamários,hormônio
+88,mamários,leite
+89,mamários,espécie
+90,imunoglobulina,cavalo
+91,imunoglobulina,genoma
+92,imunoglobulina,clonagem
+93,imunoglobulina,inflamação
+94,imunoglobulina,organismo
+95,imunoglobulina,proteína
+96,imunoglobulina,ph
+97,imunoglobulina,bactéria
+98,imunoglobulina,infecção
+99,imunoglobulina,parasitismo
+100,imunoglobulina,gene
+101,imunoglobulina,ureia
+102,imunoglobulina,sangue
+103,concentrada,frequência
+104,concentrada,padrão
+105,concentrada,energia
+106,concentrada,adição
+107,inclinação,declive
+108,nutritivo,alimentação
+109,nutritivo,vitamina
+110,nutritivo,energia
+111,nutritivo,proteína
+112,nutritivo,brasil
+113,nutritivo,gordura
+114,nutritivo,ração
+115,vermis,equilíbrio
+116,chuvas,árvore
+117,chuvas,volume
+118,chuvas,óleo
+119,chuvas,agricultura
+120,chuvas,cultura
+121,chuvas,brasil
+122,chuvas,água
+123,chuvas,bactéria
+124,chuvas,seca
+125,chuvas,superfície
+126,chuvas,inverno
+127,chuvas,sólido
+128,chuvas,líquido
+129,chuvas,planta
+130,chuvas,solo
+131,brizantha,gramínea
+132,brizantha,bactéria
+133,mantença,população
+134,mantença,brasil
+135,mantença,gado
+136,mantença,madeira
+137,mantença,inverno
+138,mantença,sal
+139,desenvolvam,mestiço
+140,desenvolvam,brasil
+141,mão,vagina
+142,líquido,temperatura
+143,líquido,volume
+144,líquido,partícula
+145,líquido,matéria
+146,líquido,sólido
+147,líquido,água
+148,gêmeo,gestação
+149,gêmeo,genoma
+150,gêmeo,placenta
+151,sal,alimentação
+152,sal,fosfato
+153,sal,magnésio
+154,sal,ph
+155,sal,alumínio
+156,sal,cálcio
+157,sal,composto orgânico
+158,sal,mistura
+159,sal,sólido
+160,sal,água
+161,parto,árvore
+162,parto,acidez
+163,parto,médico
+164,parto,cultura
+165,parto,lactação
+166,parto,brasil
+167,parto,dor
+168,parto,infecção
+169,parto,útero
+170,parto,placenta
+171,parto,vagina
+172,parto,hormônio
+173,parto,cérvix
+174,parto,inseminação artificial
+175,corporal,dano
+176,corporal,aborto
+177,corporal,dor
+178,corporal,útero
+179,corporal,enfermidade
+180,corporal,parto
+181,maneira,árvore
+182,maneira,orgânico
+183,maneira,papel
+184,maneira,energia
+185,maneira,célula
+186,maneira,inseto
+187,maneira,água
+188,maneira,nutriente
+189,maneira,polpa
+190,maneira,fibra
+191,maneira,espécie
+192,maneira,planta
+193,maneira,solo
+194,maneira,semente
+195,cmt,dna
+196,cmt,genética
+197,espera,brasil
+198,processo,manutenção
+199,processo,insumo
+200,processo,controle
+201,processo,planejamento
+202,bovino,pasto
+203,bovino,carne
+204,bovino,chifre
+205,bovino,animal
+206,bovino,leite
+207,bovino,zebu
+208,infecção,inflamação
+209,infecção,organismo
+210,infecção,brasil
+211,infecção,microrganismo
+212,infecção,bactéria
+213,infecção,antibiótico
+214,infecção,doença
+215,atendendo,população
+216,atendendo,açúcar
+217,atendendo,energia
+218,atendendo,agricultura
+219,atendendo,média
+220,atendendo,carne
+221,atendendo,cultura
+222,atendendo,contagem
+223,atendendo,brasil
+224,atendendo,mestiço
+225,atendendo,serviço
+226,atendendo,madeira
+227,atendendo,paí
+228,atendendo,clima temperado
+229,atendendo,região
+230,atendendo,cerrado
+231,aproveitamento,arquitetura
+232,importantes,umidade relativa
+233,importantes,população
+234,importantes,banco
+235,importantes,europeu
+236,importantes,açúcar
+237,importantes,área
+238,importantes,sal
+239,importantes,contagem
+240,importantes,brasil
+241,importantes,retirada
+242,importantes,indústria
+243,importantes,inverno
+244,importantes,transporte
+245,importantes,arquitetura
+246,feita,banco
+247,sólido,volume
+248,sólido,forma
+249,sólido,partícula
+250,sólido,matéria
+251,sólido,líquido
+252,sólido,água
+253,mercado,eficiência
+254,mercado,mercado
+255,mercado,agricultura
+256,mercado,cultura
+257,mercado,produção
+258,mercado,indústria
+259,mercado,transporte
+260,cavalos,agricultura
+261,cavalos,brasil
+262,cavalos,animal
+263,cavalos,raça
+264,cavalos,genética
+265,cavalos,inverno
+266,cavalos,transporte
+267,cavalos,espécie
+268,kg,kg
+269,kg,peso
+270,início,brasil
+271,currais,curral
+272,currais,população
+273,currais,agricultura
+274,currais,touro
+275,currais,brasil
+276,currais,bovino
+277,currais,milho
+278,currais,arquitetura
+279,bons,cultura
+280,papel,árvore
+281,papel,qualidade
+282,papel,fibra
+283,papel,madeira
+284,papel,suporte
+285,papel,folha
+286,comportamento,glândula
+287,comportamento,cultura
+288,comportamento,inseto
+289,comportamento,animai
+290,comportamento,clínica
+291,comportamento,gene
+292,comportamento,reação
+293,comportamento,espécie
+294,comportamento,ambiente
+295,touro,brasil
+296,vaca,cavalo
+297,vaca,bovino
+298,vaca,espécie
+299,vaca,inseminação artificial
+300,vaca,melhoramento genético
+301,vaca,macho
+302,vaca,carne
+303,vaca,animal
+304,vaca,bezerro
+305,vaca,gir
+306,vaca,útero
+307,vaca,fêmea
+308,vaca,leite
+309,vaca,radiação solar
+310,vaca,guzerá
+311,vaca,reprodução
+312,vaca,espermatozoide
+313,vaca,sêman
+314,vaca,brasil
+315,vaca,chifre
+316,vaca,calor
+317,vaca,produtividade
+318,vaca,elefante
+319,vaca,rúman
+320,vaca,zebu
+321,eficiente,energia
+322,eficiente,agricultura
+323,eficiente,cultura
+324,eficiente,transporte
+325,eficiente,produção
+326,eficiente,indústria
+327,eficiente,calor
+328,confinada,brasil
+329,produzida,brasil
+330,produzida,açúcar
+331,produzida,água
+332,vacas,cavalo
+333,vacas,bovino
+334,vacas,espécie
+335,vacas,inseminação artificial
+336,vacas,melhoramento genético
+337,vacas,macho
+338,vacas,carne
+339,vacas,animal
+340,vacas,bezerro
+341,vacas,gir
+342,vacas,útero
+343,vacas,fêmea
+344,vacas,leite
+345,vacas,radiação solar
+346,vacas,guzerá
+347,vacas,reprodução
+348,vacas,espermatozoide
+349,vacas,sêman
+350,vacas,brasil
+351,vacas,chifre
+352,vacas,calor
+353,vacas,produtividade
+354,vacas,elefante
+355,vacas,rúman
+356,vacas,zebu
+357,evitar,tanzânia
+358,evitar,espécie
+359,evitar,brasil
+360,agentes,química
+361,agentes,vida
+362,perder,brasil
+363,hormônio,reprodução
+364,hormônio,organismo
+365,hormônio,célula
+366,hormônio,hormônio
+367,hormônio,sangue
+368,hormônio,ovário
+369,hormônio,placenta
+370,contaminem,área
+371,parir,literatura
+372,parir,área
+373,parir,brasil
+374,parir,calcário
+375,parir,indústria
+376,produçõe,eficiência
+377,produçõe,agricultura
+378,produçõe,cultura
+379,produçõe,necessidade
+380,produçõe,custo
+381,produçõe,produto
+382,produçõe,processo
+383,produçõe,indústria
+384,produçõe,serviço
+385,produçõe,transporte
+386,produçõe,produtividade
+387,utilizá,consumo
+388,utilizá,máquina
+389,utilizá,agricultura
+390,utilizá,química
+391,utilizá,indústria
+392,utilizá,arquitetura
+393,etéreo,brasil
+394,ha,área
+395,cana,forrageira
+396,cana,europeu
+397,cana,açúcar
+398,cana,fósforo
+399,cana,brasil
+400,cana,espécie
+401,cana,inflorescência
+402,cana,sorgo
+403,cana,gramínea
+404,cana,milho
+405,cana,leguminosa
+406,cana,clima temperado
+407,cana,adubo
+408,cana,cultivar
+409,parasita,alimentação
+410,parasita,reprodução
+411,parasita,organismo
+412,parasita,ovo
+413,parasita,bactéria
+414,parasita,infecção
+415,parasita,parasitismo
+416,parasita,doença
+417,parasita,espécie
+418,finalidade,espécie
+419,finalidade,padrão
+420,finalidade,sistema
+421,lotação,cavalo
+422,lotação,brasil
+423,lotação,transporte
+424,lotação,paí
+425,lotação,taxon
+426,lotação,vida
+427,lotação,água
+428,sangue,inseto
+429,sangue,nutriente
+430,sangue,antibiótico
+431,sangue,doença
+432,sangue,hormônio
+433,sangue,vida
+434,genoma,organismo
+435,genoma,célula
+436,genoma,bactéria
+437,genoma,dna
+438,genoma,gene
+439,genoma,genética
+440,genoma,espécie
+441,pasto,agricultura
+442,pasto,irrigação
+443,pasto,milho
+444,pasto,fazenda
+445,pasto,ração
+446,incorporado,literatura
+447,incorporado,brasil
+448,econômica,consumo
+449,econômica,banco
+450,econômica,dado
+451,econômica,mercado
+452,econômica,agricultura
+453,econômica,cultura
+454,econômica,longo prazo
+455,econômica,custo
+456,econômica,produção
+457,econômica,declive
+458,econômica,paí
+459,vivo,brasil
+460,vivo,piquete
+461,contagem,população
+462,contagem,brasil
+463,purpureum,pennisetum
+464,purpureum,espécie
+465,purpureum,brasil
+466,seco,brasil
+467,canaleta,árvore
+468,canaleta,alimentação
+469,canaleta,arbusto
+470,canaleta,corpo
+471,canaleta,inverno
+472,canaleta,intestino delgado
+473,canaleta,paí
+474,canaleta,espécie
+475,canaleta,planta
+476,canaleta,folha
+477,canaleta,superfície
+478,canaleta,vida
+479,canaleta,europeu
+480,canaleta,macho
+481,canaleta,carne
+482,canaleta,mãe
+483,canaleta,descanso
+484,canaleta,animal
+485,canaleta,fêmea
+486,canaleta,lavoura
+487,canaleta,alimento
+488,canaleta,brasil
+489,canaleta,capim
+490,canaleta,comportamento
+491,canaleta,pastagem
+492,canaleta,fertilidade
+493,canaleta,peso
+494,canaleta,solo
+495,canaleta,mão
+496,canaleta,idade
+497,canaleta,agricultura
+498,canaleta,gestação
+499,canaleta,doença
+500,canaleta,madeira
+501,canaleta,nascimento
+502,ensilagem,alimentação
+503,ensilagem,alfafa
+504,ensilagem,sorgo
+505,ensilagem,gramínea
+506,ensilagem,intoxicação
+507,ensilagem,forragem
+508,ensilagem,ensilagem
+509,ensilagem,inverno
+510,ensilagem,planta
+511,ensilagem,pasto
+512,ensilagem,ph
+513,ensilagem,nutriente
+514,ensilagem,fermentação
+515,ensilagem,gado
+516,ensilagem,estiagem
+517,ensilagem,açúcar
+518,ensilagem,proteína
+519,ensilagem,bactéria
+520,ensilagem,leguminosa
+521,ensilagem,milho
+522,ensilagem,fenação
+523,ensilagem,queijo
+524,ensilagem,silo
+525,ensilagem,matéria seca
+526,fabricante,eficiência
+527,fabricante,mercado
+528,fabricante,agricultura
+529,fabricante,cultura
+530,fabricante,qualidade
+531,fabricante,produção
+532,fabricante,transporte
+533,lavoura,agricultura
+534,madeira,árvore
+535,madeira,orgânico
+536,madeira,papel
+537,madeira,energia
+538,madeira,célula
+539,madeira,inseto
+540,madeira,água
+541,madeira,nutriente
+542,madeira,polpa
+543,madeira,fibra
+544,madeira,espécie
+545,madeira,planta
+546,madeira,solo
+547,madeira,semente
+548,bovinos,pasto
+549,bovinos,carne
+550,bovinos,chifre
+551,bovinos,animal
+552,bovinos,leite
+553,bovinos,zebu
+554,fêmea,macho
+555,fêmea,espermatozoide
+556,fêmea,sexo
+557,minerai,alimento
+558,minerai,fosfato
+559,minerai,magnésio
+560,minerai,fósforo
+561,minerai,cálcio
+562,minerai,sólido
+563,minerai,composição química
+564,minerai,sal
+565,geneticamente,genoma
+566,geneticamente,variabilidade genética
+567,geneticamente,organismo
+568,geneticamente,agricultura
+569,geneticamente,proteína
+570,geneticamente,animai
+571,geneticamente,dna
+572,geneticamente,gene
+573,geneticamente,planta
+574,níveis,inclinação
+575,forrageiro,alimentação
+576,forrageiro,pasto
+577,forrageiro,aveia
+578,forrageiro,carrapato
+579,forrageiro,vaca
+580,forrageiro,agricultura
+581,forrageiro,alfafa
+582,forrageiro,gado
+583,forrageiro,solo
+584,parasitária,babesiose
+585,dieta,médico
+586,dieta,vitamina
+587,dieta,química
+588,dieta,arquitetura
+589,nesse,consumo
+590,nesse,mercado
+591,nesse,energia
+592,nesse,brasil
+593,nesse,água
+594,nesse,transporte
+595,nesse,indústria
+596,nesse,taxon
+597,nesse,insumo
+598,azevém,espécie
+599,informaçõe,consumo
+600,informaçõe,dado
+601,informaçõe,padrão
+602,informaçõe,cultura
+603,informaçõe,forma
+604,informaçõe,controle
+605,equinos,cavalo
+606,equinos,animal
+607,nitrogênio,estrela
+608,nitrogênio,alimento
+609,nitrogênio,magnésio
+610,nitrogênio,médico
+611,nitrogênio,fósforo
+612,nitrogênio,proteína
+613,nitrogênio,alumínio
+614,nitrogênio,cálcio
+615,nitrogênio,antibiótico
+616,nitrogênio,leguminosa
+617,nitrogênio,contaminação
+618,nitrogênio,selênio
+619,nitrogênio,sódio
+620,nitrogênio,ureia
+621,nitrogênio,sal
+622,nitrogênio,cobalto
+623,sexo,macho
+624,sexo,reprodução
+625,sexo,espermatozoide
+626,sexo,célula
+627,sexo,cultura
+628,sexo,inseto
+629,sexo,bactéria
+630,sexo,animai
+631,sexo,genético
+632,sexo,comportamento
+633,sexo,fêmea
+634,sexo,vagina
+635,sexo,espécie
+636,atender,temperatura
+637,atender,população
+638,atender,cultura
+639,atender,contagem
+640,atender,brasil
+641,atender,serviço
+642,imediatamente,médico
+643,imediatamente,brasil
+644,imediatamente,água
+645,calcário,fosfato
+646,calcário,ph
+647,calcário,cálcio
+648,calcário,agricultura
+649,veterinário,alimento
+650,veterinário,rúman
+651,veterinário,médico
+652,veterinário,carne
+653,veterinário,cultura
+654,veterinário,higiene
+655,veterinário,brasil
+656,veterinário,rebanho
+657,veterinário,ovo
+658,veterinário,bovino
+659,veterinário,prevenção
+660,veterinário,química
+661,veterinário,gado
+662,veterinário,doença
+663,veterinário,genética
+664,veterinário,leite
+665,veterinário,controle
+666,veterinário,tratamento
+667,veterinário,arquitetura
+668,veterinário,inseminação artificial
+669,zebu,guzerá
+670,zebu,carne
+671,zebu,brasil
+672,zebu,animal
+673,zebu,bovino
+674,zebu,gir
+675,zebu,raça
+676,zebu,leite
+677,zebu,espécie
+678,direta,química
+679,direta,brasil
+680,direta,arquitetura
+681,direta,sistema
+682,gerente,brasil
+683,gerente,controle
+684,elefante,cavalo
+685,elefante,árvore
+686,elefante,arbusto
+687,elefante,tanzânia
+688,elefante,dna
+689,fez,área
+690,rústico,arquitetura
+691,sorgo,alimento
+692,sorgo,brasil
+693,sorgo,milho
+694,sorgo,espécie
+695,sorgo,solo
+696,detecção,imunoglobulina
+697,detecção,proteína
+698,detecção,doença
+699,imersão,imersão
+700,imersão,vida
+701,vacina,proteína
+702,vacina,brasil
+703,vacina,microrganismo
+704,vacina,infecção
+705,vacina,sistema imunológico
+706,vacina,doença
+707,vacina,terapia
+708,consorciação,espécie
+709,consorciação,solo
+710,consorciação,agricultura
+711,estiagem,temperatura
+712,estiagem,irrigação
+713,estiagem,ambiente
+714,estiagem,semente
+715,descartável,produto
+716,descartável,durabilidade
+717,conforto,brasil
+718,conforto,rústico
+719,conforto,área
+720,queijo,vaca
+721,queijo,aborto
+722,queijo,higiene
+723,queijo,cálcio
+724,queijo,bovino
+725,queijo,carne
+726,queijo,lactose
+727,queijo,manteiga
+728,queijo,fermentação
+729,queijo,leite
+730,queijo,alimento
+731,queijo,fósforo
+732,queijo,brasil
+733,queijo,gordura
+734,queijo,proteína
+735,queijo,bactéria
+736,queijo,pasteurização
+737,queijo,parto
+738,queijo,agricultura
+739,queijo,doença
+740,queijo,queijo
+741,silo,silagem
+742,silo,umidade
+743,silo,agricultura
+744,silo,limpeza
+745,silo,fazenda
+746,garantia,equipamento
+747,puro,puro
+748,devendo,literatura
+749,devendo,papel
+750,devendo,composição
+751,devendo,forma
+752,devendo,técnica
+753,devendo,superfície
+754,devendo,arquitetura
+755,adequado,resultado
+756,adequado,objetivo
+757,adequado,comportamento
+758,limpeza,higiene
+759,limpeza,água
+760,limpeza,brasil
+761,limpeza,corpo
+762,regiõe,paí
+763,animais,alimentação
+764,animais,energia
+765,animais,organismo
+766,animais,célula
+767,animais,parasita
+768,animais,inseto
+769,animais,proteína
+770,animais,cálcio
+771,animais,ovo
+772,animais,animal
+773,animais,matéria
+774,animais,genética
+775,animais,espécie
+776,animais,vida
+777,adição,adição
+778,europeia,literatura
+779,europeia,população
+780,europeia,máquina
+781,europeia,área
+782,europeia,agricultura
+783,europeia,aborto
+784,europeia,cultura
+785,europeia,doença
+786,europeia,econômica
+787,europeia,indústria
+788,europeia,paí
+789,europeia,transporte
+790,europeia,clima temperado
+791,europeia,região
+792,vitamina,célula
+793,vitamina,aborto
+794,vitamina,higiene
+795,vitamina,diarreia
+796,vitamina,cálcio
+797,vitamina,organismo
+798,vitamina,fosfato
+799,vitamina,carne
+800,vitamina,nutriente
+801,vitamina,manteiga
+802,vitamina,ovo
+803,vitamina,leite
+804,vitamina,radiação solar
+805,vitamina,açúcar
+806,vitamina,proteína
+807,vitamina,bactéria
+808,vitamina,dieta
+809,vitamina,parto
+810,vitamina,água
+811,vitamina,agricultura
+812,vitamina,magnésio
+813,vitamina,composto orgânico
+814,vitamina,infecção
+815,vitamina,queijo
+816,escore,cultura
+817,plantas,árvore
+818,plantas,arbusto
+819,plantas,célula
+820,plantas,irrigação
+821,plantas,cálcio
+822,plantas,gramínea
+823,plantas,genética
+824,plantas,taxon
+825,plantas,espécie
+826,plantas,vida
+827,plantas,folha
+828,plantas,ambiente
+829,plantas,energia
+830,plantas,organismo
+831,plantas,parasita
+832,plantas,mineral
+833,plantas,animal
+834,plantas,radiação solar
+835,plantas,fez
+836,plantas,semente
+837,plantas,fósforo
+838,plantas,bactéria
+839,plantas,leguminosa
+840,plantas,parasitismo
+841,plantas,sal
+842,plantas,solo
+843,plantas,água
+844,plantas,agricultura
+845,plantas,magnésio
+846,plantas,inseto
+847,plantas,inflorescência
+848,plantas,fazenda
+849,plantas,matéria
+850,plantas,sexo
+851,plantas,madeira
+852,plantas,cobalto
+853,sódio,magnésio
+854,sódio,fósforo
+855,sódio,água
+856,sódio,alumínio
+857,sódio,cálcio
+858,sódio,mineral
+859,sódio,nitrogênio
+860,sódio,selênio
+861,sódio,sólido
+862,sódio,calor
+863,sódio,cobalto
+864,compostagem,óleo
+865,compostagem,agricultura
+866,compostagem,biossólido
+867,compostagem,magnésio
+868,compostagem,proteína
+869,compostagem,fósforo
+870,compostagem,ph
+871,compostagem,gordura
+872,compostagem,nutriente
+873,compostagem,cálcio
+874,compostagem,ovo
+875,compostagem,bactéria
+876,compostagem,composto
+877,compostagem,fermentação
+878,compostagem,legislação
+879,compostagem,nitrogênio
+880,compostagem,resíduo
+881,compostagem,solo
+882,plantio,agricultura
+883,cálcio,base
+884,cálcio,acidez
+885,cálcio,fosfato
+886,cálcio,magnésio
+887,cálcio,fósforo
+888,cálcio,proteína
+889,cálcio,alumínio
+890,cálcio,água
+891,cálcio,mineral
+892,cálcio,calcário
+893,cálcio,sódio
+894,cálcio,selênio
+895,cálcio,cobalto
+896,ambientais,agricultura
+897,ambientais,reação inflamatória
+898,ambientais,aborto
+899,ambientais,higiene
+900,ambientais,inseto
+901,ambientais,brasil
+902,ambientais,irrigação
+903,ambientais,embrapa
+904,ambientais,nutriente
+905,ambientais,bactéria
+906,ambientais,estresse
+907,ambientais,cerrado
+908,coast,umidade relativa
+909,coast,paí
+910,coast,população
+911,coast,área
+912,cítrica,fermentação
+913,cítrica,água
+914,cítrica,in
+915,cítrica,indústria
+916,babesiose,febre
+917,babesiose,antibiótico
+918,babesiose,bovino
+919,babesiose,babesia
+920,feito,banco
+921,puras,aplicação
+922,puras,grau
+923,biológico,célula
+924,biológico,espécie
+925,biológico,planta
+926,biológico,ambiente
+927,biológico,vida
+928,biológico,energia
+929,biológico,organismo
+930,biológico,parasita
+931,biológico,ph
+932,biológico,sistema imunológico
+933,biológico,mosca
+934,biológico,população
+935,biológico,reprodução
+936,biológico,espermatozoide
+937,biológico,bactéria
+938,biológico,química
+939,biológico,comportamento
+940,biológico,desenvolvimento
+941,biológico,genoma
+942,biológico,agricultura
+943,biológico,dna
+944,biológico,matéria
+945,biológico,gene
+946,biológico,genética
+947,biológico,arquitetura
+948,qualidade,eficiência
+949,qualidade,literatura
+950,qualidade,cultura
+951,qualidade,água
+952,qualidade,produto
+953,qualidade,serviço
+954,qualidade,durabilidade
+955,qualidade,peso
+956,qualidade,produtividade
+957,proibido,árvore
+958,proibido,respeito
+959,proibido,reprodução
+960,proibido,prática
+961,quantidade,adição
+962,quantidade,medida
+963,quantidade,qualidade
+964,quantidade,substância
+965,quantidade,forma
+966,resultados,brasil
+967,água,célula
+968,água,higiene
+969,água,diarreia
+970,água,irrigação
+971,água,tanzânia
+972,água,planta
+973,água,vida
+974,água,estrela
+975,água,melhoramento genético
+976,água,energia
+977,água,organismo
+978,água,limpeza
+979,água,seca
+980,água,lavoura
+981,água,temperatura
+982,água,vitamina
+983,água,óleo
+984,água,proteína
+985,água,brasil
+986,água,bactéria
+987,água,sólido
+988,água,sal
+989,água,produtividade
+990,água,solo
+991,água,agricultura
+992,água,inseto
+993,água,doença
+994,água,líquido
+995,somáticas,genética
+996,somáticas,célula
+997,forragem,alimentação
+998,forragem,pasto
+999,forragem,aveia
+1000,forragem,carrapato
+1001,forragem,vaca
+1002,forragem,agricultura
+1003,forragem,alfafa
+1004,forragem,gado
+1005,forragem,solo
+1006,folha,vida
+1007,folha,volume
+1008,folha,célula
+1009,folha,inflorescência
+1010,folha,espécie
+1011,folha,nutriente
+1012,folha,gramínea
+1013,folha,capim
+1014,folha,madeira
+1015,folha,inverno
+1016,folha,clima temperado
+1017,folha,superfície
+1018,folha,folha
+1019,folha,semente
+1020,cru,medicamento
+1021,cru,acidez
+1022,cru,brasil
+1023,cru,composto orgânico
+1024,cru,nitrogênio
+1025,cru,água
+1026,multípara,árvore
+1027,multípara,acidez
+1028,multípara,médico
+1029,multípara,cultura
+1030,multípara,lactação
+1031,multípara,brasil
+1032,multípara,dor
+1033,multípara,infecção
+1034,multípara,útero
+1035,multípara,placenta
+1036,multípara,vagina
+1037,multípara,hormônio
+1038,multípara,cérvix
+1039,multípara,inseminação artificial
+1040,desaleitamento,forragem
+1041,fazenda,cavalo
+1042,fazenda,árvore
+1043,fazenda,agricultura
+1044,fazenda,irrigação
+1045,fazenda,brasil
+1046,fazenda,gado
+1047,gene,genoma
+1048,gene,proteína
+1049,gene,bactéria
+1050,gene,dna
+1051,gene,genética
+1052,alimentar,alimento
+1053,alimentar,papel
+1054,alimentar,agricultura
+1055,alimentar,brasil
+1056,alimentar,irrigação
+1057,alimentar,milho
+1058,alimentar,fazenda
+1059,alimentar,indústria
+1060,alimentar,ração
+1061,alimentar,insumo
+1062,desinfetante,proteína
+1063,desinfetante,ph
+1064,desinfetante,célula
+1065,aleitamento,diarreia
+1066,aleitamento,infecção
+1067,aleitamento,útero
+1068,aleitamento,placenta
+1069,aleitamento,colostro
+1070,aleitamento,fertilidade
+1071,aleitamento,peso
+1072,aleitamento,parto
+1073,aleitamento,inseminação artificial
+1074,xaraés,crônica
+1075,puros,hormônio
+1076,puros,intestino delgado
+1077,puros,diarreia
+1078,puros,nutriente
+1079,aveia,açúcar
+1080,aveia,minerai
+1081,aveia,vitamina
+1082,aveia,magnésio
+1083,aveia,fósforo
+1084,aveia,proteína
+1085,aveia,gordura
+1086,aveia,cálcio
+1087,aveia,leguminosa
+1088,aveia,fibra
+1089,aveia,intestino delgado
+1090,aveia,espécie
+1091,aveia,água
+1092,ovo,gestação
+1093,ovo,animal
+1094,ovo,espermatozoide
+1095,responsáveis,base
+1096,responsáveis,energia
+1097,responsáveis,necessidade
+1098,responsáveis,brasil
+1099,responsáveis,química
+1100,responsáveis,processo
+1101,responsáveis,sistema
+1102,adubo,temperatura
+1103,adubo,brasil
+1104,adubo,água
+1105,adubo,seca
+1106,adubo,madeira
+1107,adubo,calor
+1108,adubo,solo
+1109,inverno,estrela
+1110,inverno,clima temperado
+1111,estratégico,planejamento
+1112,nlemfuensis,espécie
+1113,rotina,arquitetura
+1114,arborização,árvore
+1115,arborização,fosfato
+1116,arborização,brasil
+1117,arborização,concreto
+1118,arborização,madeira
+1119,arborização,esterco
+1120,arborização,água
+1121,antibiótico,bactéria
+1122,antibiótico,diarreia
+1123,antibiótico,infecção
+1124,antibiótico,microrganismo
+1125,frequência,sólido
+1126,frequência,líquido
+1127,frequência,matéria
+1128,dna,genoma
+1129,dna,açúcar
+1130,dna,célula
+1131,dna,fosfato
+1132,dna,fósforo
+1133,dna,proteína
+1134,dna,sangue
+1135,dna,bactéria
+1136,dna,animal
+1137,dna,nitrogênio
+1138,dna,dna
+1139,dna,gene
+1140,dna,genética
+1141,dna,espécie
+1142,dna,planta
+1143,dna,vida
+1144,fasciolose,dor
+1145,modificado,melhoramento genético
+1146,modificado,genoma
+1147,modificado,clonagem
+1148,modificado,organismo
+1149,modificado,brasil
+1150,modificado,embrapa
+1151,modificado,bactéria
+1152,modificado,dna
+1153,modificado,gene
+1154,modificado,genética
+1155,modificado,espécie
+1156,nascimento,organismo
+1157,nascimento,célula
+1158,nascimento,ovo
+1159,nascimento,bactéria
+1160,nascimento,útero
+1161,nascimento,vida
+1162,nascimento,parto
+1163,nascimento,semente
+1164,cestoide,alimento
+1165,cestoide,parasita
+1166,inseminação,espermatozoide
+1167,inseminação,sêman
+1168,inseminação,útero
+1169,inseminação,clínica
+1170,inseminação,parto
+1171,inseminação,placenta
+1172,fósforo,umidade
+1173,fósforo,capacidade
+1174,fósforo,alumínio
+1175,fósforo,dor
+1176,fósforo,cálcio
+1177,fósforo,sódio
+1178,fósforo,medicamento
+1179,fósforo,químico
+1180,fósforo,organismo
+1181,fósforo,fosfato
+1182,fósforo,mineral
+1183,fósforo,selênio
+1184,fósforo,minerai
+1185,fósforo,população
+1186,fósforo,proteína
+1187,fósforo,gordura
+1188,fósforo,sólido
+1189,fósforo,dieta
+1190,fósforo,formação
+1191,fósforo,água
+1192,fósforo,idade
+1193,fósforo,agricultura
+1194,fósforo,magnésio
+1195,fósforo,mortalidade
+1196,fósforo,nitrogênio
+1197,fósforo,doença
+1198,fósforo,ureia
+1199,fósforo,cobalto
+1200,disponibilidade,brasil
+1201,mastite,inflamação
+1202,mastite,glândula mamária
+1203,mastite,dor
+1204,mastite,bactéria
+1205,mastite,antibiótico
+1206,mastite,infecção
+1207,mastite,febre
+1208,essenciais,alimento
+1209,essenciais,ingestão
+1210,essenciais,proteína
+1211,essenciais,ph
+1212,essenciais,fermentação
+1213,essenciais,nitrogênio
+1214,essenciais,ureia
+1215,essenciais,água
+1216,esterco,agricultura
+1217,esterco,magnésio
+1218,esterco,fósforo
+1219,esterco,nutriente
+1220,esterco,cálcio
+1221,esterco,compostagem
+1222,esterco,fez
+1223,esterco,solo
+1224,entender,brasil
+1225,leite,mastite
+1226,leite,vaca
+1227,leite,higiene
+1228,leite,glândula mamária
+1229,leite,diarreia
+1230,leite,cálcio
+1231,leite,bovino
+1232,leite,zebu
+1233,leite,sódio
+1234,leite,genética
+1235,leite,hormônio
+1236,leite,espécie
+1237,leite,planta
+1238,leite,placenta
+1239,leite,queijo
+1240,leite,inflamação
+1241,leite,mãe
+1242,leite,nutriente
+1243,leite,lactose
+1244,leite,manteiga
+1245,leite,mistura
+1246,leite,fermentação
+1247,leite,selênio
+1248,leite,fêmea
+1249,leite,colostro
+1250,leite,minerai
+1251,leite,alimento
+1252,leite,ordenha
+1253,leite,açúcar
+1254,leite,vitamina
+1255,leite,fósforo
+1256,leite,brasil
+1257,leite,gordura
+1258,leite,proteína
+1259,leite,úbere
+1260,leite,pasteurização
+1261,leite,sal
+1262,leite,água
+1263,leite,magnésio
+1264,leite,lactação
+1265,leite,imunoglobulina
+1266,leite,dna
+1267,leite,mecânica
+1268,leite,doença
+1269,leite,gene
+1270,leite,indústria
+1271,leite,transporte
+1272,leite,químico
+1273,mistura,substância
+1274,mistura,leite
+1275,mistura,ventilação
+1276,mistura,química
+1277,dupla,brasil
+1278,dupla,madeira
+1279,incluem,literatura
+1280,incluem,população
+1281,incluem,tratado
+1282,incluem,energia
+1283,incluem,brasil
+1284,incluem,calcário
+1285,incluem,dna
+1286,incluem,serviço
+1287,incluem,indústria
+1288,incluem,paí
+1289,incluem,transporte
+1290,incluem,clima temperado
+1291,calor,papel
+1292,calor,alumínio
+1293,calor,inverno
+1294,calor,taxon
+1295,calor,vida
+1296,calor,umidade relativa
+1297,calor,energia
+1298,calor,organismo
+1299,calor,temperatura
+1300,calor,alimento
+1301,calor,população
+1302,calor,óleo
+1303,calor,proteína
+1304,calor,gordura
+1305,calor,partícula
+1306,calor,calor
+1307,calor,calórico
+1308,calor,água
+1309,calor,área
+1310,calor,concreto
+1311,calor,substância
+1312,calor,matéria
+1313,calor,madeira
+1314,calor,líquido
+1315,calor,químico
+1316,fêmeas,macho
+1317,fêmeas,espermatozoide
+1318,fêmeas,sexo
+1319,ph,agricultura
+1320,ph,concentração
+1321,ph,química
+1322,ph,leite
+1323,ph,sangue
+1324,ph,água
+1325,zebuínas,cavalo
+1326,zebuínas,bovino
+1327,zebuínas,espécie
+1328,zebuínas,inseminação artificial
+1329,zebuínas,melhoramento genético
+1330,zebuínas,macho
+1331,zebuínas,carne
+1332,zebuínas,animal
+1333,zebuínas,bezerro
+1334,zebuínas,gir
+1335,zebuínas,útero
+1336,zebuínas,fêmea
+1337,zebuínas,leite
+1338,zebuínas,radiação solar
+1339,zebuínas,guzerá
+1340,zebuínas,reprodução
+1341,zebuínas,espermatozoide
+1342,zebuínas,sêman
+1343,zebuínas,brasil
+1344,zebuínas,chifre
+1345,zebuínas,calor
+1346,zebuínas,produtividade
+1347,zebuínas,elefante
+1348,zebuínas,rúman
+1349,zebuínas,zebu
+1350,tratar,brasil
+1351,tratar,tratado
+1352,terapia,tratamento
+1353,terapia,doença
+1354,importante,papel
+1355,importante,sorgo
+1356,importante,bovino
+1357,importante,vivo
+1358,importante,inverno
+1359,importante,superfície
+1360,importante,pesquisa
+1361,importante,cerrado
+1362,importante,temperatura
+1363,importante,alimento
+1364,importante,população
+1365,importante,açúcar
+1366,importante,brasil
+1367,importante,calor
+1368,importante,água
+1369,importante,área
+1370,importante,milho
+1371,importante,mecânica
+1372,importante,doença
+1373,importante,madeira
+1374,importante,indústria
+1375,diarreia,medicamento
+1376,diarreia,açúcar
+1377,diarreia,parasita
+1378,diarreia,lactose
+1379,diarreia,bactéria
+1380,diarreia,antibiótico
+1381,diarreia,infecção
+1382,diarreia,intestino delgado
+1383,diarreia,fez
+1384,contraindicação,medicamento
+1385,dejeto,temperatura
+1386,dejeto,solo
+1387,dejeto,umidade
+1388,dejeto,agricultura
+1389,dejeto,irrigação
+1390,dejeto,água
+1391,dejeto,cálcio
+1392,dejeto,gramínea
+1393,dejeto,mineral
+1394,dejeto,seca
+1395,dejeto,planta
+1396,dejeto,inverno
+1397,dejeto,lagoa
+1398,dejeto,sal
+1399,biossólido,compostagem
+1400,biossólido,lodo
+1401,realizar,eficiência
+1402,realizar,pesquisa
+1403,realizar,agricultura
+1404,realizar,cultura
+1405,realizar,concreto
+1406,realizar,mineral
+1407,realizar,concentrado
+1408,realizar,remoção
+1409,realizar,produção
+1410,realizar,indústria
+1411,realizar,recuperação
+1412,realizar,transporte
+1413,realizar,água
+1414,árvore,papel
+1415,árvore,volume
+1416,árvore,solo
+1417,árvore,arbusto
+1418,árvore,inseto
+1419,árvore,brasil
+1420,árvore,espécie
+1421,árvore,água
+1422,árvore,altura
+1423,árvore,bactéria
+1424,árvore,declive
+1425,árvore,madeira
+1426,árvore,hormônio
+1427,árvore,clima temperado
+1428,árvore,planta
+1429,árvore,folha
+1430,árvore,cerrado
+1431,solo,organismo
+1432,solo,brasil
+1433,solo,água
+1434,solo,nutriente
+1435,solo,calcário
+1436,solo,partícula
+1437,solo,nitrogênio
+1438,solo,fertilidade
+1439,solo,planta
+1440,solo,sal
+1441,solo,adubo
+1442,recomendado,brasil
+1443,cobalto,vitamina
+1444,cobalto,magnésio
+1445,cobalto,fósforo
+1446,cobalto,alumínio
+1447,cobalto,mineral
+1448,cobalto,cálcio
+1449,cobalto,sódio
+1450,cobalto,selênio
+1451,cobalto,pasteurização
+1452,cobalto,sólido
+1453,magnésio,alimento
+1454,magnésio,agricultura
+1455,magnésio,fósforo
+1456,magnésio,alumínio
+1457,magnésio,cálcio
+1458,magnésio,mineral
+1459,magnésio,sódio
+1460,magnésio,dna
+1461,magnésio,selênio
+1462,magnésio,sal
+1463,magnésio,sólido
+1464,magnésio,cobalto
+1465,ingestão,alimentação
+1466,ingestão,alimento
+1467,ingestão,medicamento
+1468,ingestão,organismo
+1469,ingestão,parasita
+1470,ingestão,ovo
+1471,ingestão,bactéria
+1472,ingestão,doença
+1473,ingestão,fez
+1474,nutricional,alimentação
+1475,nutricional,alimento
+1476,nutricional,ingestão
+1477,nutricional,vitamina
+1478,nutricional,organismo
+1479,nutricional,agricultura
+1480,nutricional,carne
+1481,nutricional,proteína
+1482,nutricional,gordura
+1483,nutricional,nutriente
+1484,nutricional,química
+1485,nutricional,processo
+1486,nutricional,doença
+1487,nutricional,dieta
+1488,nutricional,vida
+1489,nutricional,arquitetura
+1490,bezerros,população
+1491,bezerros,brasil
+1492,bezerros,agricultura
+1493,usualmente,brasil
+1494,usualmente,célula
+1495,libido,energia
+1496,libido,droga
+1497,libido,útero
+1498,libido,sexo
+1499,libido,vagina
+1500,libido,ovário
+1501,arbusto,árvore
+1502,horário,inverno
+1503,lagoa,inseto
+1504,lagoa,seca
+1505,lagoa,irrigação
+1506,lagoa,área
+1507,sintoma,dor
+1508,sintoma,tristeza
+1509,sintoma,doença
+1510,sintoma,comportamento
+1511,sintoma,fez
+1512,sintoma,febre
+1513,dactylon,pasto
+1514,dactylon,cynodon
+1515,dactylon,impacto
+1516,dactylon,nutriente
+1517,dactylon,cana
+1518,dactylon,espécie
+1519,dactylon,solo
+1520,peletizado,calcário
+1521,peletizado,alumínio
+1522,colonião,paí
+1523,colonião,europeu
+1524,colonião,mercado
+1525,resíduo,máquina
+1526,resíduo,organismo
+1527,resíduo,óleo
+1528,resíduo,agricultura
+1529,resíduo,brasil
+1530,resíduo,ph
+1531,resíduo,nitrogênio
+1532,resíduo,doença
+1533,resíduo,compostagem
+1534,resíduo,fez
+1535,resíduo,adubo
+1536,contaminação,temperatura
+1537,contaminação,população
+1538,contaminação,acidez
+1539,contaminação,energia
+1540,contaminação,minerai
+1541,contaminação,substância
+1542,contaminação,concentração
+1543,contaminação,água
+1544,contaminação,resíduo
+1545,contaminação,química
+1546,contaminação,sistema imunológico
+1547,contaminação,indústria
+1548,contaminação,genética
+1549,contaminação,hormônio
+1550,contaminação,calor
+1551,contaminação,espécie
+1552,contaminação,ovário
+1553,recuperação,brasil
+1554,região,paí
+1555,embrapa,brasil
+1556,braquiária,espécie
+1557,braquiária,cerrado
+1558,clones,clonagem
+1559,clones,célula
+1560,clones,brasil
+1561,clones,época
+1562,clones,propriedade
+1563,clones,genética
+1564,clones,fez
+1565,clones,parto
+1566,limpa,umidade relativa
+1567,limpa,população
+1568,limpa,banco
+1569,limpa,europeu
+1570,limpa,açúcar
+1571,limpa,área
+1572,limpa,sal
+1573,limpa,contagem
+1574,limpa,brasil
+1575,limpa,retirada
+1576,limpa,indústria
+1577,limpa,inverno
+1578,limpa,transporte
+1579,limpa,arquitetura
+1580,existem,seca
+1581,existem,brasil
+1582,existem,indústria
+1583,existem,agricultura
+1584,caso,área
+1585,equipamento,serviço
+1586,equipamento,indústria
+1587,substituir,um
+1588,por,tanzânia
+1589,por,brasil
+1590,andrológico,aborto
+1591,andrológico,reprodução
+1592,andrológico,sexo
+1593,melhor,brasil
+1594,contaminada,óleo
+1595,contaminada,fósforo
+1596,contaminada,proteína
+1597,contaminada,gordura
+1598,contaminada,concentração
+1599,contaminada,microrganismo
+1600,contaminada,nutriente
+1601,contaminada,bactéria
+1602,contaminada,água
+1603,contaminada,nitrogênio
+1604,contaminada,química
+1605,contaminada,doença
+1606,contaminada,sal
+1607,intramamária,antibiótico
+1608,nutricionais,vitamina
+1609,nutricionais,fósforo
+1610,nutricionais,brasil
+1611,nutricionais,proteína
+1612,nutricionais,cálcio
+1613,nutricionais,espécie
+1614,nutricionais,cultivar
+1615,cigarrinha,inseto
+1616,cigarrinha,brasil
+1617,cigarrinha,dor
+1618,cigarrinha,ovo
+1619,cigarrinha,seca
+1620,forrageira,alimentação
+1621,forrageira,pasto
+1622,forrageira,aveia
+1623,forrageira,carrapato
+1624,forrageira,vaca
+1625,forrageira,agricultura
+1626,forrageira,alfafa
+1627,forrageira,gado
+1628,forrageira,solo
+1629,qual,brasil
+1630,corpo,inseto
+1631,corpo,organismo
+1632,submetida,vagina
+1633,submetida,parto
+1634,organismo,reprodução
+1635,organismo,energia
+1636,organismo,nutriente
+1637,organismo,genética
+1638,organismo,vida
+1639,óleo,temperatura
+1640,óleo,alimento
+1641,óleo,substância
+1642,óleo,composto orgânico
+1643,óleo,química
+1644,óleo,mecânica
+1645,óleo,insumo
+1646,literatura,vida
+1647,literatura,combate
+1648,literatura,brasil
+1649,literatura,arquitetura
+1650,eimeriose,intestino delgado
+1651,eimeriose,diarreia
+1652,eimeriose,doença
+1653,pré,aborto
+1654,pré,cálcio
+1655,pré,nascimento
+1656,pré,parto
+1657,pré,placenta
+1658,psicrotróficas,ph
+1659,psicrotróficas,diarreia
+1660,psicrotróficas,bactéria
+1661,psicrotróficas,espécie
+1662,psicrotróficas,solo
+1663,contudo,paí
+1664,contudo,região
+1665,gramínea,alimento
+1666,gramínea,pasto
+1667,gramínea,agricultura
+1668,gramínea,brachiaria
+1669,gramínea,inflorescência
+1670,gramínea,sorgo
+1671,gramínea,gramínea
+1672,gramínea,milho
+1673,gramínea,espécie
+1674,objetivo,sistema
+1675,objetivo,desempenho
+1676,objetivo,estratégia
+1677,essa,orientação
+1678,essa,brasil
+1679,essa,topografia
+1680,novilha,literatura
+1681,estoloníferas,composto orgânico
+1682,estoloníferas,inflorescência
+1683,estoloníferas,semente
+1684,desvantagem,consumo
+1685,desvantagem,máquina
+1686,desvantagem,agricultura
+1687,desvantagem,química
+1688,desvantagem,indústria
+1689,desvantagem,arquitetura
+1690,estrela,temperatura
+1691,estrela,frequência
+1692,estrela,energia
+1693,intoxicação,alimento
+1694,intoxicação,medicamento
+1695,intoxicação,aborto
+1696,intoxicação,inseto
+1697,intoxicação,bactéria
+1698,intoxicação,droga
+1699,intoxicação,planta
+1700,corporais,dano
+1701,corporais,aborto
+1702,corporais,dor
+1703,corporais,útero
+1704,corporais,enfermidade
+1705,corporais,parto
+1706,sucedâneos,espécie
+1707,sucedâneos,vitamina
+1708,nutrientes,alimentação
+1709,nutrientes,alimento
+1710,nutrientes,vitamina
+1711,nutrientes,organismo
+1712,nutrientes,célula
+1713,nutrientes,adubação
+1714,nutrientes,substância
+1715,nutrientes,água
+1716,nutrientes,mineral
+1717,nutrientes,composto orgânico
+1718,nutrientes,dieta
+1719,nutrientes,vida
+1720,nutrientes,sal
+1721,irrigação,eficiência
+1722,irrigação,alimentação
+1723,irrigação,alimento
+1724,irrigação,temperatura
+1725,irrigação,solo
+1726,irrigação,energia
+1727,irrigação,frequência
+1728,irrigação,agricultura
+1729,irrigação,brasil
+1730,irrigação,custo
+1731,irrigação,água
+1732,irrigação,superfície
+1733,irrigação,fazenda
+1734,irrigação,pastagem
+1735,irrigação,topografia
+1736,irrigação,produtividade
+1737,irrigação,técnica
+1738,irrigação,planta
+1739,irrigação,ambiente
+1740,casos,área
+1741,gir,bovino
+1742,gir,parto
+1743,pastejo,árvore
+1744,pastejo,alimento
+1745,pastejo,solo
+1746,pastejo,concreto
+1747,pastejo,água
+1748,aborto,medicamento
+1749,aborto,gestante
+1750,aborto,médico
+1751,aborto,gestação
+1752,aborto,útero
+1753,aborto,sexo
+1754,aborto,vagina
+1755,aborto,enfermidade
+1756,aborto,parto
+1757,microrganismos,açúcar
+1758,microrganismos,energia
+1759,microrganismos,organismo
+1760,microrganismos,parasita
+1761,microrganismos,reprodução
+1762,microrganismos,nutriente
+1763,microrganismos,lactose
+1764,microrganismos,bactéria
+1765,microrganismos,bovino
+1766,microrganismos,fermentação
+1767,microrganismos,dna
+1768,microrganismos,leguminosa
+1769,microrganismos,matéria
+1770,microrganismos,genética
+1771,microrganismos,leite
+1772,microrganismos,vida
+1773,microrganismos,solo
+1774,microrganismos,queijo
+1775,fenação,fosfato
+1776,fenação,adubação
+1777,fenação,brasil
+1778,fenação,calcário
+1779,fenação,gramínea
+1780,fenação,leguminosa
+1781,fenação,forragem
+1782,fenação,gado
+1783,fenação,planta
+1784,tanzânia,população
+1785,tanzânia,agricultura
+1786,planejamento,processo
+1787,planejamento,brasil
+1788,planejamento,custo
+1789,planejamento,objetivo
+1790,europeu,literatura
+1791,europeu,população
+1792,europeu,máquina
+1793,europeu,área
+1794,europeu,agricultura
+1795,europeu,aborto
+1796,europeu,cultura
+1797,europeu,doença
+1798,europeu,econômica
+1799,europeu,indústria
+1800,europeu,paí
+1801,europeu,transporte
+1802,europeu,clima temperado
+1803,europeu,região
+1804,genético,genoma
+1805,genético,variabilidade genética
+1806,genético,organismo
+1807,genético,agricultura
+1808,genético,proteína
+1809,genético,animai
+1810,genético,dna
+1811,genético,gene
+1812,genético,planta
+1813,capineira,cultura
+1814,capineira,brasil
+1815,garantir,equipamento
+1816,gestante,mastite
+1817,gestante,aborto
+1818,gestante,diarreia
+1819,gestante,cálcio
+1820,gestante,sódio
+1821,gestante,inseminação artificial
+1822,gestante,placenta
+1823,gestante,carne
+1824,gestante,manteiga
+1825,gestante,antibiótico
+1826,gestante,útero
+1827,gestante,leite
+1828,gestante,colostro
+1829,gestante,fez
+1830,gestante,reprodução
+1831,gestante,espermatozoide
+1832,gestante,vitamina
+1833,gestante,fósforo
+1834,gestante,proteína
+1835,gestante,bactéria
+1836,gestante,droga
+1837,gestante,leguminosa
+1838,gestante,pasteurização
+1839,gestante,vagina
+1840,gestante,parto
+1841,gestante,mão
+1842,gestante,magnésio
+1843,gestante,gestação
+1844,gestante,ureia
+1845,gestante,queijo
+1846,gestante,nascimento
+1847,infecçõe,inflamação
+1848,infecçõe,organismo
+1849,infecçõe,brasil
+1850,infecçõe,microrganismo
+1851,infecçõe,bactéria
+1852,infecçõe,antibiótico
+1853,infecçõe,doença
+1854,cérvix,ovário
+1855,cérvix,útero
+1856,cérvix,vagina
+1857,clonagem,reprodução
+1858,clonagem,célula
+1859,clonagem,glândula mamária
+1860,clonagem,bactéria
+1861,clonagem,animai
+1862,clonagem,animal
+1863,clonagem,legislação
+1864,clonagem,útero
+1865,clonagem,gene
+1866,clonagem,genética
+1867,confinamento,fazenda
+1868,confinamento,irrigação
+1869,confinamento,agricultura
+1870,ocorrer,inflamação
+1871,ocorrer,vacina
+1872,ocorrer,infecção
+1873,ocorrer,antibiótico
+1874,ocorrer,estresse
+1875,ocorrer,leite
+1876,transporte,cavalo
+1877,transporte,eficiência
+1878,transporte,agricultura
+1879,transporte,cultura
+1880,transporte,brasil
+1881,transporte,concreto
+1882,transporte,custo
+1883,transporte,produção
+1884,transporte,indústria
+1885,transporte,transporte
+1886,transporte,líquido
+1887,transporte,elefante
+1888,desinfecção,proteína
+1889,desinfecção,ph
+1890,desinfecção,célula
+1891,úmido,temperatura
+1892,úmido,umidade relativa
+1893,úmido,medida
+1894,úmido,sangue
+1895,úmido,água
+1896,úmido,saturação
+1897,nívei,inclinação
+1898,médico,dor
+1899,médico,química
+1900,médico,doença
+1901,pasteurização,temperatura
+1902,pasteurização,água
+1903,pasteurização,microrganismo
+1904,pasteurização,leite
+1905,pasteurização,químico
+1906,fatores,eficiência
+1907,fatores,agricultura
+1908,fatores,cultura
+1909,fatores,produção
+1910,fatores,indústria
+1911,fatores,transporte
+1912,química,célula
+1913,química,composição química
+1914,química,vida
+1915,química,estrela
+1916,química,medicamento
+1917,química,energia
+1918,química,organismo
+1919,química,fosfato
+1920,química,fermentação
+1921,química,temperatura
+1922,química,alimento
+1923,química,cobalto
+1924,química,fósforo
+1925,química,brasil
+1926,química,proteína
+1927,química,sólido
+1928,química,sal
+1929,química,água
+1930,química,volume
+1931,química,agricultura
+1932,química,odor
+1933,química,substância
+1934,química,nitrogênio
+1935,química,dna
+1936,química,arquitetura
+1937,química,ureia
+1938,química,sistema
+1939,química,líquido
+1940,química,químico
+1941,leguminosa,árvore
+1942,leguminosa,arbusto
+1943,leguminosa,alfafa
+1944,leguminosa,brasil
+1945,leguminosa,bactéria
+1946,leguminosa,nitrogênio
+1947,leguminosa,dna
+1948,leguminosa,forragem
+1949,leguminosa,ovário
+1950,leguminosa,folha
+1951,lactação,diarreia
+1952,lactação,infecção
+1953,lactação,útero
+1954,lactação,placenta
+1955,lactação,colostro
+1956,lactação,fertilidade
+1957,lactação,peso
+1958,lactação,parto
+1959,lactação,inseminação artificial
+1960,ovário,espermatozoide
+1961,ovário,núcleo
+1962,ovário,hormônio
+1963,ovário,útero
+1964,ovário,vagina
+1965,ovário,ovário
+1966,ovário,cérvix
+1967,ovário,placenta
+1968,adultos,cultura
+1969,adultos,acasalamento
+1970,adultos,espécie
+1971,matéria,volume
+1972,matéria,organismo
+1973,matéria,energia
+1974,matéria,substância
+1975,matéria,composto
+1976,matéria,química
+1977,matéria,sólido
+1978,matéria,líquido
+1979,matéria,vida
+1980,planta,árvore
+1981,planta,arbusto
+1982,planta,célula
+1983,planta,irrigação
+1984,planta,cálcio
+1985,planta,gramínea
+1986,planta,genética
+1987,planta,taxon
+1988,planta,espécie
+1989,planta,vida
+1990,planta,folha
+1991,planta,ambiente
+1992,planta,energia
+1993,planta,organismo
+1994,planta,parasita
+1995,planta,mineral
+1996,planta,animal
+1997,planta,radiação solar
+1998,planta,fez
+1999,planta,semente
+2000,planta,fósforo
+2001,planta,bactéria
+2002,planta,leguminosa
+2003,planta,parasitismo
+2004,planta,sal
+2005,planta,solo
+2006,planta,água
+2007,planta,agricultura
+2008,planta,magnésio
+2009,planta,inseto
+2010,planta,inflorescência
+2011,planta,fazenda
+2012,planta,matéria
+2013,planta,sexo
+2014,planta,madeira
+2015,planta,cobalto
+2016,químico,acidez
+2017,químico,pesquisa
+2018,químico,composto orgânico
+2019,químico,matéria
+2020,químico,mecânica
+2021,químico,química
+2022,inflorescência,semente
+2023,inflorescência,cerrado
+2024,ocorte,população
+2025,ocorte,água
+2026,ocorte,área
+2027,lactose,diarreia
+2028,lactose,composto orgânico
+2029,lactose,bactéria
+2030,lactose,bovino
+2031,lactose,sistema imunológico
+2032,lactose,genética
+2033,lactose,intestino delgado
+2034,lactose,água
+2035,lactose,queijo
+2036,basilisk,brasil
+2037,mãe,útero
+2038,mãe,brasil
+2039,mãe,vida
+2040,mãe,fêmea
+2041,adotado,brasil
+2042,adotado,raça
+2043,sistema,estrela
+2044,sistema,população
+2045,sistema,organismo
+2046,sistema,célula
+2047,sistema,elemento
+2048,sistema,matéria
+2049,capim,alimento
+2050,capim,pasto
+2051,capim,agricultura
+2052,capim,brachiaria
+2053,capim,inflorescência
+2054,capim,sorgo
+2055,capim,gramínea
+2056,capim,milho
+2057,capim,espécie
+2058,recomenda,literatura
+2059,recomenda,cultura
+2060,recomenda,contagem
+2061,recomenda,inverno
+2062,recomenda,umidade relativa
+2063,recomenda,banco
+2064,recomenda,mercado
+2065,recomenda,pesquisa
+2066,recomenda,lotação
+2067,recomenda,temperatura
+2068,recomenda,população
+2069,recomenda,brasil
+2070,recomenda,legislação
+2071,recomenda,serviço
+2072,recomenda,solo
+2073,recomenda,água
+2074,recomenda,vacina
+2075,recomenda,produção
+2076,recomenda,indústria
+2077,recomenda,transporte
+2078,recomenda,arquitetura
+2079,zebuíno,cavalo
+2080,zebuíno,bovino
+2081,zebuíno,espécie
+2082,zebuíno,inseminação artificial
+2083,zebuíno,melhoramento genético
+2084,zebuíno,macho
+2085,zebuíno,carne
+2086,zebuíno,animal
+2087,zebuíno,bezerro
+2088,zebuíno,gir
+2089,zebuíno,útero
+2090,zebuíno,fêmea
+2091,zebuíno,leite
+2092,zebuíno,radiação solar
+2093,zebuíno,guzerá
+2094,zebuíno,reprodução
+2095,zebuíno,espermatozoide
+2096,zebuíno,sêman
+2097,zebuíno,brasil
+2098,zebuíno,chifre
+2099,zebuíno,calor
+2100,zebuíno,produtividade
+2101,zebuíno,elefante
+2102,zebuíno,rúman
+2103,zebuíno,zebu
+2104,digestibilidade,alimento
+2105,digestibilidade,célula
+2106,digestibilidade,ph
+2107,digestibilidade,nutriente
+2108,digestibilidade,química
+2109,digestibilidade,intestino delgado
+2110,digestibilidade,fez
+2111,digestibilidade,água
+2112,acidez,composto orgânico
+2113,acidez,química
+2114,acidez,ph
+2115,infestaçõe,cavalo
+2116,infestaçõe,árvore
+2117,infestaçõe,papel
+2118,infestaçõe,umidade
+2119,infestaçõe,óleo
+2120,infestaçõe,magnésio
+2121,infestaçõe,inseto
+2122,infestaçõe,mineral
+2123,infestaçõe,gado
+2124,infestaçõe,doença
+2125,infestaçõe,madeira
+2126,infestaçõe,inverno
+2127,infestaçõe,espécie
+2128,infestaçõe,planta
+2129,infestaçõe,água
+2130,infestaçõe,mosca
+2131,glândula,proteína
+2132,glândula,glândula mamária
+2133,indicada,temperatura
+2134,indicada,área
+2135,indicada,agricultura
+2136,indicada,carne
+2137,indicada,calcário
+2138,indicada,milho
+2139,indicada,fazenda
+2140,indicada,serviço
+2141,indicada,inverno
+2142,indicada,leite
+2143,indicada,transporte
+2144,indicada,clima temperado
+2145,animai,alimentação
+2146,animai,energia
+2147,animai,organismo
+2148,animai,célula
+2149,animai,parasita
+2150,animai,inseto
+2151,animai,proteína
+2152,animai,cálcio
+2153,animai,ovo
+2154,animai,animal
+2155,animai,matéria
+2156,animai,genética
+2157,animai,espécie
+2158,animai,vida
+2159,concentração,aborto
+2160,concentração,brasil
+2161,concentração,fazenda
+2162,concentração,seca
+2163,concentração,legislação
+2164,concentração,doença
+2165,concentração,estratégia
+2166,concentração,paí
+2167,tropicais,estrela
+2168,tropicais,radiação solar
+2169,tropicais,sombra
+2170,célula,máquina
+2171,célula,carrapato
+2172,célula,organismo
+2173,célula,parasita
+2174,célula,proteína
+2175,célula,bactéria
+2176,célula,dna
+2177,célula,gene
+2178,célula,vida
+2179,célula,febre maculosa
+2180,cavalo,agricultura
+2181,cavalo,brasil
+2182,cavalo,animal
+2183,cavalo,raça
+2184,cavalo,genética
+2185,cavalo,inverno
+2186,cavalo,transporte
+2187,cavalo,espécie
+2188,fertilidade,vida
+2189,fertilidade,reprodução
+2190,fertilidade,água
+2191,fertilidade,gestação
+2192,fertilidade,animai
+2193,fertilidade,planta
+2194,fertilidade,solo
+2195,geralmente,população
+2196,geralmente,brasil
+2197,raçõe,cavalo
+2198,raçõe,população
+2199,raçõe,macho
+2200,raçõe,cultura
+2201,raçõe,brasil
+2202,raçõe,sintoma
+2203,raçõe,gir
+2204,raçõe,mestiço
+2205,raçõe,gene
+2206,raçõe,genética
+2207,raçõe,espécie
+2208,raçõe,zebu
+2209,animal,alimentação
+2210,animal,energia
+2211,animal,organismo
+2212,animal,célula
+2213,animal,parasita
+2214,animal,inseto
+2215,animal,proteína
+2216,animal,cálcio
+2217,animal,ovo
+2218,animal,animal
+2219,animal,matéria
+2220,animal,genética
+2221,animal,espécie
+2222,animal,vida
+2223,produtividade,eficiência
+2224,produtividade,atividade
+2225,produtividade,agricultura
+2226,produtividade,necessidade
+2227,produtividade,produto
+2228,produtividade,produção
+2229,produtividade,eficiente
+2230,maximizar,raça
+2231,freezer,alimento
+2232,freezer,máquina
+2233,freezer,carne
+2234,freezer,brasil
+2235,freezer,indústria
+2236,freezer,inverno
+2237,polpa,infecçõe
+2238,polpa,sangue
+2239,polpa,célula
+2240,fundamental,brasil
+2241,tolerância,cultura
+2242,tolerância,legislação
+2243,inicialmente,brasil
+2244,adubação,curral
+2245,adubação,agricultura
+2246,adubação,nutriente
+2247,adubação,esterco
+2248,adubação,solo
+2249,adubação,adubo
+2250,droga,libido
+2251,droga,medicamento
+2252,droga,brasil
+2253,droga,comportamento
+2254,formação,eficiência
+2255,formação,agricultura
+2256,formação,cultura
+2257,formação,brasil
+2258,formação,química
+2259,formação,produção
+2260,formação,indústria
+2261,formação,transporte
+2262,formação,arquitetura
+2263,lácteos,estrela
+2264,lácteos,gêmeo
+2265,lácteos,magnésio
+2266,um,produto
+2267,tristeza,medo
+2268,tóxicas,brasil
+2269,viável,área
+2270,carrapatos,macho
+2271,carrapatos,babesiose
+2272,carrapatos,imersão
+2273,carrapatos,brasil
+2274,carrapatos,bactéria
+2275,carrapatos,fêmea
+2276,carrapatos,leite
+2277,carrapatos,sangue
+2278,carrapatos,febre
+2279,carrapatos,febre maculosa
+2280,cultivo,árvore
+2281,cultivo,cultura
+2282,cultivo,adubação
+2283,cultivo,irrigação
+2284,cultivo,sorgo
+2285,cultivo,genética
+2286,cultivo,resíduo
+2287,cultivo,ambiente
+2288,cultivo,eficiência
+2289,cultivo,medicamento
+2290,cultivo,energia
+2291,cultivo,microrganismo
+2292,cultivo,técnica
+2293,cultivo,cerca
+2294,cultivo,semente
+2295,cultivo,alimento
+2296,cultivo,fertilidade
+2297,cultivo,produtividade
+2298,cultivo,solo
+2299,cultivo,água
+2300,cultivo,milho
+2301,cultivo,fazenda
+2302,cultivo,nitrogênio
+2303,cultivo,produção
+2304,cultivo,fibra
+2305,cultivo,madeira
+2306,cultivo,indústria
+2307,cultivo,transporte
+2308,existe,elemento
+2309,facilidade,brasil
+2310,provocar,literatura
+2311,provocar,doença
+2312,bebedouro,população
+2313,bebedouro,brasil
+2314,bebedouro,indústria
+2315,bebedouro,bebedouro
+2316,bebedouro,piquete
+2317,tratado,brasil
+2318,tratado,tratado
+2319,genética,genoma
+2320,genética,variabilidade genética
+2321,genética,organismo
+2322,genética,agricultura
+2323,genética,proteína
+2324,genética,animai
+2325,genética,dna
+2326,genética,gene
+2327,genética,planta
+2328,aumento,alimento
+2329,aumento,população
+2330,aumento,agricultura
+2331,aumento,cultura
+2332,aumento,mortalidade
+2333,aumento,doença
+2334,quando,brasil
+2335,úbere,transporte
+2336,semente,temperatura
+2337,semente,população
+2338,semente,árvore
+2339,semente,reprodução
+2340,semente,óleo
+2341,semente,proteína
+2342,semente,brasil
+2343,semente,água
+2344,semente,inverno
+2345,semente,milho
+2346,semente,semente
+2347,semente,madeira
+2348,semente,hormônio
+2349,semente,vida
+2350,semente,solo
+2351,semente,cerrado
+2352,entretanto,literatura
+2353,entretanto,população
+2354,entretanto,tratado
+2355,entretanto,energia
+2356,entretanto,brasil
+2357,entretanto,calcário
+2358,entretanto,dna
+2359,entretanto,serviço
+2360,entretanto,indústria
+2361,entretanto,paí
+2362,entretanto,transporte
+2363,entretanto,clima temperado
+2364,ordenha,mastite
+2365,ordenha,úbere
+2366,ordenha,animai
+2367,ordenha,leite
+2368,ordenha,água
+2369,artificial,estrela
+2370,artificial,cultura
+2371,artificial,química
+2372,artificial,mecânica
+2373,artificial,genética
+2374,artificial,ambiente
+2375,produção,eficiência
+2376,produção,agricultura
+2377,produção,cultura
+2378,produção,necessidade
+2379,produção,custo
+2380,produção,produto
+2381,produção,processo
+2382,produção,indústria
+2383,produção,serviço
+2384,produção,transporte
+2385,produção,produtividade
+2386,vida,estrela
+2387,vida,máquina
+2388,vida,energia
+2389,vida,organismo
+2390,vida,célula
+2391,vida,parasita
+2392,vida,reprodução
+2393,vida,proteína
+2394,vida,nutriente
+2395,vida,bactéria
+2396,vida,dna
+2397,vida,matéria
+2398,vida,gene
+2399,vida,genética
+2400,vida,química
+2401,vida,calor
+2402,vida,espécie
+2403,vida,água
+2404,arquitetura,finalidade
+2405,arquitetura,literatura
+2406,arquitetura,brasil
+2407,arquitetura,forma
+2408,arquitetura,química
+2409,sujos,brasil
+2410,somatotropina,hormônio
+2411,somatotropina,mastite
+2412,somatotropina,brasil
+2413,somatotropina,gene
+2414,ração,cavalo
+2415,ração,população
+2416,ração,macho
+2417,ração,cultura
+2418,ração,brasil
+2419,ração,sintoma
+2420,ração,gir
+2421,ração,mestiço
+2422,ração,gene
+2423,ração,genética
+2424,ração,espécie
+2425,ração,zebu
+2426,sementes,temperatura
+2427,sementes,população
+2428,sementes,árvore
+2429,sementes,reprodução
+2430,sementes,óleo
+2431,sementes,proteína
+2432,sementes,brasil
+2433,sementes,água
+2434,sementes,inverno
+2435,sementes,milho
+2436,sementes,semente
+2437,sementes,madeira
+2438,sementes,hormônio
+2439,sementes,vida
+2440,sementes,solo
+2441,sementes,cerrado
+2442,cultura,raça
+2443,cultura,agricultura
+2444,microrganismo,açúcar
+2445,microrganismo,energia
+2446,microrganismo,organismo
+2447,microrganismo,parasita
+2448,microrganismo,reprodução
+2449,microrganismo,nutriente
+2450,microrganismo,lactose
+2451,microrganismo,bactéria
+2452,microrganismo,bovino
+2453,microrganismo,fermentação
+2454,microrganismo,dna
+2455,microrganismo,leguminosa
+2456,microrganismo,matéria
+2457,microrganismo,genética
+2458,microrganismo,leite
+2459,microrganismo,vida
+2460,microrganismo,solo
+2461,microrganismo,queijo
+2462,estresse,açúcar
+2463,estresse,objetivo
+2464,estresse,proteína
+2465,estresse,tristeza
+2466,estresse,infecção
+2467,estresse,sistema imunológico
+2468,estresse,medo
+2469,estresse,genética
+2470,estresse,nascimento
+2471,estresse,sangue
+2472,acima,população
+2473,acima,contagem
+2474,acima,brasil
+2475,gratuitamente,população
+2476,gratuitamente,açúcar
+2477,gratuitamente,energia
+2478,gratuitamente,agricultura
+2479,gratuitamente,média
+2480,gratuitamente,carne
+2481,gratuitamente,cultura
+2482,gratuitamente,contagem
+2483,gratuitamente,brasil
+2484,gratuitamente,mestiço
+2485,gratuitamente,serviço
+2486,gratuitamente,madeira
+2487,gratuitamente,paí
+2488,gratuitamente,clima temperado
+2489,gratuitamente,região
+2490,gratuitamente,cerrado
+2491,superpastejo,agricultura
+2492,superpastejo,reação inflamatória
+2493,superpastejo,aborto
+2494,superpastejo,higiene
+2495,superpastejo,inseto
+2496,superpastejo,brasil
+2497,superpastejo,irrigação
+2498,superpastejo,embrapa
+2499,superpastejo,nutriente
+2500,superpastejo,bactéria
+2501,superpastejo,estresse
+2502,superpastejo,cerrado
+2503,mesma,madeira
+2504,cerrado,pastejo
+2505,cerrado,estiagem
+2506,cerrado,pasto
+2507,cerrado,árvore
+2508,cerrado,umidade
+2509,cerrado,área
+2510,cerrado,magnésio
+2511,cerrado,brachiaria
+2512,cerrado,fósforo
+2513,cerrado,brasil
+2514,cerrado,alumínio
+2515,cerrado,embrapa
+2516,cerrado,cálcio
+2517,cerrado,gramínea
+2518,cerrado,milho
+2519,cerrado,mineral
+2520,cerrado,seca
+2521,cerrado,paí
+2522,cerrado,solo
+2523,carrapato,macho
+2524,carrapato,babesiose
+2525,carrapato,imersão
+2526,carrapato,brasil
+2527,carrapato,bactéria
+2528,carrapato,fêmea
+2529,carrapato,leite
+2530,carrapato,sangue
+2531,carrapato,febre
+2532,carrapato,febre maculosa
+2533,precoce,intoxicação
+2534,chuvosa,árvore
+2535,chuvosa,volume
+2536,chuvosa,óleo
+2537,chuvosa,agricultura
+2538,chuvosa,cultura
+2539,chuvosa,brasil
+2540,chuvosa,água
+2541,chuvosa,bactéria
+2542,chuvosa,seca
+2543,chuvosa,superfície
+2544,chuvosa,inverno
+2545,chuvosa,sólido
+2546,chuvosa,líquido
+2547,chuvosa,planta
+2548,chuvosa,solo
+2549,mortalidade,aborto
+2550,mortalidade,genética
+2551,consumida,produto
+2552,consumida,consumo
+2553,consumida,serviço
+2554,técnica,resultado
+2555,técnica,atividade
+2556,técnica,agricultura
+2557,técnica,necessidade
+2558,técnica,animal
+2559,técnica,geração
+2560,operacional,sistema
+2561,quai,paí
+2562,quai,brasil
+2563,bezerreiro,animal
+2564,bezerreiro,madeira
+2565,melhoramento,variabilidade genética
+2566,melhoramento,espermatozoide
+2567,melhoramento,célula
+2568,melhoramento,animai
+2569,melhoramento,gene
+2570,melhoramento,fêmea
+2571,melhoramento,semente
+2572,melhoramento,leite
+2573,melhoramento,planta
+2574,melhoramento,genética
+2575,dor,inflamação
+2576,dor,sangue
+2577,dor,sexo
+2578,dor,genética
+2579,dor,terapia
+2580,cultivare,organismo
+2581,cultivare,agricultura
+2582,cultivare,taxon
+2583,cultivare,espécie
+2584,cultivare,semente
+2585,chifre,população
+2586,chifre,transporte
+2587,chifre,água
+2588,apresenta,na
+2589,apresenta,mãe
+2590,apresenta,droga
+2591,apresenta,doença
+2592,apresenta,nascimento
+2593,molecular,açúcar
+2594,molecular,substância
+2595,molecular,água
+2596,molecular,bactéria
+2597,molecular,composição química
+2598,molecular,sal
+2599,vermifugação,brasil
+2600,tifton,população
+2601,tifton,água
+2602,tifton,área
+2603,misturar,substância
+2604,misturar,leite
+2605,misturar,ventilação
+2606,misturar,química
+2607,brachiaria,espécie
+2608,brachiaria,cerrado
+2609,diversas,literatura
+2610,diversas,cultura
+2611,diversas,contagem
+2612,diversas,inverno
+2613,diversas,umidade relativa
+2614,diversas,banco
+2615,diversas,mercado
+2616,diversas,pesquisa
+2617,diversas,lotação
+2618,diversas,temperatura
+2619,diversas,população
+2620,diversas,brasil
+2621,diversas,legislação
+2622,diversas,serviço
+2623,diversas,solo
+2624,diversas,água
+2625,diversas,vacina
+2626,diversas,produção
+2627,diversas,indústria
+2628,diversas,transporte
+2629,diversas,arquitetura
+2630,inflamação,medicamento
+2631,inflamação,organismo
+2632,inflamação,reação inflamatória
+2633,inflamação,dor
+2634,inflamação,imunoglobulina
+2635,inflamação,droga
+2636,inflamação,infecção
+2637,inflamação,estresse
+2638,inflamação,doença
+2639,inflamação,genética
+2640,inflamação,calor
+2641,inflamação,febre
+2642,suplemento,vitamina
+2643,suplemento,proteína
+2644,suplemento,nutriente
+2645,suplemento,cálcio
+2646,suplemento,fibra
+2647,suplemento,dieta
+2648,suplemento,minerai
+2649,acasalamento,cio
+2650,acasalamento,macho
+2651,acasalamento,inseto
+2652,acasalamento,adubação
+2653,acasalamento,acasalamento
+2654,acasalamento,bactéria
+2655,acasalamento,fêmea
+2656,acasalamento,espécie
+2657,vivos,brasil
+2658,piso,arquitetura
+2659,secar,temperatura
+2660,secar,irrigação
+2661,secar,ambiente
+2662,secar,semente
+2663,colostro,leite
+2664,colostro,proteína
+2665,colostro,água
+2666,colostro,parto
+2667,pennisetum,pennisetum
+2668,pennisetum,espécie
+2669,estabelecimento,banco
+2670,estabelecimento,agricultura
+2671,estabelecimento,brasil
+2672,estabelecimento,tanzânia
+2673,estabelecimento,raça
+2674,ocorre,população
+2675,ocorre,água
+2676,ocorre,área
+2677,cultivares,organismo
+2678,cultivares,agricultura
+2679,cultivares,taxon
+2680,cultivares,espécie
+2681,cultivares,semente
+2682,incidência,população
+2683,reprodução,alimentação
+2684,reprodução,clonagem
+2685,reprodução,célula
+2686,reprodução,genética
+2687,reprodução,espécie
+2688,reprodução,vida
+2689,reprodução,ambiente
+2690,reprodução,macho
+2691,reprodução,organismo
+2692,reprodução,mãe
+2693,reprodução,ovo
+2694,reprodução,animal
+2695,reprodução,fêmea
+2696,reprodução,semente
+2697,reprodução,mosca
+2698,reprodução,temperatura
+2699,reprodução,alimento
+2700,reprodução,bactéria
+2701,reprodução,inseto
+2702,reprodução,dna
+2703,reprodução,gene
+2704,reprodução,sexo
+2705,reprodução,ovário
+2706,bruta,paí
+2707,consumo,alimento
+2708,consumo,distribuição
+2709,consumo,serviço
+2710,consumo,produção
+2711,nutriente,alimentação
+2712,nutriente,alimento
+2713,nutriente,vitamina
+2714,nutriente,organismo
+2715,nutriente,célula
+2716,nutriente,adubação
+2717,nutriente,substância
+2718,nutriente,água
+2719,nutriente,mineral
+2720,nutriente,composto orgânico
+2721,nutriente,dieta
+2722,nutriente,vida
+2723,nutriente,sal
+2724,rúman,mãe
+2725,rúman,água
+2726,mecânico,manutenção
+2727,mecânico,máquina
+2728,mecânico,agrícola
+2729,mecânico,médico
+2730,mecânico,mecânica
+2731,dose,dieta
+2732,dose,química
+2733,dose,organismo
+2734,dose,nutriente
+2735,útero,cérvix
+2736,útero,útero
+2737,útero,vagina
+2738,útero,ovário
+2739,útero,parto
+2740,africana,umidade
+2741,africana,arbusto
+2742,africana,cultura
+2743,africana,equipamento
+2744,africana,sorgo
+2745,africana,gramínea
+2746,africana,tanzânia
+2747,africana,inverno
+2748,africana,paí
+2749,africana,taxon
+2750,africana,região
+2751,africana,europeu
+2752,africana,fosfato
+2753,africana,mineral
+2754,africana,seca
+2755,africana,mestiço
+2756,africana,técnica
+2757,africana,fez
+2758,africana,temperatura
+2759,africana,alimento
+2760,africana,população
+2761,africana,açúcar
+2762,africana,óleo
+2763,africana,brasil
+2764,africana,química
+2765,africana,elefante
+2766,africana,solo
+2767,africana,área
+2768,africana,agricultura
+2769,africana,milho
+2770,africana,indústria
+2771,africana,madeira
+2772,africana,cobalto
+2773,processamento,processo
+2774,gestação,vaca
+2775,gestação,espermatozoide
+2776,gestação,útero
+2777,gestação,espécie
+2778,gestação,parto
+2779,considerando,árvore
+2780,considerando,arbusto
+2781,considerando,inflorescência
+2782,considerando,milho
+2783,considerando,madeira
+2784,considerando,espécie
+2785,considerando,planta
+2786,considerando,semente
+2787,bacteriana,célula
+2788,bacteriana,aborto
+2789,bacteriana,animai
+2790,bacteriana,corpo
+2791,bacteriana,genética
+2792,bacteriana,hormônio
+2793,bacteriana,planta
+2794,bacteriana,ambiente
+2795,bacteriana,queijo
+2796,bacteriana,organismo
+2797,bacteriana,parasita
+2798,bacteriana,núcleo
+2799,bacteriana,antibiótico
+2800,bacteriana,fermentação
+2801,bacteriana,alimento
+2802,bacteriana,proteína
+2803,bacteriana,bactéria
+2804,bacteriana,solo
+2805,bacteriana,água
+2806,bacteriana,genoma
+2807,bacteriana,infecção
+2808,bacteriana,dna
+2809,bacteriana,doença
+2810,bacteriana,gene
+2811,bacteriana,febre maculosa
+2812,fermentação,açúcar
+2813,fermentação,energia
+2814,fermentação,célula
+2815,fermentação,fósforo
+2816,fermentação,substância
+2817,fermentação,concentração
+2818,fermentação,bactéria
+2819,fermentação,pasteurização
+2820,fermentação,leite
+2821,fermentação,sangue
+2822,enxertada,gordura
+2823,ssps,brasil
+2824,atingir,literatura
+2825,atingir,população
+2826,atingir,tratado
+2827,atingir,energia
+2828,atingir,brasil
+2829,atingir,calcário
+2830,atingir,dna
+2831,atingir,serviço
+2832,atingir,indústria
+2833,atingir,paí
+2834,atingir,transporte
+2835,atingir,clima temperado
+2836,utilização,seca
+2837,utilização,brasil
+2838,utilização,indústria
+2839,utilização,agricultura
+2840,anuais,alimentação
+2841,anuais,energia
+2842,anuais,organismo
+2843,anuais,célula
+2844,anuais,parasita
+2845,anuais,inseto
+2846,anuais,proteína
+2847,anuais,cálcio
+2848,anuais,ovo
+2849,anuais,animal
+2850,anuais,matéria
+2851,anuais,genética
+2852,anuais,espécie
+2853,anuais,vida
+2854,durabilidade,eficiência
+2855,durabilidade,agricultura
+2856,durabilidade,cultura
+2857,durabilidade,produção
+2858,durabilidade,indústria
+2859,durabilidade,transporte
+2860,retenção,seca
+2861,retenção,brasil
+2862,retenção,indústria
+2863,retenção,agricultura
+2864,fdn,brasil
+2865,eliminar,brasil
+2866,paí,brasil
+2867,açúcar,ph
+2868,açúcar,brasil
+2869,açúcar,lactose
+2870,energia,eficiência
+2871,energia,estrela
+2872,energia,banco
+2873,energia,temperatura
+2874,energia,vida
+2875,energia,energia
+2876,energia,frequência
+2877,energia,organismo
+2878,energia,volume
+2879,energia,área
+2880,energia,brasil
+2881,energia,água
+2882,energia,fermentação
+2883,energia,partícula
+2884,energia,matéria
+2885,energia,química
+2886,energia,sistema
+2887,energia,calor
+2888,energia,planta
+2889,energia,solo
+2890,efetiva,literatura
+2891,efetiva,temperatura
+2892,efetiva,volume
+2893,efetiva,frequência
+2894,efetiva,energia
+2895,efetiva,área
+2896,efetiva,média
+2897,efetiva,superfície
+2898,efetiva,partícula
+2899,efetiva,matéria
+2900,efetiva,química
+2901,efetiva,sistema
+2902,efetiva,calor
+2903,efetiva,peso
+2904,população,nascimento
+2905,população,espécie
+2906,bicheira,parasita
+2907,bicheira,médico
+2908,bicheira,vacina
+2909,bicheira,brasil
+2910,bicheira,animal
+2911,calagem,agricultura
+2912,calagem,magnésio
+2913,calagem,ph
+2914,calagem,alumínio
+2915,calagem,embrapa
+2916,calagem,cálcio
+2917,calagem,calcário
+2918,calagem,solo
+2919,brasil,população
+2920,brasil,açúcar
+2921,brasil,energia
+2922,brasil,agricultura
+2923,brasil,média
+2924,brasil,carne
+2925,brasil,cultura
+2926,brasil,contagem
+2927,brasil,brasil
+2928,brasil,mestiço
+2929,brasil,serviço
+2930,brasil,madeira
+2931,brasil,paí
+2932,brasil,clima temperado
+2933,brasil,região
+2934,brasil,cerrado
+2935,secagem,temperatura
+2936,secagem,umidade
+2937,secagem,célula
+2938,secagem,nitrogênio
+2939,secagem,sólido
+2940,secagem,calor
+2941,secagem,líquido
+2942,secagem,água
+2943,melhoradore,água
+2944,melhoradore,brasil
+2945,melhoradore,sal
+2946,concentrado,substância
+2947,concentrado,kg
+2948,concentrado,volume
+2949,concentrado,química
+2950,resíduos,máquina
+2951,resíduos,organismo
+2952,resíduos,óleo
+2953,resíduos,agricultura
+2954,resíduos,brasil
+2955,resíduos,ph
+2956,resíduos,nitrogênio
+2957,resíduos,doença
+2958,resíduos,compostagem
+2959,resíduos,fez
+2960,resíduos,adubo
+2961,bezerro,bovino
+2962,bezerro,embrapa
+2963,bezerro,pasto
+2964,térmico,temperatura
+2965,invasora,brasil
+2966,invasora,milho
+2967,invasora,tanzânia
+2968,invasora,química
+2969,invasora,gado
+2970,invasora,espécie
+2971,pta,composto orgânico
+2972,pta,sal
+2973,pta,água
+2974,pta,cobalto
+2975,raíze,árvore
+2976,raíze,célula
+2977,raíze,parasita
+2978,raíze,inflorescência
+2979,raíze,fósforo
+2980,raíze,brasil
+2981,raíze,gramínea
+2982,raíze,madeira
+2983,raíze,minerai
+2984,raíze,água
+2985,raíze,semente
+2986,baixada,transporte
+2987,baixada,brasil
+2988,bovina,cavalo
+2989,bovina,bovino
+2990,bovina,espécie
+2991,bovina,inseminação artificial
+2992,bovina,melhoramento genético
+2993,bovina,macho
+2994,bovina,carne
+2995,bovina,animal
+2996,bovina,bezerro
+2997,bovina,gir
+2998,bovina,útero
+2999,bovina,fêmea
+3000,bovina,leite
+3001,bovina,radiação solar
+3002,bovina,guzerá
+3003,bovina,reprodução
+3004,bovina,espermatozoide
+3005,bovina,sêman
+3006,bovina,brasil
+3007,bovina,chifre
+3008,bovina,calor
+3009,bovina,produtividade
+3010,bovina,elefante
+3011,bovina,rúman
+3012,bovina,zebu
+3013,enfermidade,infecção
+3014,enfermidade,inflamação
+3015,enfermidade,organismo
+3016,enfermidade,sintoma
+3017,seca,temperatura
+3018,seca,irrigação
+3019,seca,ambiente
+3020,seca,semente
+3021,inseto,alimentação
+3022,inseto,macho
+3023,inseto,reprodução
+3024,inseto,vagina
+3025,inseto,agricultura
+3026,inseto,ovo
+3027,inseto,fêmea
+3028,inseto,doença
+3029,inseto,hormônio
+3030,inseto,espécie
+3031,inseto,ovário
+3032,inseto,mosca
+3033,bactéria,célula
+3034,bactéria,aborto
+3035,bactéria,animai
+3036,bactéria,corpo
+3037,bactéria,genética
+3038,bactéria,hormônio
+3039,bactéria,planta
+3040,bactéria,ambiente
+3041,bactéria,queijo
+3042,bactéria,organismo
+3043,bactéria,parasita
+3044,bactéria,núcleo
+3045,bactéria,antibiótico
+3046,bactéria,fermentação
+3047,bactéria,alimento
+3048,bactéria,proteína
+3049,bactéria,bactéria
+3050,bactéria,solo
+3051,bactéria,água
+3052,bactéria,genoma
+3053,bactéria,infecção
+3054,bactéria,dna
+3055,bactéria,doença
+3056,bactéria,gene
+3057,bactéria,febre maculosa
+3058,completa,dor
+3059,premunição,antibiótico
+3060,premunição,infecção
+3061,transmitir,literatura
+3062,transmitir,brasil
+3063,transmitir,plantio
+3064,transmitir,medo
+3065,transmitir,técnica
+3066,transmitir,planta
+3067,seres,padrão
+3068,medicamento,antibiótico
+3069,medicamento,brasil
+3070,febre,sintoma
+3071,febre,droga
+3072,febre,antibiótico
+3073,febre,parasitismo
+3074,febre,doença
+3075,febre,comportamento
+3076,reprodutivos,alimentação
+3077,reprodutivos,clonagem
+3078,reprodutivos,célula
+3079,reprodutivos,genética
+3080,reprodutivos,espécie
+3081,reprodutivos,vida
+3082,reprodutivos,ambiente
+3083,reprodutivos,macho
+3084,reprodutivos,organismo
+3085,reprodutivos,mãe
+3086,reprodutivos,ovo
+3087,reprodutivos,animal
+3088,reprodutivos,fêmea
+3089,reprodutivos,semente
+3090,reprodutivos,mosca
+3091,reprodutivos,temperatura
+3092,reprodutivos,alimento
+3093,reprodutivos,bactéria
+3094,reprodutivos,inseto
+3095,reprodutivos,dna
+3096,reprodutivos,gene
+3097,reprodutivos,sexo
+3098,reprodutivos,ovário
+3099,evitado,temperatura
+3100,touros,população
+3101,touros,ordenha
+3102,touros,agricultura
+3103,touros,touro
+3104,touros,brasil
+3105,touros,calcário
+3106,touros,bovino
+3107,touros,madeira
+3108,touros,leite
+3109,touros,cerrado
+3110,manteiga,açúcar
+3111,manteiga,vaca
+3112,manteiga,água
+3113,manteiga,gordura
+3114,manteiga,lactose
+3115,manteiga,leite
+3116,manteiga,sal
+3117,alteraçõe,aleitamento
+3118,vagina,parto
+3119,vagina,glândula
+3120,vagina,mão
+3121,vagina,odor
+3122,vagina,aborto
+3123,vagina,ovário
+3124,vagina,ph
+3125,vagina,bactéria
+3126,vagina,infecção
+3127,vagina,útero
+3128,vagina,sexo
+3129,vagina,hormônio
+3130,vagina,cérvix
+3131,afetado,paí
+3132,afetado,tanzânia
+3133,fibra,papel
+3134,artificialmente,estrela
+3135,artificialmente,cultura
+3136,artificialmente,química
+3137,artificialmente,mecânica
+3138,artificialmente,genética
+3139,artificialmente,ambiente
+3140,infecciosa,inflamação
+3141,infecciosa,organismo
+3142,infecciosa,brasil
+3143,infecciosa,microrganismo
+3144,infecciosa,bactéria
+3145,infecciosa,antibiótico
+3146,infecciosa,doença
+3147,mínimo,elemento
+3148,criado,vida
+3149,piquete,brasil
+3150,espermatozoide,glândula
+3151,espermatozoide,macho
+3152,espermatozoide,reprodução
+3153,espermatozoide,vagina
+3154,espermatozoide,volume
+3155,espermatozoide,célula
+3156,espermatozoide,ph
+3157,espermatozoide,sangue
+3158,espermatozoide,animai
+3159,espermatozoide,genético
+3160,espermatozoide,útero
+3161,espermatozoide,doença
+3162,espermatozoide,fêmea
+3163,espermatozoide,sexo
+3164,espermatozoide,fertilidade
+3165,espermatozoide,cérvix
+3166,fosfato,agricultura
+3167,fosfato,fósforo
+3168,fosfato,dna
+3169,fosfato,química
+3170,fosfato,planta
+3171,distribuída,dado
+3172,semeadura,agricultura
+3173,cobrir,brasil
+3174,banco,brasil
+3175,banco,serviço
+3176,banco,indústria
+3177,banco,agricultura
+3178,alimentação,alimento
+3179,alimentação,reprodução
+3180,alimentação,organismo
+3181,alimentação,cultura
+3182,alimentação,substância
+3183,alimentação,água
+3184,alimentação,nutriente
+3185,alimentação,dieta
+3186,alimentação,vida
+3187,alimentação,solo
+3188,curral,animai
+3189,curral,madeira
+3190,curral,gado
+3191,curral,cerca
+3192,conhecer,prática
+3193,babesia,bovino
+3194,babesia,espécie
+3195,babesia,babesiose
+3196,plantada,árvore
+3197,plantada,arbusto
+3198,plantada,célula
+3199,plantada,irrigação
+3200,plantada,cálcio
+3201,plantada,gramínea
+3202,plantada,genética
+3203,plantada,taxon
+3204,plantada,espécie
+3205,plantada,vida
+3206,plantada,folha
+3207,plantada,ambiente
+3208,plantada,energia
+3209,plantada,organismo
+3210,plantada,parasita
+3211,plantada,mineral
+3212,plantada,animal
+3213,plantada,radiação solar
+3214,plantada,fez
+3215,plantada,semente
+3216,plantada,fósforo
+3217,plantada,bactéria
+3218,plantada,leguminosa
+3219,plantada,parasitismo
+3220,plantada,sal
+3221,plantada,solo
+3222,plantada,água
+3223,plantada,agricultura
+3224,plantada,magnésio
+3225,plantada,inseto
+3226,plantada,inflorescência
+3227,plantada,fazenda
+3228,plantada,matéria
+3229,plantada,sexo
+3230,plantada,madeira
+3231,plantada,cobalto
+3232,fotossensibilização,água
+3233,fotossensibilização,proteína
+3234,fotossensibilização,dna
+3235,fotossensibilização,organismo
+3236,temperatura,volume
+3237,temperatura,frequência
+3238,temperatura,energia
+3239,temperatura,quente
+3240,temperatura,proteína
+3241,temperatura,partícula
+3242,temperatura,matéria
+3243,temperatura,química
+3244,temperatura,sistema
+3245,temperatura,sólido
+3246,temperatura,calor
+3247,temperatura,líquido
+3248,temperatura,água
+3249,milho,árvore
+3250,milho,alimento
+3251,milho,silagem
+3252,milho,europeu
+3253,milho,açúcar
+3254,milho,vitamina
+3255,milho,carne
+3256,milho,adubação
+3257,milho,fósforo
+3258,milho,brasil
+3259,milho,inseto
+3260,milho,irrigação
+3261,milho,madeira
+3262,milho,proteína
+3263,milho,fibra
+3264,milho,genética
+3265,milho,espécie
+3266,milho,sal
+3267,desmama,leite
+3268,desmama,bezerro
+3269,alumínio,solo
+3270,alumínio,energia
+3271,alumínio,magnésio
+3272,alumínio,vida útil
+3273,alumínio,fósforo
+3274,alumínio,ph
+3275,alumínio,proteína
+3276,alumínio,cálcio
+3277,alumínio,mineral
+3278,alumínio,sódio
+3279,alumínio,selênio
+3280,alumínio,sólido
+3281,alumínio,planta
+3282,alumínio,cobalto
+3283,tornam,brasil
+3284,cruza,dor
+3285,cruza,adição
+3286,minerais,alimento
+3287,minerais,fosfato
+3288,minerais,magnésio
+3289,minerais,fósforo
+3290,minerais,cálcio
+3291,minerais,sólido
+3292,minerais,composição química
+3293,minerais,sal
+3294,importância,população
+3295,importância,açúcar
+3296,importância,energia
+3297,importância,agricultura
+3298,importância,média
+3299,importância,carne
+3300,importância,cultura
+3301,importância,contagem
+3302,importância,brasil
+3303,importância,mestiço
+3304,importância,serviço
+3305,importância,madeira
+3306,importância,paí
+3307,importância,clima temperado
+3308,importância,região
+3309,importância,cerrado
+3310,desaparecimento,dna
+3311,desaparecimento,raça
+3312,parasitismo,parasita
+3313,parasitismo,bactéria
+3314,parasitismo,infecção
+3315,parasitismo,vermis
+3316,parasitismo,doença
+3317,medo,elefante
+3318,medo,tristeza
+3319,adubada,base
+3320,adubada,cultura
+3321,adubada,irrigação
+3322,adubada,cálcio
+3323,adubada,esterco
+3324,adubada,acidez
+3325,adubada,fosfato
+3326,adubada,microrganismo
+3327,adubada,semente
+3328,adubada,açúcar
+3329,adubada,óleo
+3330,adubada,fósforo
+3331,adubada,bactéria
+3332,adubada,leguminosa
+3333,adubada,química
+3334,adubada,fertilidade
+3335,adubada,solo
+3336,adubada,água
+3337,adubada,agricultura
+3338,adubada,magnésio
+3339,adubada,fazenda
+3340,adubada,nitrogênio
+3341,adubada,ureia
+3342,adubada,cobalto
+3343,realizado,técnica
+3344,indústria,eficiência
+3345,indústria,mercado
+3346,indústria,agricultura
+3347,indústria,cultura
+3348,indústria,qualidade
+3349,indústria,produção
+3350,indústria,transporte
+3351,causador,população
+3352,causador,clima temperado
+3353,causador,brasil
+3354,alizarol,água
+3355,criadores,substância
+3356,criadores,qualidade
+3357,criadores,energia
+3358,espécie,cavalo
+3359,espécie,organismo
+3360,espécie,espermatozoide
+3361,espécie,sexo
+3362,espécie,cultivar
+3363,seguinte,literatura
+3364,seguinte,banco
+3365,seguinte,cultura
+3366,seguinte,brasil
+3367,proteína,vitamina
+3368,proteína,espermatozoide
+3369,proteína,célula
+3370,proteína,carne
+3371,proteína,diarreia
+3372,proteína,ph
+3373,proteína,cálcio
+3374,proteína,ovo
+3375,proteína,sódio
+3376,proteína,aleitamento
+3377,proteína,gene
+3378,proteína,genética
+3379,proteína,ureia
+3380,proteína,leite
+3381,proteína,dieta
+3382,proteína,sangue
+3383,proteína,planta
+3384,proteína,água
+3385,proteína,semente
+3386,proteína,queijo
+3387,sêman,manhã
+3388,sêman,brasil
+3389,recomendaçõe,água
+3390,insumo,produção
+3391,insumo,indústria
+3392,taxon,espécie
+3393,taxon,organismo
+3394,taxon,cultivar
+3395,rotativo,volume
+3396,rotativo,peso
+3397,químicas,célula
+3398,químicas,composição química
+3399,químicas,vida
+3400,químicas,estrela
+3401,químicas,medicamento
+3402,químicas,energia
+3403,químicas,organismo
+3404,químicas,fosfato
+3405,químicas,fermentação
+3406,químicas,temperatura
+3407,químicas,alimento
+3408,químicas,cobalto
+3409,químicas,fósforo
+3410,químicas,brasil
+3411,químicas,proteína
+3412,químicas,sólido
+3413,químicas,sal
+3414,químicas,água
+3415,químicas,volume
+3416,químicas,agricultura
+3417,químicas,odor
+3418,químicas,substância
+3419,químicas,nitrogênio
+3420,químicas,dna
+3421,químicas,arquitetura
+3422,químicas,ureia
+3423,químicas,sistema
+3424,químicas,líquido
+3425,químicas,químico
+3426,estimado,população
+3427,estimado,mercado
+3428,estimado,tratado
+3429,estimado,agricultura
+3430,estimado,brasil
+3431,estimado,processo
+3432,estimado,paí
+3433,descanso,população
+3434,descanso,brasil
+3435,doença,infecção
+3436,doença,inflamação
+3437,doença,organismo
+3438,doença,sintoma
+3439,concreto,água
+3440,quartos,brasil
+3441,quartos,sexo
+3442,vaginal,vagina
+3443,vaginal,aborto
+3444,vaginal,reprodução
+3445,vaginal,sexo
+3446,silagem,alimentação
+3447,silagem,alfafa
+3448,silagem,sorgo
+3449,silagem,gramínea
+3450,silagem,intoxicação
+3451,silagem,forragem
+3452,silagem,ensilagem
+3453,silagem,inverno
+3454,silagem,planta
+3455,silagem,pasto
+3456,silagem,ph
+3457,silagem,nutriente
+3458,silagem,fermentação
+3459,silagem,gado
+3460,silagem,estiagem
+3461,silagem,açúcar
+3462,silagem,proteína
+3463,silagem,bactéria
+3464,silagem,leguminosa
+3465,silagem,milho
+3466,silagem,fenação
+3467,silagem,queijo
+3468,silagem,silo
+3469,silagem,matéria seca
+3470,utilizado,eficiência
+3471,utilizado,pesquisa
+3472,utilizado,agricultura
+3473,utilizado,cultura
+3474,utilizado,concreto
+3475,utilizado,mineral
+3476,utilizado,concentrado
+3477,utilizado,remoção
+3478,utilizado,produção
+3479,utilizado,indústria
+3480,utilizado,recuperação
+3481,utilizado,transporte
+3482,utilizado,água
+3483,eficiência,energia
+3484,eficiência,agricultura
+3485,eficiência,cultura
+3486,eficiência,transporte
+3487,eficiência,produção
+3488,eficiência,indústria
+3489,eficiência,calor
+3490,efetivo,químico
+3491,realiza,brasil
+3492,recomendada,brasil
+3493,máquina,energia
+3494,volume,área
+3495,produzem,antibiótico
+3496,produzem,espécie
+3497,carne,alimento
+3498,carne,agricultura
+3499,carne,proteína
+3500,carne,ph
+3501,carne,gordura
+3502,carne,animal
+3503,carne,leguminosa
+3504,carne,dna
+3505,carne,raça
+3506,carne,leite
+3507,carne,dieta
+3508,carne,água
+3509,lodo,agricultura
+3510,lodo,substância
+3511,lodo,nutriente
+3512,lodo,mineral
+3513,lodo,partícula
+3514,lodo,desenvolvimento
+3515,lodo,lama
+3516,lodo,solo
+3517,possibilita,população
+3518,possibilita,açúcar
+3519,possibilita,energia
+3520,possibilita,agricultura
+3521,possibilita,média
+3522,possibilita,carne
+3523,possibilita,cultura
+3524,possibilita,contagem
+3525,possibilita,brasil
+3526,possibilita,mestiço
+3527,possibilita,serviço
+3528,possibilita,madeira
+3529,possibilita,paí
+3530,possibilita,clima temperado
+3531,possibilita,região
+3532,possibilita,cerrado
+3533,leguminosas,árvore
+3534,leguminosas,arbusto
+3535,leguminosas,alfafa
+3536,leguminosas,brasil
+3537,leguminosas,bactéria
+3538,leguminosas,nitrogênio
+3539,leguminosas,dna
+3540,leguminosas,forragem
+3541,leguminosas,ovário
+3542,leguminosas,folha
+3543,cultivar,organismo
+3544,cultivar,agricultura
+3545,cultivar,taxon
+3546,cultivar,espécie
+3547,cultivar,semente
+3548,principais,brasil
+3549,reprodutor,macho
+3550,reprodutor,reprodução
+3551,reprodutor,espermatozoide
+3552,reprodutor,organismo
+3553,reprodutor,sêman
+3554,reprodutor,vagina
+3555,reprodutor,ovário
+3556,reprodutor,glândula mamária
+3557,reprodutor,aptidão
+3558,reprodutor,gestação
+3559,reprodutor,animai
+3560,reprodutor,útero
+3561,reprodutor,fêmea
+3562,reprodutor,genética
+3563,reprodutor,hormônio
+3564,reprodutor,sexo
+3565,reprodutor,cérvix
+3566,carrapaticida,macho
+3567,carrapaticida,babesiose
+3568,carrapaticida,imersão
+3569,carrapaticida,brasil
+3570,carrapaticida,bactéria
+3571,carrapaticida,fêmea
+3572,carrapaticida,leite
+3573,carrapaticida,sangue
+3574,carrapaticida,febre
+3575,carrapaticida,febre maculosa
+3576,econômicos,consumo
+3577,econômicos,banco
+3578,econômicos,dado
+3579,econômicos,mercado
+3580,econômicos,agricultura
+3581,econômicos,cultura
+3582,econômicos,longo prazo
+3583,econômicos,custo
+3584,econômicos,produção
+3585,econômicos,declive
+3586,econômicos,paí
+3587,guzerá,brasil
+3588,guzerá,bovino
+3589,guzerá,raça
+3590,guzerá,leite
+3591,guzerá,zebu
+3592,intramamárias,antibiótico
+3593,alimento,cavalo
+3594,alimento,alimentação
+3595,alimento,vaca
+3596,alimento,cultura
+3597,alimento,vida
+3598,alimento,aveia
+3599,alimento,energia
+3600,alimento,organismo
+3601,alimento,carne
+3602,alimento,manteiga
+3603,alimento,ovo
+3604,alimento,leite
+3605,alimento,sangue
+3606,alimento,açúcar
+3607,alimento,reprodução
+3608,alimento,proteína
+3609,alimento,gordura
+3610,alimento,água
+3611,alimento,agricultura
+3612,alimento,coleta
+3613,alimento,inseto
+3614,alimento,substância
+3615,alimento,milho
+3616,alimento,nitrogênio
+3617,alimento,matéria
+3618,alimento,queijo
+3619,rodízio,transporte
+3620,rodízio,brasil
+3621,ogm,melhoramento genético
+3622,ogm,genoma
+3623,ogm,clonagem
+3624,ogm,organismo
+3625,ogm,brasil
+3626,ogm,embrapa
+3627,ogm,bactéria
+3628,ogm,dna
+3629,ogm,gene
+3630,ogm,genética
+3631,ogm,espécie
+3632,macho,reprodução
+3633,macho,espermatozoide
+3634,macho,célula
+3635,macho,fêmea
+3636,macho,sexo
+3637,macho,espécie
+3638,panicum,panicum
+3639,panicum,espécie
+3640,panicum,solo
+3641,odor,libido
+3642,necessitam,brasil
+3643,geração,sexo
+3644,higiene,organismo
+3645,higiene,limpeza
+3646,higiene,técnica
+3647,higiene,doença
+3648,higiene,desinfecção
+3649,desempenho,máquina
+3650,desempenho,equipamento
+3651,desempenho,produto
+3652,desempenho,animal
+3653,desempenho,processo
+3654,desempenho,meta
+3655,desempenho,transporte
+3656,desempenho,sistema
+3657,microbiana,alimento
+3658,microbiana,organismo
+3659,microbiana,fosfato
+3660,microbiana,magnésio
+3661,microbiana,proteína
+3662,microbiana,ph
+3663,microbiana,cálcio
+3664,microbiana,imunoglobulina
+3665,microbiana,lactose
+3666,microbiana,corpo
+3667,microbiana,ureia
+3668,microbiana,água
+3669,receptora,sódio
+3670,mosca,genoma
+3671,mosca,gene
+3672,mosca,genética
+3673,anormais,alimentação
+3674,anormais,energia
+3675,anormais,organismo
+3676,anormais,célula
+3677,anormais,parasita
+3678,anormais,inseto
+3679,anormais,proteína
+3680,anormais,cálcio
+3681,anormais,ovo
+3682,anormais,animal
+3683,anormais,matéria
+3684,anormais,genética
+3685,anormais,espécie
+3686,anormais,vida
+3687,provoca,parte
+3688,auxilia,brasil
+3689,fuste,árvore
+3690,fuste,arquitetura
+3691,crioscopia,temperatura
+3692,crioscopia,líquido
+3693,crioscopia,química
+3694,criar,aborto
+3695,criar,dano
+3696,criar,brasil
+3697,criar,parto
+3698,placenta,útero
+3699,empregado,droga
+3700,empregado,brasil
+3701,secos,brasil
+3702,congelado,tratado
+3703,humanos,literatura
+3704,humanos,célula
+3705,humanos,cultura
+3706,humanos,irrigação
+3707,humanos,genética
+3708,humanos,paí
+3709,humanos,espécie
+3710,humanos,vida
+3711,humanos,placenta
+3712,humanos,europeu
+3713,humanos,macho
+3714,humanos,mercado
+3715,humanos,mãe
+3716,humanos,animal
+3717,humanos,útero
+3718,humanos,gado
+3719,humanos,fêmea
+3720,humanos,radiação solar
+3721,humanos,alimento
+3722,humanos,consumo
+3723,humanos,população
+3724,humanos,reprodução
+3725,humanos,gordura
+3726,humanos,tristeza
+3727,humanos,kg
+3728,humanos,serviço
+3729,humanos,dieta
+3730,humanos,peso
+3731,humanos,parto
+3732,humanos,água
+3733,humanos,genoma
+3734,humanos,mão
+3735,humanos,agricultura
+3736,humanos,libido
+3737,humanos,inseto
+3738,humanos,gestação
+3739,humanos,nitrogênio
+3740,humanos,dna
+3741,humanos,produção
+3742,humanos,doença
+3743,humanos,gene
+3744,humanos,sexo
+3745,humanos,transporte
+3746,pc,brasil
+3747,subclínica,medicamento
+3748,subclínica,organismo
+3749,subclínica,reação inflamatória
+3750,subclínica,dor
+3751,subclínica,imunoglobulina
+3752,subclínica,droga
+3753,subclínica,infecção
+3754,subclínica,estresse
+3755,subclínica,doença
+3756,subclínica,genética
+3757,subclínica,calor
+3758,subclínica,febre
+3759,mineral,alimento
+3760,mineral,fosfato
+3761,mineral,magnésio
+3762,mineral,fósforo
+3763,mineral,cálcio
+3764,mineral,sólido
+3765,mineral,composição química
+3766,mineral,sal
+3767,ureia,alimento
+3768,ureia,célula
+3769,ureia,proteína
+3770,ureia,água
+3771,ureia,composto orgânico
+3772,ureia,nitrogênio
+3773,ureia,sangue
+3774,ureia,sal
+3775,ureia,semente
+3776,cynodon,espécie
+3777,reprodutivo,genoma
+3778,reprodutivo,população
+3779,reprodutivo,macho
+3780,reprodutivo,cruzamento
+3781,reprodutivo,espécie
+3782,reprodutivo,fêmea
+3783,reprodutivo,acasalamento
+3784,reprodutivo,ambiente
+3785,umidade,temperatura
+3786,umidade,umidade relativa
+3787,umidade,medida
+3788,umidade,sangue
+3789,umidade,água
+3790,umidade,saturação
+3791,forrageiras,alimentação
+3792,forrageiras,pasto
+3793,forrageiras,aveia
+3794,forrageiras,carrapato
+3795,forrageiras,vaca
+3796,forrageiras,agricultura
+3797,forrageiras,alfafa
+3798,forrageiras,gado
+3799,forrageiras,solo
+3800,reduzir,cultura
+3801,reduzir,terapia
+3802,potencial,temperatura
+3803,potencial,calor
+3804,potencial,energia
+3805,alfafa,população
+3806,alfafa,brasil
+3807,alfafa,área
+3808,alfafa,indústria
+3809,como,área
+3810,inicial,brasil
+3811,será,brasil
+3812,silos,silagem
+3813,silos,umidade
+3814,silos,agricultura
+3815,silos,limpeza
+3816,silos,fazenda
+3817,arbóreas,área
+3818,porém,população
+3819,porém,área
+3820,porém,brasil
+3821,porém,indústria
+3822,porém,queijo
+3823,porém,arquitetura
+3824,normalmente,brasil
+3825,detectar,máquina
+3826,detectar,equipamento
+3827,detectar,substância
+3828,detectar,partícula
+3829,detectar,corpo
+3830,cuidadosamente,objetivo
+3831,cuidadosamente,energia
+3832,cuidadosamente,capacidade
+3833,cuidadosamente,pesquisa
+3834,cuidadosamente,necessidade
+3835,cuidadosamente,estresse
+3836,cuidadosamente,medo
+3837,cuidadosamente,planejamento
+3838,cuidadosamente,eficiente
+3839,mamária,árvore
+3840,mamária,população
+3841,mamária,umidade
+3842,mamária,inseto
+3843,mamária,calcário
+3844,mamária,animai
+3845,mamária,seca
+3846,mamária,serviço
+3847,mamária,indústria
+3848,significa,literatura
+3849,significa,cultura
+3850,significa,contagem
+3851,significa,inverno
+3852,significa,umidade relativa
+3853,significa,banco
+3854,significa,mercado
+3855,significa,pesquisa
+3856,significa,lotação
+3857,significa,temperatura
+3858,significa,população
+3859,significa,brasil
+3860,significa,legislação
+3861,significa,serviço
+3862,significa,solo
+3863,significa,água
+3864,significa,vacina
+3865,significa,produção
+3866,significa,indústria
+3867,significa,transporte
+3868,significa,arquitetura
+3869,mestiço,mestiço
+3870,mestiço,europeu
+3871,mestiço,brasil
+3872,mestiço,raça
+3873,permite,população
+3874,permite,açúcar
+3875,permite,energia
+3876,permite,agricultura
+3877,permite,média
+3878,permite,carne
+3879,permite,cultura
+3880,permite,contagem
+3881,permite,brasil
+3882,permite,mestiço
+3883,permite,serviço
+3884,permite,madeira
+3885,permite,paí
+3886,permite,clima temperado
+3887,permite,região
+3888,permite,cerrado
+3889,válida,brasil
+3890,raça,cavalo
+3891,raça,população
+3892,raça,macho
+3893,raça,cultura
+3894,raça,brasil
+3895,raça,sintoma
+3896,raça,gir
+3897,raça,mestiço
+3898,raça,gene
+3899,raça,genética
+3900,raça,espécie
+3901,raça,zebu
+3902,infestação,infecçõe
+3903,infestação,carrapato
+3904,infestação,parasita
+3905,infestação,infecção
+3906,infestação,bactéria
+3907,infestação,vermis
+3908,custo,objetivo
+3909,custo,energia
+3910,custo,legislação
+3911,custo,produção
+3912,custo,serviço
+3913,cerca,concreto
+3914,cerca,madeira
+3915,área,volume
+3916,área,superfície
+3917,Minas Gerais,literatura
+3918,Minas Gerais,estiagem
+3919,Minas Gerais,população
+3920,Minas Gerais,área
+3921,Minas Gerais,fosfato
+3922,Minas Gerais,contagem
+3923,Minas Gerais,brasil
+3924,Minas Gerais,sorgo
+3925,Minas Gerais,calcário
+3926,Minas Gerais,milho
+3927,Minas Gerais,ovo
+3928,Minas Gerais,vivo
+3929,Minas Gerais,madeira
+3930,Minas Gerais,inverno
+3931,Minas Gerais,leite
+3932,Minas Gerais,cerrado
+3933,Minas Gerais,queijo
+3934,Mastite Teste,inflamação
+3935,Mastite Teste,glândula mamária
+3936,Mastite Teste,dor
+3937,Mastite Teste,bactéria
+3938,Mastite Teste,antibiótico
+3939,Mastite Teste,infecção
+3940,Mastite Teste,febre
+3941,Estados Unidos,população
+3942,Estados Unidos,europeu
+3943,Estados Unidos,agricultura
+3944,Estados Unidos,fosfato
+3945,Estados Unidos,aborto
+3946,Estados Unidos,inseto
+3947,Estados Unidos,sal
+3948,Estados Unidos,brasil
+3949,Estados Unidos,milho
+3950,Estados Unidos,produtividade
+3951,Estados Unidos,leite
+3952,Estados Unidos,espécie
+3953,Estados Unidos,arquitetura
+3954,Empresa Brasileira,brasil
+3955,Pennisetum purpureum,pennisetum
+3956,Pennisetum purpureum,espécie
+3957,Pennisetum purpureum,brasil
+3958,Pesquisa Agropecuária,brasil
+3959,Pesquisa Agropecuária,agricultura
+3960,Streptococcus agalactiae,vacina
+3961,Streptococcus agalactiae,infecção
+3962,Streptococcus agalactiae,espécie
+3963,Streptococcus agalactiae,útero
+3964,corrente sanguínea,inseto
+3965,corrente sanguínea,nutriente
+3966,corrente sanguínea,antibiótico
+3967,corrente sanguínea,doença
+3968,corrente sanguínea,hormônio
+3969,corrente sanguínea,vida
+3970,detergente neutro,nutriente
+3971,detergente neutro,forrageira
+3972,raios solares,radiação solar
+3973,Instrução Normativa,brasil
+3974,Custo Operacional,objetivo
+3975,Custo Operacional,energia
+3976,Custo Operacional,legislação
+3977,Custo Operacional,produção
+3978,Custo Operacional,serviço
+3979,distúrbios metabólicos,infecção
+3980,distúrbios metabólicos,inflamação
+3981,distúrbios metabólicos,sistema imunológico
+3982,intestino delgado,glândula
+3983,intestino delgado,acidez
+3984,intestino delgado,célula
+3985,intestino delgado,proteína
+3986,intestino delgado,ph
+3987,intestino delgado,gordura
+3988,intestino delgado,nutriente
+3989,intestino delgado,cálcio
+3990,intestino delgado,sódio
+3991,intestino delgado,hormônio
+3992,intestino delgado,fez
+3993,intestino delgado,água
+3994,cevada úmida,aveia
+3995,cevada úmida,carne
+3996,cevada úmida,proteína
+3997,cevada úmida,intestino delgado
+3998,cevada úmida,milho
+3999,cevada úmida,fermentação
+4000,cevada úmida,leite
+4001,cevada úmida,sal
+4002,cevada úmida,semente
+4003,Staphylococcus aureus,espécie
+4004,Staphylococcus aureus,febre
+4005,Taiwan A-146,tanzânia
+4006,Taiwan A-146,brasil
+4007,radiação solar,temperatura
+4008,radiação solar,calor
+4009,radiação solar,frequência
+4010,radiação solar,área
+4011,geneticamente modificados,melhoramento genético
+4012,geneticamente modificados,genoma
+4013,geneticamente modificados,clonagem
+4014,geneticamente modificados,organismo
+4015,geneticamente modificados,brasil
+4016,geneticamente modificados,embrapa
+4017,geneticamente modificados,bactéria
+4018,geneticamente modificados,dna
+4019,geneticamente modificados,gene
+4020,geneticamente modificados,genética
+4021,geneticamente modificados,espécie
+4022,sentido leste-oeste,brasil
+4023,sentido norte-sul,brasil
+4024,seres humanos,literatura
+4025,seres humanos,célula
+4026,seres humanos,cultura
+4027,seres humanos,irrigação
+4028,seres humanos,genética
+4029,seres humanos,paí
+4030,seres humanos,espécie
+4031,seres humanos,vida
+4032,seres humanos,placenta
+4033,seres humanos,europeu
+4034,seres humanos,macho
+4035,seres humanos,mercado
+4036,seres humanos,mãe
+4037,seres humanos,animal
+4038,seres humanos,útero
+4039,seres humanos,gado
+4040,seres humanos,fêmea
+4041,seres humanos,radiação solar
+4042,seres humanos,alimento
+4043,seres humanos,consumo
+4044,seres humanos,população
+4045,seres humanos,reprodução
+4046,seres humanos,gordura
+4047,seres humanos,tristeza
+4048,seres humanos,kg
+4049,seres humanos,serviço
+4050,seres humanos,dieta
+4051,seres humanos,peso
+4052,seres humanos,parto
+4053,seres humanos,água
+4054,seres humanos,genoma
+4055,seres humanos,mão
+4056,seres humanos,agricultura
+4057,seres humanos,libido
+4058,seres humanos,inseto
+4059,seres humanos,gestação
+4060,seres humanos,nitrogênio
+4061,seres humanos,dna
+4062,seres humanos,produção
+4063,seres humanos,doença
+4064,seres humanos,gene
+4065,seres humanos,sexo
+4066,seres humanos,transporte
+4067,inimigos naturais,árvore
+4068,inimigos naturais,mão
+4069,inimigos naturais,carrapato
+4070,inimigos naturais,agricultura
+4071,inimigos naturais,parasita
+4072,inimigos naturais,inseto
+4073,inimigos naturais,glândula mamária
+4074,inimigos naturais,brasil
+4075,inimigos naturais,sangue
+4076,inimigos naturais,folha
+4077,inimigos naturais,parasitismo
+4078,inimigos naturais,planta
+4079,inimigos naturais,doença
+4080,inimigos naturais,semente
+4081,inimigos naturais,espécie
+4082,inimigos naturais,fez
+4083,inimigos naturais,ambiente
+4084,inimigos naturais,adubo
+4085,quarto mamário,genética
+4086,Cynodon dactylon,pasto
+4087,Cynodon dactylon,cynodon
+4088,Cynodon dactylon,impacto
+4089,Cynodon dactylon,nutriente
+4090,Cynodon dactylon,cana
+4091,Cynodon dactylon,espécie
+4092,Cynodon dactylon,solo
+4093,febre maculosa,carrapato
+4094,febre maculosa,aborto
+4095,febre maculosa,diarreia
+4096,febre maculosa,brasil
+4097,febre maculosa,bactéria
+4098,febre maculosa,febre
+4099,fosfato bicálcico,base
+4100,fosfato bicálcico,cultura
+4101,fosfato bicálcico,irrigação
+4102,fosfato bicálcico,cálcio
+4103,fosfato bicálcico,esterco
+4104,fosfato bicálcico,acidez
+4105,fosfato bicálcico,fosfato
+4106,fosfato bicálcico,microrganismo
+4107,fosfato bicálcico,semente
+4108,fosfato bicálcico,açúcar
+4109,fosfato bicálcico,óleo
+4110,fosfato bicálcico,fósforo
+4111,fosfato bicálcico,bactéria
+4112,fosfato bicálcico,leguminosa
+4113,fosfato bicálcico,química
+4114,fosfato bicálcico,fertilidade
+4115,fosfato bicálcico,solo
+4116,fosfato bicálcico,água
+4117,fosfato bicálcico,agricultura
+4118,fosfato bicálcico,magnésio
+4119,fosfato bicálcico,fazenda
+4120,fosfato bicálcico,nitrogênio
+4121,fosfato bicálcico,ureia
+4122,fosfato bicálcico,cobalto
+4123,Panicum maximum,gramínea
+4124,Panicum maximum,panicum
+4125,Panicum maximum,espécie
+4126,Cynodon nlemfuensis,espécie
+4127,bactérias Gram-negativas,bactéria
+4128,bactérias Gram-negativas,antibiótico
+4129,clima temperado,inverno
+4130,clima temperado,brasil
+4131,desmama precoce,brasil
+4132,glândula mamária,cavalo
+4133,glândula mamária,glândula
+4134,glândula mamária,proteína
+4135,glândula mamária,microrganismo
+4136,glândula mamária,ovo
+4137,glândula mamária,bactéria
+4138,glândula mamária,hormônio
+4139,glândula mamária,leite
+4140,glândula mamária,espécie
+4141,origem europeia,mestiço
+4142,origem europeia,brasil
+4143,prejuízos econômicos,custo
+4144,deficiências nutricionais,vitamina
+4145,deficiências nutricionais,agricultura
+4146,deficiências nutricionais,proteína
+4147,deficiências nutricionais,nutriente
+4148,deficiências nutricionais,antibiótico
+4149,deficiências nutricionais,dieta
+4150,médico veterinário,alimento
+4151,médico veterinário,rúman
+4152,médico veterinário,médico
+4153,médico veterinário,carne
+4154,médico veterinário,cultura
+4155,médico veterinário,higiene
+4156,médico veterinário,brasil
+4157,médico veterinário,rebanho
+4158,médico veterinário,ovo
+4159,médico veterinário,bovino
+4160,médico veterinário,prevenção
+4161,médico veterinário,química
+4162,médico veterinário,gado
+4163,médico veterinário,doença
+4164,médico veterinário,genética
+4165,médico veterinário,leite
+4166,médico veterinário,controle
+4167,médico veterinário,tratamento
+4168,médico veterinário,arquitetura
+4169,médico veterinário,inseminação artificial
+4170,células somáticas,reprodução
+4171,células somáticas,célula
+4172,segunda semana,manhã
+4173,segunda semana,brasil
+4174,cuidado especial,árvore
+4175,cuidado especial,tanzânia
+4176,cuidado especial,madeira
+4177,cuidado especial,espécie
+4178,cuidado especial,planta
+4179,baixas temperaturas,temperatura
+4180,baixas temperaturas,calor
+4181,baixas temperaturas,energia
+4182,novas infecções,inflamação
+4183,novas infecções,organismo
+4184,novas infecções,brasil
+4185,novas infecções,microrganismo
+4186,novas infecções,bactéria
+4187,novas infecções,antibiótico
+4188,novas infecções,doença
+4189,ressemeadura natural,pasto
+4190,ressemeadura natural,solo
+4191,ressemeadura natural,agricultura
+4192,ressemeadura natural,brasil
+4193,ressemeadura natural,rebanho
+4194,ressemeadura natural,sorgo
+4195,ressemeadura natural,milho
+4196,ressemeadura natural,processo
+4197,ressemeadura natural,pastagem
+4198,ressemeadura natural,matéria seca
+4199,ressemeadura natural,calagem
+4200,ressemeadura natural,semente
+4201,nutrientes extraídas,base
+4202,nutrientes extraídas,acidez
+4203,nutrientes extraídas,fosfato
+4204,nutrientes extraídas,magnésio
+4205,nutrientes extraídas,fósforo
+4206,nutrientes extraídas,proteína
+4207,nutrientes extraídas,alumínio
+4208,nutrientes extraídas,água
+4209,nutrientes extraídas,mineral
+4210,nutrientes extraídas,calcário
+4211,nutrientes extraídas,sódio
+4212,nutrientes extraídas,selênio
+4213,nutrientes extraídas,cobalto
+4214,microrganismos patogênicos,açúcar
+4215,microrganismos patogênicos,energia
+4216,microrganismos patogênicos,organismo
+4217,microrganismos patogênicos,parasita
+4218,microrganismos patogênicos,reprodução
+4219,microrganismos patogênicos,nutriente
+4220,microrganismos patogênicos,lactose
+4221,microrganismos patogênicos,bactéria
+4222,microrganismos patogênicos,bovino
+4223,microrganismos patogênicos,fermentação
+4224,microrganismos patogênicos,dna
+4225,microrganismos patogênicos,leguminosa
+4226,microrganismos patogênicos,matéria
+4227,microrganismos patogênicos,genética
+4228,microrganismos patogênicos,leite
+4229,microrganismos patogênicos,vida
+4230,microrganismos patogênicos,solo
+4231,microrganismos patogênicos,queijo
+4232,variabilidade genética,população
+4233,variabilidade genética,espécie
+4234,variabilidade genética,gene
+4235,áreas encharcadas,ha
+4236,áreas encharcadas,solo
+4237,áreas encharcadas,fosfato
+4238,áreas encharcadas,ph
+4239,áreas encharcadas,microrganismo
+4240,áreas encharcadas,água
+4241,áreas encharcadas,embriõe
+4242,áreas encharcadas,kg
+4243,áreas encharcadas,gene
+4244,áreas encharcadas,sal
+4245,áreas encharcadas,placenta
+4246,contaminação microbiana,bactéria
+4247,tomar chuva,árvore
+4248,tomar chuva,volume
+4249,tomar chuva,óleo
+4250,tomar chuva,agricultura
+4251,tomar chuva,cultura
+4252,tomar chuva,brasil
+4253,tomar chuva,água
+4254,tomar chuva,bactéria
+4255,tomar chuva,seca
+4256,tomar chuva,superfície
+4257,tomar chuva,inverno
+4258,tomar chuva,sólido
+4259,tomar chuva,líquido
+4260,tomar chuva,planta
+4261,tomar chuva,solo
+4262,clima quente,inverno
+4263,clima quente,brasil
+4264,Caso haja,área
+4265,cuidados sanitários,higiene
+4266,cuidados sanitários,química
+4267,cuidados sanitários,fez
+4268,cuidados sanitários,água
+4269,Brachiaria brizantha,gramínea
+4270,Brachiaria brizantha,bactéria
+4271,Brachiaria humidicola,gramínea
+4272,Brachiaria humidicola,bactéria
+4273,vida útil,alimento
+4274,vida útil,durabilidade
+4275,azevém anual,estrela
+4276,azevém anual,transporte
+4277,azevém anual,brasil
+4278,azevém anual,concreto
+4279,sangue europeu,europeu
+4280,produtos lácteos,cavalo
+4281,produtos lácteos,vaca
+4282,produtos lácteos,diarreia
+4283,produtos lácteos,rebanho
+4284,produtos lácteos,cálcio
+4285,produtos lácteos,animai
+4286,produtos lácteos,sódio
+4287,produtos lácteos,intestino delgado
+4288,produtos lácteos,sabor
+4289,produtos lácteos,fosfato
+4290,produtos lácteos,carne
+4291,produtos lácteos,lactose
+4292,produtos lácteos,manteiga
+4293,produtos lácteos,antibiótico
+4294,produtos lácteos,fermentação
+4295,produtos lácteos,ovo
+4296,produtos lácteos,leite
+4297,produtos lácteos,temperatura
+4298,produtos lácteos,alimento
+4299,produtos lácteos,ordenha
+4300,produtos lácteos,açúcar
+4301,produtos lácteos,vitamina
+4302,produtos lácteos,fósforo
+4303,produtos lácteos,proteína
+4304,produtos lácteos,úbere
+4305,produtos lácteos,bactéria
+4306,produtos lácteos,química
+4307,produtos lácteos,pasteurização
+4308,produtos lácteos,dieta
+4309,produtos lácteos,água
+4310,produtos lácteos,magnésio
+4311,produtos lácteos,imunoglobulina
+4312,produtos lácteos,infecção
+4313,produtos lácteos,nitrogênio
+4314,produtos lácteos,queijo
+4315,produtos lácteos,homogeneização
+4316,sistemas intensivos,fazenda
+4317,sistemas intensivos,irrigação
+4318,sistemas intensivos,solo
+4319,sistemas intensivos,agricultura
+4320,Brachiaria ruziziensis,brachiaria
+4321,Brachiaria ruziziensis,brasil
+4322,inseminação artificial,espermatozoide
+4323,inseminação artificial,sêman
+4324,inseminação artificial,útero
+4325,inseminação artificial,clínica
+4326,inseminação artificial,parto
+4327,inseminação artificial,placenta
+4328,altas produções,bovino
+4329,resíduos orgânicos,máquina
+4330,resíduos orgânicos,organismo
+4331,resíduos orgânicos,óleo
+4332,resíduos orgânicos,agricultura
+4333,resíduos orgânicos,brasil
+4334,resíduos orgânicos,ph
+4335,resíduos orgânicos,nitrogênio
+4336,resíduos orgânicos,doença
+4337,resíduos orgânicos,compostagem
+4338,resíduos orgânicos,fez
+4339,resíduos orgânicos,adubo
+4340,desempenho reprodutivo,cavalo
+4341,desempenho reprodutivo,genoma
+4342,desempenho reprodutivo,melhoramento genético
+4343,desempenho reprodutivo,clonagem
+4344,desempenho reprodutivo,vaca
+4345,desempenho reprodutivo,agricultura
+4346,desempenho reprodutivo,folha
+4347,desempenho reprodutivo,animai
+4348,desempenho reprodutivo,fêmea
+4349,desempenho reprodutivo,gene
+4350,desempenho reprodutivo,semente
+4351,desempenho reprodutivo,espécie
+4352,desempenho reprodutivo,planta
+4353,desempenho reprodutivo,elefante
+4354,desempenho reprodutivo,genética
+4355,crescimento rasteiro,brasil
+4356,crescimento rasteiro,genética
+4357,Brasil Central,banco
+4358,Brasil Central,brasil
+4359,área cultivada,milho
+4360,área cultivada,forragem
+4361,composto orgânico,fósforo
+4362,composto orgânico,nitrogênio
+4363,composto orgânico,química
+4364,composto orgânico,ureia
+4365,composto orgânico,vida
+4366,composto orgânico,químico
+4367,cultivar Basilisk,arbusto
+4368,cultivar Basilisk,agricultura
+4369,cultivar Basilisk,brasil
+4370,cultivar Basilisk,gordura
+4371,cultivar Basilisk,água
+4372,cultivar Basilisk,fazenda
+4373,cultivar Basilisk,pastagem
+4374,cultivar Basilisk,inverno
+4375,cultivar Basilisk,acasalamento
+4376,cultivar Basilisk,arquitetura
+4377,cultivar Basilisk,clima temperado
+4378,atividade leiteira,mastite
+4379,atividade leiteira,úbere
+4380,atividade leiteira,animai
+4381,atividade leiteira,leite
+4382,atividade leiteira,água
+4383,planta tóxica,aborto
+4384,planta tóxica,intoxicação
+4385,raças europeias,touro
+4386,raças europeias,brasil
+4387,plantas tóxicas,aborto
+4388,plantas tóxicas,intoxicação
+4389,melhoramento genético,variabilidade genética
+4390,melhoramento genético,espermatozoide
+4391,melhoramento genético,célula
+4392,melhoramento genético,animai
+4393,melhoramento genético,gene
+4394,melhoramento genético,fêmea
+4395,melhoramento genético,semente
+4396,melhoramento genético,leite
+4397,melhoramento genético,planta
+4398,melhoramento genético,genética
+4399,estresse térmico,bactéria
+4400,estresse térmico,proteína
+4401,estresse térmico,célula
+4402,sistemas agrossilvipastoris,inflorescência
+4403,sistemas agrossilvipastoris,espécie
+4404,sistemas agrossilvipastoris,proteína
+4405,cobertura vegetal,solo
+4406,cobertura vegetal,umidade
+4407,cobertura vegetal,água
+4408,cobertura vegetal,nitrogênio
+4409,cobertura vegetal,estação
+4410,cobertura vegetal,espécie
+4411,cobertura vegetal,planta
+4412,cobertura vegetal,folha
+4413,cobertura vegetal,cerrado
+4414,solos férteis,alimento
+4415,solos férteis,açúcar
+4416,solos férteis,aveia
+4417,solos férteis,máquina
+4418,solos férteis,agricultura
+4419,solos férteis,solo
+4420,solos férteis,área
+4421,solos férteis,fertilidade
+4422,solos férteis,mineral
+4423,solos férteis,milho
+4424,solos férteis,química
+4425,solos férteis,indústria
+4426,solos férteis,sal
+4427,solos férteis,leite
+4428,solos férteis,transporte
+4429,solos férteis,desenvolvimento
+4430,solos férteis,produtividade
+4431,adicionar sulfato,bactéria
+4432,adicionar sulfato,ph
+4433,eficiência reprodutiva,eficiência
+4434,eficiência reprodutiva,inclinação
+4435,eficiência reprodutiva,copa
+4436,forrageiras herbáceas,árvore
+4437,forrageiras herbáceas,alimentação
+4438,forrageiras herbáceas,bovino
+4439,forrageiras herbáceas,animai
+4440,forrageiras herbáceas,espécie
+4441,forrageiras herbáceas,planta
+4442,forrageiras herbáceas,folha
+4443,forrageiras herbáceas,forrageira
+4444,forrageiras herbáceas,energia
+4445,forrageiras herbáceas,copa
+4446,forrageiras herbáceas,mineral
+4447,forrageiras herbáceas,seca
+4448,forrageiras herbáceas,fez
+4449,forrageiras herbáceas,semente
+4450,forrageiras herbáceas,temperatura
+4451,forrageiras herbáceas,alimento
+4452,forrageiras herbáceas,proteína
+4453,forrageiras herbáceas,brasil
+4454,forrageiras herbáceas,solo
+4455,forrageiras herbáceas,água
+4456,forrageiras herbáceas,madeira
+4457,proteína bruta,vitamina
+4458,proteína bruta,espermatozoide
+4459,proteína bruta,célula
+4460,proteína bruta,carne
+4461,proteína bruta,diarreia
+4462,proteína bruta,ph
+4463,proteína bruta,cálcio
+4464,proteína bruta,ovo
+4465,proteína bruta,sódio
+4466,proteína bruta,aleitamento
+4467,proteína bruta,gene
+4468,proteína bruta,genética
+4469,proteína bruta,ureia
+4470,proteína bruta,leite
+4471,proteína bruta,dieta
+4472,proteína bruta,sangue
+4473,proteína bruta,planta
+4474,proteína bruta,água
+4475,proteína bruta,semente
+4476,proteína bruta,queijo
+4477,silo aberto,arquitetura
+4478,composição química,vitamina
+4479,composição química,fósforo
+4480,composição química,proteína
+4481,composição química,substância
+4482,composição química,nitrogênio
+4483,composição química,matéria
+4484,composição química,química
+4485,região Sudeste,árvore
+4486,região Sudeste,padrão
+4487,região Sudeste,umidade
+4488,região Sudeste,arbusto
+4489,região Sudeste,cultura
+4490,região Sudeste,contagem
+4491,região Sudeste,problema
+4492,região Sudeste,baixada
+4493,região Sudeste,inverno
+4494,região Sudeste,paí
+4495,região Sudeste,espécie
+4496,região Sudeste,lagoa
+4497,região Sudeste,região
+4498,região Sudeste,pesquisa
+4499,região Sudeste,carne
+4500,região Sudeste,animal
+4501,região Sudeste,seca
+4502,região Sudeste,mestiço
+4503,região Sudeste,gado
+4504,região Sudeste,raça
+4505,região Sudeste,cerrado
+4506,região Sudeste,temperatura
+4507,região Sudeste,alimento
+4508,região Sudeste,população
+4509,região Sudeste,agrícola
+4510,região Sudeste,brasil
+4511,região Sudeste,interior
+4512,região Sudeste,produto
+4513,região Sudeste,calor
+4514,região Sudeste,desenvolvimento
+4515,região Sudeste,clima temperado
+4516,região Sudeste,solo
+4517,região Sudeste,água
+4518,região Sudeste,área
+4519,região Sudeste,agricultura
+4520,região Sudeste,milho
+4521,região Sudeste,fazenda
+4522,região Sudeste,indústria
+4523,região Sudeste,madeira
+4524,sistema imunológico,célula
+4525,sistema imunológico,planta
+4526,sistema imunológico,folha
+4527,sistema imunológico,inflamação
+4528,sistema imunológico,organismo
+4529,sistema imunológico,parasita
+4530,sistema imunológico,ph
+4531,sistema imunológico,microrganismo
+4532,sistema imunológico,nutriente
+4533,sistema imunológico,ovo
+4534,sistema imunológico,animal
+4535,sistema imunológico,antibiótico
+4536,sistema imunológico,sangue
+4537,sistema imunológico,proteína
+4538,sistema imunológico,vagina
+4539,sistema imunológico,febre
+4540,sistema imunológico,genoma
+4541,sistema imunológico,inseto
+4542,sistema imunológico,imunoglobulina
+4543,sistema imunológico,infecção
+4544,sistema imunológico,doença
+4545,sistema imunológico,gene
+4546,fase inicial,brasil
+4547,características físicas,estrela
+4548,características físicas,temperatura
+4549,características físicas,volume
+4550,características físicas,máquina
+4551,características físicas,frequência
+4552,características físicas,energia
+4553,características físicas,organismo
+4554,características físicas,área
+4555,características físicas,água
+4556,características físicas,transporte
+4557,características físicas,matéria
+4558,características físicas,mecânica
+4559,características físicas,indústria
+4560,características físicas,genética
+4561,características físicas,química
+4562,características físicas,topografia
+4563,características físicas,calor
+4564,características físicas,arquitetura
+4565,características físicas,prática
+4566,aleitamento artificial,diarreia
+4567,aleitamento artificial,infecção
+4568,aleitamento artificial,útero
+4569,aleitamento artificial,placenta
+4570,aleitamento artificial,colostro
+4571,aleitamento artificial,fertilidade
+4572,aleitamento artificial,peso
+4573,aleitamento artificial,parto
+4574,aleitamento artificial,inseminação artificial
+4575,matéria seca,silagem
+4576,matéria seca,vitamina
+4577,matéria seca,agricultura
+4578,matéria seca,carne
+4579,matéria seca,proteína
+4580,matéria seca,gordura
+4581,matéria seca,nutriente
+4582,matéria seca,lactose
+4583,matéria seca,manteiga
+4584,matéria seca,fermentação
+4585,matéria seca,queijo
+4586,matéria seca,leite
+4587,matéria seca,peso
+4588,época chuvosa,agricultura
+4589,época chuvosa,ph
+4590,época chuvosa,brasil
+4591,época chuvosa,inverno
+4592,época chuvosa,clima temperado
+4593,época chuvosa,solo
+4594,valor comercial,árvore
+4595,valor comercial,brasil
+4596,valor comercial,madeira
+4597,valor comercial,espécie
+4598,valor comercial,cerrado
+4599,valor comercial,mosca
+4600,forma sólida,volume
+4601,forma sólida,forma
+4602,forma sólida,partícula
+4603,forma sólida,matéria
+4604,forma sólida,líquido
+4605,forma sólida,água
+4606,NATIONAL RESEARCH COUNCIL,espécie
+4607,balanço energético negativo,semeadura
+4608,balanço energético negativo,agricultura
+4609,balanço energético negativo,irrigação
+4610,balanço energético negativo,fazenda
+4611,balanço energético negativo,calagem
+4612,tristeza parasitária bovina,bactéria
+4613,tristeza parasitária bovina,chifre
+4614,tristeza parasitária bovina,carrapato
+4615,Guzerá dupla aptidão,brasil
+4616,Guzerá dupla aptidão,bovino
+4617,Guzerá dupla aptidão,raça
+4618,Guzerá dupla aptidão,leite
+4619,Guzerá dupla aptidão,zebu
+4620,ganho médio diário,brasil
+4621,pela Embrapa Gado,leite
+4622,pela população microbiana,açúcar
+4623,pela população microbiana,energia
+4624,pela população microbiana,vitamina
+4625,pela população microbiana,carne
+4626,pela população microbiana,fósforo
+4627,pela população microbiana,ph
+4628,pela população microbiana,ovo
+4629,pela população microbiana,bactéria
+4630,pela população microbiana,nitrogênio
+4631,pela população microbiana,ureia
+4632,pela população microbiana,vagina
+4633,pela população microbiana,sólido
+4634,pela população microbiana,líquido
+4635,pela população microbiana,fez
+4636,pode provocar intoxicação,intoxicação
+4637,pode provocar intoxicação,substância
+4638,maior potencial forrageiro,árvore
+4639,maior potencial forrageiro,alimentação
+4640,maior potencial forrageiro,bovino
+4641,maior potencial forrageiro,animai
+4642,maior potencial forrageiro,espécie
+4643,maior potencial forrageiro,planta
+4644,maior potencial forrageiro,folha
+4645,maior potencial forrageiro,forrageira
+4646,maior potencial forrageiro,energia
+4647,maior potencial forrageiro,copa
+4648,maior potencial forrageiro,mineral
+4649,maior potencial forrageiro,seca
+4650,maior potencial forrageiro,fez
+4651,maior potencial forrageiro,semente
+4652,maior potencial forrageiro,temperatura
+4653,maior potencial forrageiro,alimento
+4654,maior potencial forrageiro,proteína
+4655,maior potencial forrageiro,brasil
+4656,maior potencial forrageiro,solo
+4657,maior potencial forrageiro,água
+4658,maior potencial forrageiro,madeira
+4659,espaçamento recomendado para,temperatura
+4660,espaçamento recomendado para,umidade
+4661,espaçamento recomendado para,óleo
+4662,espaçamento recomendado para,agricultura
+4663,espaçamento recomendado para,genética
+4664,espaçamento recomendado para,alumínio
+4665,espaçamento recomendado para,irrigação
+4666,espaçamento recomendado para,plantio
+4667,espaçamento recomendado para,polpa
+4668,espaçamento recomendado para,água
+4669,espaçamento recomendado para,leguminosa
+4670,espaçamento recomendado para,nitrogênio
+4671,espaçamento recomendado para,produção
+4672,espaçamento recomendado para,doença
+4673,espaçamento recomendado para,fibra
+4674,espaçamento recomendado para,radiação solar
+4675,espaçamento recomendado para,desenvolvimento
+4676,espaçamento recomendado para,planta
+4677,espaçamento recomendado para,solo
+4678,espaçamento recomendado para,adubo
+4679,Brachiaria decumbens pode,alimentação
+4680,Brachiaria decumbens pode,ingestão
+4681,Brachiaria decumbens pode,pasto
+4682,Brachiaria decumbens pode,organismo
+4683,Brachiaria decumbens pode,aborto
+4684,Brachiaria decumbens pode,brachiaria
+4685,Brachiaria decumbens pode,fósforo
+4686,Brachiaria decumbens pode,diarreia
+4687,Brachiaria decumbens pode,rebanho
+4688,Brachiaria decumbens pode,cálcio
+4689,Brachiaria decumbens pode,sintoma
+4690,Brachiaria decumbens pode,bactéria
+4691,Brachiaria decumbens pode,bezerro
+4692,Brachiaria decumbens pode,antibiótico
+4693,Brachiaria decumbens pode,bovino
+4694,Brachiaria decumbens pode,milho
+4695,Brachiaria decumbens pode,raça
+4696,Brachiaria decumbens pode,leite
+4697,cruzamento entre animais,cavalo
+4698,cruzamento entre animais,genoma
+4699,cruzamento entre animais,melhoramento genético
+4700,cruzamento entre animais,clonagem
+4701,cruzamento entre animais,vaca
+4702,cruzamento entre animais,agricultura
+4703,cruzamento entre animais,folha
+4704,cruzamento entre animais,animai
+4705,cruzamento entre animais,fêmea
+4706,cruzamento entre animais,gene
+4707,cruzamento entre animais,semente
+4708,cruzamento entre animais,espécie
+4709,cruzamento entre animais,planta
+4710,cruzamento entre animais,elefante
+4711,cruzamento entre animais,genética
+4712,alto potencial para,lama
+4713,alto potencial para,resistência
+4714,quantidade suficiente para,papel
+4715,quantidade suficiente para,alumínio
+4716,quantidade suficiente para,inverno
+4717,quantidade suficiente para,taxon
+4718,quantidade suficiente para,vida
+4719,quantidade suficiente para,umidade relativa
+4720,quantidade suficiente para,energia
+4721,quantidade suficiente para,organismo
+4722,quantidade suficiente para,temperatura
+4723,quantidade suficiente para,alimento
+4724,quantidade suficiente para,população
+4725,quantidade suficiente para,óleo
+4726,quantidade suficiente para,proteína
+4727,quantidade suficiente para,gordura
+4728,quantidade suficiente para,partícula
+4729,quantidade suficiente para,calor
+4730,quantidade suficiente para,calórico
+4731,quantidade suficiente para,água
+4732,quantidade suficiente para,área
+4733,quantidade suficiente para,concreto
+4734,quantidade suficiente para,substância
+4735,quantidade suficiente para,matéria
+4736,quantidade suficiente para,madeira
+4737,quantidade suficiente para,líquido
+4738,quantidade suficiente para,químico
+4739,período entre parto,árvore
+4740,período entre parto,acidez
+4741,período entre parto,médico
+4742,período entre parto,cultura
+4743,período entre parto,lactação
+4744,período entre parto,brasil
+4745,período entre parto,dor
+4746,período entre parto,infecção
+4747,período entre parto,útero
+4748,período entre parto,placenta
+4749,período entre parto,vagina
+4750,período entre parto,hormônio
+4751,período entre parto,cérvix
+4752,período entre parto,inseminação artificial
+4753,ração para cada,cavalo
+4754,ração para cada,raça
+4755,ração para cada,inseminação artificial
+4756,para evitar resíduos,máquina
+4757,para evitar resíduos,organismo
+4758,para evitar resíduos,óleo
+4759,para evitar resíduos,agricultura
+4760,para evitar resíduos,brasil
+4761,para evitar resíduos,ph
+4762,para evitar resíduos,nitrogênio
+4763,para evitar resíduos,doença
+4764,para evitar resíduos,compostagem
+4765,para evitar resíduos,fez
+4766,para evitar resíduos,adubo
+4767,época ideal para,brasil
+4768,produzem mais leite,vitamina
+4769,produzem mais leite,mineral
+4770,produzem mais leite,cálcio
+4771,mistura mineral para,química
+4772,mistura mineral para,fez
+4773,mistura mineral para,umidade
+4774,muito importante para,umidade relativa
+4775,muito importante para,população
+4776,muito importante para,banco
+4777,muito importante para,europeu
+4778,muito importante para,açúcar
+4779,muito importante para,área
+4780,muito importante para,sal
+4781,muito importante para,contagem
+4782,muito importante para,brasil
+4783,muito importante para,retirada
+4784,muito importante para,indústria
+4785,muito importante para,inverno
+4786,muito importante para,transporte
+4787,muito importante para,arquitetura
+4788,mais eficiente para,umidade relativa
+4789,mais eficiente para,população
+4790,mais eficiente para,banco
+4791,mais eficiente para,europeu
+4792,mais eficiente para,açúcar
+4793,mais eficiente para,área
+4794,mais eficiente para,sal
+4795,mais eficiente para,contagem
+4796,mais eficiente para,brasil
+4797,mais eficiente para,retirada
+4798,mais eficiente para,indústria
+4799,mais eficiente para,inverno
+4800,mais eficiente para,transporte
+4801,mais eficiente para,arquitetura
