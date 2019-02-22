@@ -1,0 +1,17 @@
+,Network,DecayRate,PreciseHits,Pct Hits,Window,HitsInWindow,PctHitsInWindow
+0,MergedR,0.1,29,0.058,20,242,0.484
+0,FullyMergedN,0.1,32,0.064,20,243,0.486
+0,FullyMergedR,0.1,31,0.062,20,239,0.478
+0,FullyMergedNR,0.1,54,0.108,20,281,0.562
+0,FullyMerged,0.1,38,0.076,20,258,0.516
+0,Wikipedia,0.1,49,0.098,20,252,0.504
+0,MergedNR,0.1,56,0.112,20,276,0.552
+0,MilkoN,0.1,16,0.032,20,148,0.296
+0,WikipediaN,0.1,38,0.076,20,251,0.502
+0,MilkoNR,0.1,20,0.04,20,154,0.308
+0,MergedN,0.1,31,0.062,20,250,0.5
+0,WikipediaNR,0.1,39,0.078,20,270,0.54
+0,WikipediaR,0.1,38,0.076,20,247,0.494
+0,Milko,0.1,13,0.026,20,138,0.276
+0,MilkoR,0.1,16,0.032,20,145,0.29
+0,Merged,0.1,47,0.094,20,254,0.508
