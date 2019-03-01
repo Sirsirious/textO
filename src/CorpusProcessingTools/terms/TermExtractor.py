@@ -50,7 +50,7 @@ def create_freq_dict(sentdf, lang, lemmatize=True):
             if lemmatize:
                 word = lemmatizer(token.orth_, token.pos_)[0]
             else:
-                word = token
+                word = token.orth_
             if word in freq_dict:
                 freq_dict[word]+=1
             else:
@@ -59,6 +59,23 @@ def create_freq_dict(sentdf, lang, lemmatize=True):
         freqDict_list.append(temp)
     return freqDict_list
 ##
+
+def _createFreqDictString(sentence, lang, lemmatize = True):
+    nlp = spacy.load(lang)
+    freq_dict ={}
+    words = nlp(text)
+    words = [token for token in words if not (token.is_punct or not token.is_alpha)]
+    for token in words:
+        if lemmatize:
+            word = lemmatizer(token.orth_, token.pos_)[0]
+        else:
+            word = token.orth_
+        if word in freq_dict: 
+            freq_dict[word]+=1
+        else:
+            freq_dict[word]=1
+    return {'freq_dict':freq_dict}
+
 def computeTF(doc_info, freqDict_list):
     """
     A function to compute the Term Frequency for every term in a document, given that a frequencyDictionary list is passed, as well as the document own info.
@@ -138,5 +155,4 @@ def getTopTerms(corpus, numterms, lang, lemmatize=True):
         s = slice(0, len(sortedList))
     
     return [entry['key'] for entry in sortedList[s]]
-
 

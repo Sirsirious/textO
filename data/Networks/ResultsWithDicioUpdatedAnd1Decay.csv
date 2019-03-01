@@ -1,0 +1,6 @@
+,Network,DecayRate,PreciseHits,Pct Hits,Window,HitsInWindow,PctHitsInWindow
+0,FinalWithWHWordsWithDicio2NR,0.1,46,0.092,20,208,0.416
+1,FinalWithWHWordsWithDicio2NR,0.2,46,0.092,20,204,0.408
+2,FinalWithWHWordsWithDicio2NR,0.3,47,0.094,20,208,0.416
+3,FinalWithWHWordsWithDicio2NR,0.4,44,0.088,20,207,0.414
+4,FinalWithWHWordsWithDicio2NR,0.5,42,0.084,20,198,0.396
